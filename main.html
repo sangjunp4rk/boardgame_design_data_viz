@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Designing the Perfect Board Game</title>
+<!--     <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon"> -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+    <script type="module">
+      import {Runtime, Inspector} from "https://unpkg.com/@observablehq/notebook-runtime?module";
+      import notebook from "https://api.observablehq.com/@tigerlily-he/a5-designing-the-perfect-board-game/2.js";
+      Runtime.load(notebook, (cell) => {
+        if (cell.name === "chart") {
+          return {
+            fulfilled: (value) => {
+              document.getElementById("category_data_viz").appendChild(value);
+            }
+          };
+        }
+      });
+    </script>
+
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!-- WELCOME PANEL -->
+    <div class="row panel" id="welcome_panel">
+      <div class="col-lg-12" id="welcome_header">
+        Designing the Perfect <br/>
+        BOARDGAME!
+      </div>
+
+      <a href="#rules_panel">
+        <button type="button" class="btn btn-primary" id="welcome_button">Let's Get Started</button>
+      </a>
+    </div>
+
+    <!-- RULES PANEL -->
+    <div class="row panel" id="rules_panel">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-1">
+          </div>
+          <div class="col-lg-11">
+            <div class="row" id="rules_header">
+              Rules of the Game
+            </div>
+
+            <div class="row" id="rules_list">
+              <div class="col-lg-6">
+                1) Consectetur adipiscing elit. Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.  <br/>
+                2) Lorem ipsum dolor sit amet. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et. <br/>
+                3) Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.  
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-5">
+          </div>
+          <div class="col-lg-1">
+            <a href="#category_panel" id="rules_arrow_div">
+              <img src="images/angle-double-down.svg" class="down_arrow"/>
+            </a>
+          </div>
+        </div>
+      </div>
+
+
+
+    </div>
+
+    <!-- CATEGORY PANEL -->
+    <div class="row panel" id="category_panel">
+      <div class="col-lg-8" id="category_data_viz">
+      </div>
+
+      <div class="col-lg-4">
+        <div class="row" id="category_header">
+          Category Exploration
+        </div>
+
+        <div class="row" id="category_text">
+          Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.
+        </div>
+      </div>
+
+    </div>
+
+    <!-- NUM OF PLAYERS PANEL -->
+    <div class="row panel" id="num_of_players_panel">
+
+    </div>
+
+  </body>
+</html>
