@@ -27,7 +27,26 @@ def weight_bins(raw_weight):
 	else:
 		return "x >= 5"
 
-# key is mechanics
+"""
+Structure of game_dict
+{
+	"mechanics": {
+		{"weight_bin": count in int, "weight_bin_2: count in int"}
+	},
+	"mechanics2": {
+		{"weight_bin": count in int}
+	}
+}
+
+
+[
+	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Simultaneous Action Selection'}, 
+	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Area Control / Area Influence'}, 
+	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Auction/Bidding'}, 
+	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Dice Rolling'}, 
+	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Hand Management'}
+]
+"""
 game_dict = {}
 
 f = open('mechanics_games_data.csv', 'rb')
@@ -52,11 +71,6 @@ for row in reader:
 		else:
 			game_dict[mechanic] = {binned_weight: 1}
 
-
-# for mechanic in game_dict:
-# 	print mechanic
-
-
 output_data_json = []
 output_data = []
 
@@ -66,12 +80,8 @@ for mechanic in game_dict:
 	print temp_dict
 
 	for weight in temp_dict:
-		# temp_json_string = json.dumps({"mechanic": mechanic, "weight": weight, "count": temp_dict[weight]})
-		# output_data_json.append(temp_json_string)
 
 		output_data.append({"mechanic": mechanic, "weight": weight, "count": temp_dict[weight]})
-
-print output_data
 
 f = open("formatted_data.txt", "w")
 f.write(json.dumps(output_data, indent=4))
