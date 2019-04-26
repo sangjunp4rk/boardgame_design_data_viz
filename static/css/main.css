@@ -89,3 +89,13 @@ html {
 #num_of_players_panel {
 	background-color: lightgrey;
 }
+
+#num_of_players_header {
+	font-size: 3rem;
+	padding-top: 3vh;
+}
+
+#num_of_players_text {
+	font-size: 1.5rem;
+	padding-top: 2vh;
+}
