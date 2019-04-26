@@ -39,6 +39,12 @@ html {
 	height: 10vh;
 }
 
+#monopoly_man_image {
+	position: absolute;
+	margin-left: -30vw;
+	margin-top: 30vh;
+}
+
 
 /** RULES PANEL **/
 
@@ -54,6 +60,11 @@ html {
 #rules_list {
 	padding-top: 2vh;
 	font-size: 1.5rem;
+}
+
+#rules_image {
+	position: absolute;
+
 }
 
 

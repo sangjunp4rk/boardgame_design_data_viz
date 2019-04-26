@@ -1,0 +1,2522 @@
+[
+    {
+        "count": 444, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 405, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 70, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 967, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 3785, 
+        "weight": "None or Zero", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 49, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 368, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 718, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 546, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 425, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 68, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 1099, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 10930, 
+        "weight": "None or Zero", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 82, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 29, 
+        "weight": "x >= 5", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 245, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 2367, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": ""
+    }, 
+    {
+        "count": 1087, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 831, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 143, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 115, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 5564, 
+        "weight": "None or Zero", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 2039, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 22, 
+        "weight": "x >= 5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 771, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 1731, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 173, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 246, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 54, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 423, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 1616, 
+        "weight": "None or Zero", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 54, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 17, 
+        "weight": "x >= 5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 218, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 140, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 335, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 520, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 103, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 887, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 2142, 
+        "weight": "None or Zero", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 100, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 19, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 45, 
+        "weight": "x >= 5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 464, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 396, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 21, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 30, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 219, 
+        "weight": "None or Zero", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 104, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 55, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 44, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 157, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 290, 
+        "weight": "None or Zero", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 10, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 78, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 50, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 68, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 882, 
+        "weight": "None or Zero", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 302, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 47, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 157, 
+        "weight": "None or Zero", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 31, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 48, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 20, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 81, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 303, 
+        "weight": "None or Zero", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 21, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 100, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 253, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 53, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 291, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 2457, 
+        "weight": "None or Zero", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 48, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 1017, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 267, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 316, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 67, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 70, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 1764, 
+        "weight": "None or Zero", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 560, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 8, 
+        "weight": "x >= 5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 249, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 517, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 43, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 109, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 32, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 103, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 258, 
+        "weight": "None or Zero", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 22, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 9, 
+        "weight": "x >= 5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 87, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 50, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 259, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 1108, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 400, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 1072, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 2334, 
+        "weight": "None or Zero", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 412, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 106, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 133, 
+        "weight": "x >= 5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 826, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 255, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 178, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 545, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 122, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 576, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 2021, 
+        "weight": "None or Zero", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 71, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 12, 
+        "weight": "x >= 5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 361, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 149, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 76, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 72, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 144, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 685, 
+        "weight": "None or Zero", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 20, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 42, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 306, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 100, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 27, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 156, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 1381, 
+        "weight": "None or Zero", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 25, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 630, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 72, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 122, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 236, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 780, 
+        "weight": "None or Zero", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 14, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 91, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 53, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 768, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 250, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 42, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 1144, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 5650, 
+        "weight": "None or Zero", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 33, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 3, 
+        "weight": "x >= 5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 255, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 1692, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 50, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 279, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 104, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 248, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 621, 
+        "weight": "None or Zero", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 43, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 5, 
+        "weight": "x >= 5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 206, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 50, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 73, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 65, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 142, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 841, 
+        "weight": "None or Zero", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 28, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 39, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 272, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 113, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 215, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 69, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 245, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 627, 
+        "weight": "None or Zero", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 48, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 17, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 27, 
+        "weight": "x >= 5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 147, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 125, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 236, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 475, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 127, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 73, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 1588, 
+        "weight": "None or Zero", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 672, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 6, 
+        "weight": "x >= 5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 372, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 165, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 598, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 169, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 766, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 10142, 
+        "weight": "None or Zero", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 19, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 13, 
+        "weight": "x >= 5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 114, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 2269, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 119, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 90, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 206, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 1211, 
+        "weight": "None or Zero", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 3, 
+        "weight": "x >= 5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 73, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 242, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 192, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 49, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 307, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 856, 
+        "weight": "None or Zero", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 3, 
+        "weight": "x >= 5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 49, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 303, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 113, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 211, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 43, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 461, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1244, 
+        "weight": "None or Zero", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 24, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 209, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 58, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 83, 
+        "weight": "None or Zero", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 124, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 207, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 48, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 329, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 1192, 
+        "weight": "None or Zero", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 71, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 10, 
+        "weight": "x >= 5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 130, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 201, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 223, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 294, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 55, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 528, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 2280, 
+        "weight": "None or Zero", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 44, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 11, 
+        "weight": "x >= 5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 197, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 467, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 158, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 59, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 247, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 909, 
+        "weight": "None or Zero", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 44, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 453, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 127, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 165, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 52, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 255, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 804, 
+        "weight": "None or Zero", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 45, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 5, 
+        "weight": "x >= 5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 129, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 281, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 133, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 48, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 221, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 742, 
+        "weight": "None or Zero", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 29, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 225, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 154, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 527, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 155, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 523, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 1929, 
+        "weight": "None or Zero", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 187, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 40, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 43, 
+        "weight": "x >= 5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 332, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 230, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 206, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 88, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 355, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1297, 
+        "weight": "None or Zero", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 17, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 4, 
+        "weight": "x >= 5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 78, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 467, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 36, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 152, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 51, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 115, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 571, 
+        "weight": "None or Zero", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 49, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 10, 
+        "weight": "x >= 5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 127, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 40, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 60, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 66, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 51, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 143, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 772, 
+        "weight": "None or Zero", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 55, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "x >= 5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 46, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 94, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 228, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 379, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 71, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 671, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 2718, 
+        "weight": "None or Zero", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 77, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 22, 
+        "weight": "x >= 5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 384, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 491, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 1021, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 1680, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 392, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 424, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 11814, 
+        "weight": "None or Zero", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 2694, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 52, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 106, 
+        "weight": "x >= 5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 1261, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 2513, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 197, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 186, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 351, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 1081, 
+        "weight": "None or Zero", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 28, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 4, 
+        "weight": "x >= 5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 153, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 428, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 87, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 144, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 68, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 216, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 559, 
+        "weight": "None or Zero", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 82, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 13, 
+        "weight": "x >= 5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 125, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 76, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 78, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 68, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 121, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 1106, 
+        "weight": "None or Zero", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 4, 
+        "weight": "x >= 5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 56, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 349, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 158, 
+        "weight": "None or Zero", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "x >= 5", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 77, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 30, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 47, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 78, 
+        "weight": "None or Zero", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 10, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 29, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 68, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 74, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 40, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 107, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 272, 
+        "weight": "None or Zero", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 18, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 62, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 55, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 234, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 135, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 49, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 430, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 2047, 
+        "weight": "None or Zero", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 30, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 3, 
+        "weight": "x >= 5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 141, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 263, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 491, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 303, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 110, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 819, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 2353, 
+        "weight": "None or Zero", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 106, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 12, 
+        "weight": "x >= 5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 287, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 590, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 76, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 194, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 53, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 326, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 939, 
+        "weight": "None or Zero", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 30, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 183, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 78, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 125, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 45, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 192, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 954, 
+        "weight": "None or Zero", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 2, 
+        "weight": "x >= 5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 30, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 320, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 173, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 363, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 93, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 586, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 1489, 
+        "weight": "None or Zero", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 57, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "x >= 5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 341, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 194, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 268, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 267, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 86, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 63, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 1613, 
+        "weight": "None or Zero", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 500, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 11, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "x >= 5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 249, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 283, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 500, 
+        "weight": "1.5 =< x < 2", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 963, 
+        "weight": "3 < x =< 3.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 222, 
+        "weight": "3.5 < x =< 4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 1448, 
+        "weight": "2 < x =< 2.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 3862, 
+        "weight": "None or Zero", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 188, 
+        "weight": "4 < x =< 4.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 10, 
+        "weight": "4.5 < x =< 5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 36, 
+        "weight": "x >= 5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 806, 
+        "weight": "2.5 < x =< 3", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 444, 
+        "weight": "1 =< x < 1.5", 
+        "mechanic": "Variable Player Powers"
+    }
+]
