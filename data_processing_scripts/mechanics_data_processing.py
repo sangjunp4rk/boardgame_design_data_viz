@@ -1,31 +1,18 @@
 import csv
 import json
 
+# [0.0, 0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.4, 1.6, 
+# 1.8, 2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 
+# 3.8, 4.0, 4.2, 4.4, 4.6, 4.8, 5.0]
+bin_ranges = [round (x * .2, 1) for x in range(0,26)]
+
 def weight_bins(raw_weight):
-	if raw_weight == None or raw_weight == 0:
-		return "None or Zero"
-	elif raw_weight > 0 and raw_weight < .5:
-		return "0 < x < .5"
-	elif raw_weight >= .5 and raw_weight < 1:
-		return ".6 =< x < 1"
-	elif raw_weight >= 1 and raw_weight < 1.5:
-		return "1 =< x < 1.5"
-	elif raw_weight >= 1.5 and raw_weight < 2:
-		return "1.5 =< x < 2"
-	elif raw_weight >= 2 and raw_weight < 2.5:
-		return "2 < x =< 2.5"
-	elif raw_weight >= 2.5 and raw_weight < 3:
-		return "2.5 < x =< 3"
-	elif raw_weight >= 3 and raw_weight < 3.5:
-		return "3 < x =< 3.5"
-	elif raw_weight >= 3.5 and raw_weight < 4:
-		return "3.5 < x =< 4"
-	elif raw_weight >= 4 and raw_weight < 4.5:
-		return "4 < x =< 4.5"
-	elif raw_weight >= 4.5 and raw_weight < 5:
-		return "4.5 < x =< 5"
-	else:
-		return "x >= 5"
+	if raw_weight == None:
+		return "NaN"
+
+	for upper_bound in bin_ranges:
+		if raw_weight <= upper_bound:
+			return str(upper_bound)
 
 """
 Structure of game_dict
@@ -38,14 +25,23 @@ Structure of game_dict
 	}
 }
 
-
+Final output 
 [
-	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Simultaneous Action Selection'}, 
-	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Area Control / Area Influence'}, 
-	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Auction/Bidding'}, 
-	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Dice Rolling'}, 
-	{'count': 1, 'weight': '4 < x =< 4.5', 'mechanic': 'Hand Management'}
-]
+    {
+        "count": 128, 
+        "weight": "1.4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 199, 
+        "weight": "1.6", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 512, 
+        "weight": "1.0", 
+        "mechanic": "Card Drafting"
+    }, 
 """
 game_dict = {}
 
