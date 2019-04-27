@@ -4,7 +4,7 @@ import json
 # [0.0, 0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.4, 1.6, 
 # 1.8, 2.0, 2.2, 2.4, 2.6, 2.8, 3.0, 3.2, 3.4, 3.6, 
 # 3.8, 4.0, 4.2, 4.4, 4.6, 4.8, 5.0]
-bin_ranges = [round (x * .2, 1) for x in range(0,26)]
+bin_ranges = [round (x * .2, 1) for x in range(5,26)]
 
 def weight_bins(raw_weight):
 	if raw_weight == None:
@@ -58,6 +58,8 @@ for row in reader:
 	mechanics_split = mechanics_raw_string.split(',')
 
 	for mechanic in mechanics_split:
+		if mechanic == "":
+			continue
 		if mechanic in game_dict:
 			temp_dict = game_dict[mechanic]
 			if binned_weight in temp_dict:

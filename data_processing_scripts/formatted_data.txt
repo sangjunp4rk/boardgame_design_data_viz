@@ -5,13 +5,28 @@
         "mechanic": "Card Drafting"
     }, 
     {
+        "count": 4, 
+        "weight": "4.4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
         "count": 199, 
         "weight": "1.6", 
         "mechanic": "Card Drafting"
     }, 
     {
-        "count": 512, 
+        "count": 2, 
+        "weight": "4.6", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 4297, 
         "weight": "1.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 46, 
+        "weight": "4.0", 
         "mechanic": "Card Drafting"
     }, 
     {
@@ -20,13 +35,18 @@
         "mechanic": "Card Drafting"
     }, 
     {
-        "count": 3785, 
-        "weight": "0.0", 
+        "count": 7, 
+        "weight": "4.2", 
         "mechanic": "Card Drafting"
     }, 
     {
         "count": 151, 
         "weight": "1.8", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
         "mechanic": "Card Drafting"
     }, 
     {
@@ -65,6 +85,11 @@
         "mechanic": "Card Drafting"
     }, 
     {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
         "count": 176, 
         "weight": "2.6", 
         "mechanic": "Card Drafting"
@@ -80,143 +105,13 @@
         "mechanic": "Card Drafting"
     }, 
     {
-        "count": 2, 
-        "weight": "5.0", 
-        "mechanic": "Card Drafting"
-    }, 
-    {
-        "count": 4, 
-        "weight": "4.4", 
-        "mechanic": "Card Drafting"
-    }, 
-    {
-        "count": 2, 
-        "weight": "4.6", 
-        "mechanic": "Card Drafting"
-    }, 
-    {
-        "count": 46, 
-        "weight": "4.0", 
-        "mechanic": "Card Drafting"
+        "count": 400, 
+        "weight": "1.4", 
+        "mechanic": "Hand Management"
     }, 
     {
         "count": 7, 
-        "weight": "4.2", 
-        "mechanic": "Card Drafting"
-    }, 
-    {
-        "count": 2, 
-        "weight": "4.8", 
-        "mechanic": "Card Drafting"
-    }, 
-    {
-        "count": 297, 
-        "weight": "1.4", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 29, 
-        "weight": "5.0", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 346, 
-        "weight": "1.6", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 4, 
-        "weight": "4.6", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 1800, 
-        "weight": "1.0", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 79, 
-        "weight": "4.0", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 224, 
-        "weight": "1.2", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 3, 
-        "weight": "4.2", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 10930, 
-        "weight": "0.0", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 178, 
-        "weight": "1.8", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 51, 
-        "weight": "3.6", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 33, 
-        "weight": "3.4", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 84, 
-        "weight": "2.8", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 11, 
-        "weight": "3.2", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 395, 
-        "weight": "3.0", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 4, 
         "weight": "4.4", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 73, 
-        "weight": "2.2", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 958, 
-        "weight": "2.0", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 162, 
-        "weight": "2.6", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 17, 
-        "weight": "3.8", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 117, 
-        "weight": "2.4", 
-        "mechanic": ""
-    }, 
-    {
-        "count": 400, 
-        "weight": "1.4", 
         "mechanic": "Hand Management"
     }, 
     {
@@ -225,8 +120,18 @@
         "mechanic": "Hand Management"
     }, 
     {
-        "count": 1041, 
+        "count": 3, 
+        "weight": "4.6", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 6605, 
         "weight": "1.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 122, 
+        "weight": "4.0", 
         "mechanic": "Hand Management"
     }, 
     {
@@ -235,13 +140,18 @@
         "mechanic": "Hand Management"
     }, 
     {
-        "count": 5564, 
-        "weight": "0.0", 
+        "count": 10, 
+        "weight": "4.2", 
         "mechanic": "Hand Management"
     }, 
     {
         "count": 421, 
         "weight": "1.8", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
         "mechanic": "Hand Management"
     }, 
     {
@@ -280,6 +190,11 @@
         "mechanic": "Hand Management"
     }, 
     {
+        "count": 22, 
+        "weight": "5.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
         "count": 413, 
         "weight": "2.6", 
         "mechanic": "Hand Management"
@@ -292,36 +207,6 @@
     {
         "count": 446, 
         "weight": "2.4", 
-        "mechanic": "Hand Management"
-    }, 
-    {
-        "count": 22, 
-        "weight": "5.0", 
-        "mechanic": "Hand Management"
-    }, 
-    {
-        "count": 7, 
-        "weight": "4.4", 
-        "mechanic": "Hand Management"
-    }, 
-    {
-        "count": 3, 
-        "weight": "4.6", 
-        "mechanic": "Hand Management"
-    }, 
-    {
-        "count": 122, 
-        "weight": "4.0", 
-        "mechanic": "Hand Management"
-    }, 
-    {
-        "count": 10, 
-        "weight": "4.2", 
-        "mechanic": "Hand Management"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.8", 
         "mechanic": "Hand Management"
     }, 
     {
@@ -345,7 +230,7 @@
         "mechanic": "Grid Movement"
     }, 
     {
-        "count": 86, 
+        "count": 1702, 
         "weight": "1.0", 
         "mechanic": "Grid Movement"
     }, 
@@ -362,11 +247,6 @@
     {
         "count": 7, 
         "weight": "4.2", 
-        "mechanic": "Grid Movement"
-    }, 
-    {
-        "count": 1616, 
-        "weight": "0.0", 
         "mechanic": "Grid Movement"
     }, 
     {
@@ -435,13 +315,28 @@
         "mechanic": "Modular Board"
     }, 
     {
+        "count": 45, 
+        "weight": "5.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
         "count": 150, 
         "weight": "1.6", 
         "mechanic": "Modular Board"
     }, 
     {
-        "count": 248, 
+        "count": 14, 
+        "weight": "4.6", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 2390, 
         "weight": "1.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 81, 
+        "weight": "4.0", 
         "mechanic": "Modular Board"
     }, 
     {
@@ -450,13 +345,18 @@
         "mechanic": "Modular Board"
     }, 
     {
-        "count": 2142, 
-        "weight": "0.0", 
+        "count": 20, 
+        "weight": "4.2", 
         "mechanic": "Modular Board"
     }, 
     {
         "count": 127, 
         "weight": "1.8", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.8", 
         "mechanic": "Modular Board"
     }, 
     {
@@ -485,6 +385,11 @@
         "mechanic": "Modular Board"
     }, 
     {
+        "count": 12, 
+        "weight": "4.4", 
+        "mechanic": "Modular Board"
+    }, 
+    {
         "count": 124, 
         "weight": "2.2", 
         "mechanic": "Modular Board"
@@ -510,36 +415,6 @@
         "mechanic": "Modular Board"
     }, 
     {
-        "count": 45, 
-        "weight": "5.0", 
-        "mechanic": "Modular Board"
-    }, 
-    {
-        "count": 12, 
-        "weight": "4.4", 
-        "mechanic": "Modular Board"
-    }, 
-    {
-        "count": 14, 
-        "weight": "4.6", 
-        "mechanic": "Modular Board"
-    }, 
-    {
-        "count": 81, 
-        "weight": "4.0", 
-        "mechanic": "Modular Board"
-    }, 
-    {
-        "count": 20, 
-        "weight": "4.2", 
-        "mechanic": "Modular Board"
-    }, 
-    {
-        "count": 9, 
-        "weight": "4.8", 
-        "mechanic": "Modular Board"
-    }, 
-    {
         "count": 20, 
         "weight": "1.4", 
         "mechanic": "Line Drawing"
@@ -555,7 +430,7 @@
         "mechanic": "Line Drawing"
     }, 
     {
-        "count": 60, 
+        "count": 279, 
         "weight": "1.0", 
         "mechanic": "Line Drawing"
     }, 
@@ -572,11 +447,6 @@
     {
         "count": 2, 
         "weight": "4.2", 
-        "mechanic": "Line Drawing"
-    }, 
-    {
-        "count": 219, 
-        "weight": "0.0", 
         "mechanic": "Line Drawing"
     }, 
     {
@@ -640,7 +510,7 @@
         "mechanic": "Area Enclosure"
     }, 
     {
-        "count": 52, 
+        "count": 342, 
         "weight": "1.0", 
         "mechanic": "Area Enclosure"
     }, 
@@ -657,11 +527,6 @@
     {
         "count": 1, 
         "weight": "4.2", 
-        "mechanic": "Area Enclosure"
-    }, 
-    {
-        "count": 290, 
-        "weight": "0.0", 
         "mechanic": "Area Enclosure"
     }, 
     {
@@ -735,7 +600,7 @@
         "mechanic": "Acting"
     }, 
     {
-        "count": 218, 
+        "count": 1100, 
         "weight": "1.0", 
         "mechanic": "Acting"
     }, 
@@ -747,11 +612,6 @@
     {
         "count": 37, 
         "weight": "1.2", 
-        "mechanic": "Acting"
-    }, 
-    {
-        "count": 882, 
-        "weight": "0.0", 
         "mechanic": "Acting"
     }, 
     {
@@ -815,18 +675,13 @@
         "mechanic": "Time Track"
     }, 
     {
-        "count": 17, 
+        "count": 174, 
         "weight": "1.0", 
         "mechanic": "Time Track"
     }, 
     {
         "count": 8, 
         "weight": "4.0", 
-        "mechanic": "Time Track"
-    }, 
-    {
-        "count": 157, 
-        "weight": "0.0", 
         "mechanic": "Time Track"
     }, 
     {
@@ -910,7 +765,7 @@
         "mechanic": "Rock-Paper-Scissors"
     }, 
     {
-        "count": 70, 
+        "count": 373, 
         "weight": "1.0", 
         "mechanic": "Rock-Paper-Scissors"
     }, 
@@ -922,11 +777,6 @@
     {
         "count": 12, 
         "weight": "1.2", 
-        "mechanic": "Rock-Paper-Scissors"
-    }, 
-    {
-        "count": 303, 
-        "weight": "0.0", 
         "mechanic": "Rock-Paper-Scissors"
     }, 
     {
@@ -990,7 +840,7 @@
         "mechanic": "Memory"
     }, 
     {
-        "count": 747, 
+        "count": 3204, 
         "weight": "1.0", 
         "mechanic": "Memory"
     }, 
@@ -1007,11 +857,6 @@
     {
         "count": 1, 
         "weight": "4.2", 
-        "mechanic": "Memory"
-    }, 
-    {
-        "count": 2457, 
-        "weight": "0.0", 
         "mechanic": "Memory"
     }, 
     {
@@ -1080,13 +925,28 @@
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
+        "count": 8, 
+        "weight": "4.4", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
         "count": 113, 
         "weight": "1.6", 
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
-        "count": 309, 
+        "count": 3, 
+        "weight": "4.6", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 2073, 
         "weight": "1.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 57, 
+        "weight": "4.0", 
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
@@ -1095,13 +955,18 @@
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
-        "count": 1764, 
-        "weight": "0.0", 
+        "count": 9, 
+        "weight": "4.2", 
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
         "count": 112, 
         "weight": "1.8", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
@@ -1140,6 +1005,11 @@
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
+        "count": 10, 
+        "weight": "5.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
         "count": 141, 
         "weight": "2.6", 
         "mechanic": "Simultaneous Action Selection"
@@ -1152,36 +1022,6 @@
     {
         "count": 121, 
         "weight": "2.4", 
-        "mechanic": "Simultaneous Action Selection"
-    }, 
-    {
-        "count": 10, 
-        "weight": "5.0", 
-        "mechanic": "Simultaneous Action Selection"
-    }, 
-    {
-        "count": 8, 
-        "weight": "4.4", 
-        "mechanic": "Simultaneous Action Selection"
-    }, 
-    {
-        "count": 3, 
-        "weight": "4.6", 
-        "mechanic": "Simultaneous Action Selection"
-    }, 
-    {
-        "count": 57, 
-        "weight": "4.0", 
-        "mechanic": "Simultaneous Action Selection"
-    }, 
-    {
-        "count": 9, 
-        "weight": "4.2", 
-        "mechanic": "Simultaneous Action Selection"
-    }, 
-    {
-        "count": 2, 
-        "weight": "4.8", 
         "mechanic": "Simultaneous Action Selection"
     }, 
     {
@@ -1200,7 +1040,7 @@
         "mechanic": "Chit-Pull System"
     }, 
     {
-        "count": 40, 
+        "count": 298, 
         "weight": "1.0", 
         "mechanic": "Chit-Pull System"
     }, 
@@ -1217,11 +1057,6 @@
     {
         "count": 2, 
         "weight": "4.4", 
-        "mechanic": "Chit-Pull System"
-    }, 
-    {
-        "count": 258, 
-        "weight": "0.0", 
         "mechanic": "Chit-Pull System"
     }, 
     {
@@ -1290,18 +1125,33 @@
         "mechanic": "Chit-Pull System"
     }, 
     {
+        "count": 147, 
+        "weight": "5.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 92, 
+        "weight": "4.4", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
         "count": 34, 
         "weight": "1.4", 
         "mechanic": "Hex-and-Counter"
     }, 
     {
-        "count": 119, 
-        "weight": "1.6", 
+        "count": 78, 
+        "weight": "4.6", 
         "mechanic": "Hex-and-Counter"
     }, 
     {
-        "count": 209, 
+        "count": 2543, 
         "weight": "1.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 292, 
+        "weight": "4.0", 
         "mechanic": "Hex-and-Counter"
     }, 
     {
@@ -1310,13 +1160,23 @@
         "mechanic": "Hex-and-Counter"
     }, 
     {
-        "count": 2334, 
-        "weight": "0.0", 
+        "count": 76, 
+        "weight": "4.2", 
         "mechanic": "Hex-and-Counter"
     }, 
     {
         "count": 93, 
         "weight": "1.8", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 119, 
+        "weight": "1.6", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 35, 
+        "weight": "4.8", 
         "mechanic": "Hex-and-Counter"
     }, 
     {
@@ -1370,38 +1230,13 @@
         "mechanic": "Hex-and-Counter"
     }, 
     {
-        "count": 147, 
-        "weight": "5.0", 
-        "mechanic": "Hex-and-Counter"
-    }, 
-    {
-        "count": 92, 
-        "weight": "4.4", 
-        "mechanic": "Hex-and-Counter"
-    }, 
-    {
-        "count": 78, 
-        "weight": "4.6", 
-        "mechanic": "Hex-and-Counter"
-    }, 
-    {
-        "count": 292, 
-        "weight": "4.0", 
-        "mechanic": "Hex-and-Counter"
-    }, 
-    {
-        "count": 76, 
-        "weight": "4.2", 
-        "mechanic": "Hex-and-Counter"
-    }, 
-    {
-        "count": 35, 
-        "weight": "4.8", 
-        "mechanic": "Hex-and-Counter"
-    }, 
-    {
         "count": 35, 
         "weight": "1.4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 12, 
+        "weight": "5.0", 
         "mechanic": "Action Point Allowance System"
     }, 
     {
@@ -1410,8 +1245,18 @@
         "mechanic": "Action Point Allowance System"
     }, 
     {
-        "count": 104, 
+        "count": 5, 
+        "weight": "4.6", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 2125, 
         "weight": "1.0", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 77, 
+        "weight": "4.0", 
         "mechanic": "Action Point Allowance System"
     }, 
     {
@@ -1420,13 +1265,23 @@
         "mechanic": "Action Point Allowance System"
     }, 
     {
-        "count": 2021, 
-        "weight": "0.0", 
+        "count": 7, 
+        "weight": "4.4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.2", 
         "mechanic": "Action Point Allowance System"
     }, 
     {
         "count": 69, 
         "weight": "1.8", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
         "mechanic": "Action Point Allowance System"
     }, 
     {
@@ -1480,36 +1335,6 @@
         "mechanic": "Action Point Allowance System"
     }, 
     {
-        "count": 12, 
-        "weight": "5.0", 
-        "mechanic": "Action Point Allowance System"
-    }, 
-    {
-        "count": 7, 
-        "weight": "4.4", 
-        "mechanic": "Action Point Allowance System"
-    }, 
-    {
-        "count": 5, 
-        "weight": "4.6", 
-        "mechanic": "Action Point Allowance System"
-    }, 
-    {
-        "count": 77, 
-        "weight": "4.0", 
-        "mechanic": "Action Point Allowance System"
-    }, 
-    {
-        "count": 3, 
-        "weight": "4.2", 
-        "mechanic": "Action Point Allowance System"
-    }, 
-    {
-        "count": 2, 
-        "weight": "4.8", 
-        "mechanic": "Action Point Allowance System"
-    }, 
-    {
         "count": 66, 
         "weight": "1.4", 
         "mechanic": "Voting"
@@ -1525,7 +1350,7 @@
         "mechanic": "Voting"
     }, 
     {
-        "count": 181, 
+        "count": 866, 
         "weight": "1.0", 
         "mechanic": "Voting"
     }, 
@@ -1542,11 +1367,6 @@
     {
         "count": 3, 
         "weight": "4.2", 
-        "mechanic": "Voting"
-    }, 
-    {
-        "count": 685, 
-        "weight": "0.0", 
         "mechanic": "Voting"
     }, 
     {
@@ -1630,7 +1450,7 @@
         "mechanic": "Pattern Recognition"
     }, 
     {
-        "count": 488, 
+        "count": 1869, 
         "weight": "1.0", 
         "mechanic": "Pattern Recognition"
     }, 
@@ -1647,11 +1467,6 @@
     {
         "count": 1, 
         "weight": "4.4", 
-        "mechanic": "Pattern Recognition"
-    }, 
-    {
-        "count": 1381, 
-        "weight": "0.0", 
         "mechanic": "Pattern Recognition"
     }, 
     {
@@ -1725,7 +1540,7 @@
         "mechanic": "Action / Movement Programming"
     }, 
     {
-        "count": 34, 
+        "count": 814, 
         "weight": "1.0", 
         "mechanic": "Action / Movement Programming"
     }, 
@@ -1742,11 +1557,6 @@
     {
         "count": 3, 
         "weight": "4.2", 
-        "mechanic": "Action / Movement Programming"
-    }, 
-    {
-        "count": 780, 
-        "weight": "0.0", 
         "mechanic": "Action / Movement Programming"
     }, 
     {
@@ -1825,7 +1635,7 @@
         "mechanic": "Set Collection"
     }, 
     {
-        "count": 1177, 
+        "count": 6827, 
         "weight": "1.0", 
         "mechanic": "Set Collection"
     }, 
@@ -1842,11 +1652,6 @@
     {
         "count": 2, 
         "weight": "4.2", 
-        "mechanic": "Set Collection"
-    }, 
-    {
-        "count": 5650, 
-        "weight": "0.0", 
         "mechanic": "Set Collection"
     }, 
     {
@@ -1920,13 +1725,28 @@
         "mechanic": "Worker Placement"
     }, 
     {
+        "count": 6, 
+        "weight": "4.4", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
         "count": 15, 
         "weight": "1.6", 
         "mechanic": "Worker Placement"
     }, 
     {
-        "count": 42, 
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 663, 
         "weight": "1.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 49, 
+        "weight": "4.0", 
         "mechanic": "Worker Placement"
     }, 
     {
@@ -1935,13 +1755,18 @@
         "mechanic": "Worker Placement"
     }, 
     {
-        "count": 621, 
-        "weight": "0.0", 
+        "count": 7, 
+        "weight": "4.2", 
         "mechanic": "Worker Placement"
     }, 
     {
         "count": 22, 
         "weight": "1.8", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
         "mechanic": "Worker Placement"
     }, 
     {
@@ -1980,6 +1805,11 @@
         "mechanic": "Worker Placement"
     }, 
     {
+        "count": 5, 
+        "weight": "5.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
         "count": 88, 
         "weight": "2.6", 
         "mechanic": "Worker Placement"
@@ -1992,36 +1822,6 @@
     {
         "count": 67, 
         "weight": "2.4", 
-        "mechanic": "Worker Placement"
-    }, 
-    {
-        "count": 5, 
-        "weight": "5.0", 
-        "mechanic": "Worker Placement"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.4", 
-        "mechanic": "Worker Placement"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.6", 
-        "mechanic": "Worker Placement"
-    }, 
-    {
-        "count": 49, 
-        "weight": "4.0", 
-        "mechanic": "Worker Placement"
-    }, 
-    {
-        "count": 7, 
-        "weight": "4.2", 
-        "mechanic": "Worker Placement"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.8", 
         "mechanic": "Worker Placement"
     }, 
     {
@@ -2045,7 +1845,7 @@
         "mechanic": "Paper-and-Pencil"
     }, 
     {
-        "count": 193, 
+        "count": 1034, 
         "weight": "1.0", 
         "mechanic": "Paper-and-Pencil"
     }, 
@@ -2062,11 +1862,6 @@
     {
         "count": 8, 
         "weight": "4.4", 
-        "mechanic": "Paper-and-Pencil"
-    }, 
-    {
-        "count": 841, 
-        "weight": "0.0", 
         "mechanic": "Paper-and-Pencil"
     }, 
     {
@@ -2125,8 +1920,13 @@
         "mechanic": "Paper-and-Pencil"
     }, 
     {
-        "count": 18, 
-        "weight": "1.4", 
+        "count": 28, 
+        "weight": "5.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.4", 
         "mechanic": "Secret Unit Deployment"
     }, 
     {
@@ -2135,8 +1935,18 @@
         "mechanic": "Secret Unit Deployment"
     }, 
     {
-        "count": 91, 
+        "count": 8, 
+        "weight": "4.6", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 718, 
         "weight": "1.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 39, 
+        "weight": "4.0", 
         "mechanic": "Secret Unit Deployment"
     }, 
     {
@@ -2145,13 +1955,23 @@
         "mechanic": "Secret Unit Deployment"
     }, 
     {
-        "count": 627, 
-        "weight": "0.0", 
+        "count": 8, 
+        "weight": "4.2", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.4", 
         "mechanic": "Secret Unit Deployment"
     }, 
     {
         "count": 47, 
         "weight": "1.8", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.8", 
         "mechanic": "Secret Unit Deployment"
     }, 
     {
@@ -2205,38 +2025,13 @@
         "mechanic": "Secret Unit Deployment"
     }, 
     {
-        "count": 28, 
-        "weight": "5.0", 
-        "mechanic": "Secret Unit Deployment"
-    }, 
-    {
-        "count": 9, 
-        "weight": "4.4", 
-        "mechanic": "Secret Unit Deployment"
-    }, 
-    {
-        "count": 8, 
-        "weight": "4.6", 
-        "mechanic": "Secret Unit Deployment"
-    }, 
-    {
-        "count": 39, 
-        "weight": "4.0", 
-        "mechanic": "Secret Unit Deployment"
-    }, 
-    {
-        "count": 8, 
-        "weight": "4.2", 
-        "mechanic": "Secret Unit Deployment"
-    }, 
-    {
-        "count": 9, 
-        "weight": "4.8", 
-        "mechanic": "Secret Unit Deployment"
-    }, 
-    {
         "count": 33, 
         "weight": "1.4", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.4", 
         "mechanic": "Area Control / Area Influence"
     }, 
     {
@@ -2245,8 +2040,18 @@
         "mechanic": "Area Control / Area Influence"
     }, 
     {
-        "count": 106, 
+        "count": 5, 
+        "weight": "4.6", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 1694, 
         "weight": "1.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 77, 
+        "weight": "4.0", 
         "mechanic": "Area Control / Area Influence"
     }, 
     {
@@ -2255,13 +2060,18 @@
         "mechanic": "Area Control / Area Influence"
     }, 
     {
-        "count": 1588, 
-        "weight": "0.0", 
+        "count": 7, 
+        "weight": "4.2", 
         "mechanic": "Area Control / Area Influence"
     }, 
     {
         "count": 102, 
         "weight": "1.8", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.8", 
         "mechanic": "Area Control / Area Influence"
     }, 
     {
@@ -2300,6 +2110,11 @@
         "mechanic": "Area Control / Area Influence"
     }, 
     {
+        "count": 6, 
+        "weight": "5.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
         "count": 197, 
         "weight": "2.6", 
         "mechanic": "Area Control / Area Influence"
@@ -2312,36 +2127,6 @@
     {
         "count": 191, 
         "weight": "2.4", 
-        "mechanic": "Area Control / Area Influence"
-    }, 
-    {
-        "count": 6, 
-        "weight": "5.0", 
-        "mechanic": "Area Control / Area Influence"
-    }, 
-    {
-        "count": 8, 
-        "weight": "4.4", 
-        "mechanic": "Area Control / Area Influence"
-    }, 
-    {
-        "count": 5, 
-        "weight": "4.6", 
-        "mechanic": "Area Control / Area Influence"
-    }, 
-    {
-        "count": 77, 
-        "weight": "4.0", 
-        "mechanic": "Area Control / Area Influence"
-    }, 
-    {
-        "count": 7, 
-        "weight": "4.2", 
-        "mechanic": "Area Control / Area Influence"
-    }, 
-    {
-        "count": 3, 
-        "weight": "4.8", 
         "mechanic": "Area Control / Area Influence"
     }, 
     {
@@ -2365,7 +2150,7 @@
         "mechanic": "Roll / Spin and Move"
     }, 
     {
-        "count": 1834, 
+        "count": 11976, 
         "weight": "1.0", 
         "mechanic": "Roll / Spin and Move"
     }, 
@@ -2377,11 +2162,6 @@
     {
         "count": 121, 
         "weight": "1.2", 
-        "mechanic": "Roll / Spin and Move"
-    }, 
-    {
-        "count": 10142, 
-        "weight": "0.0", 
         "mechanic": "Roll / Spin and Move"
     }, 
     {
@@ -2455,7 +2235,7 @@
         "mechanic": "Player Elimination"
     }, 
     {
-        "count": 138, 
+        "count": 1349, 
         "weight": "1.0", 
         "mechanic": "Player Elimination"
     }, 
@@ -2467,11 +2247,6 @@
     {
         "count": 29, 
         "weight": "1.2", 
-        "mechanic": "Player Elimination"
-    }, 
-    {
-        "count": 1211, 
-        "weight": "0.0", 
         "mechanic": "Player Elimination"
     }, 
     {
@@ -2545,7 +2320,7 @@
         "mechanic": "Take That"
     }, 
     {
-        "count": 176, 
+        "count": 1032, 
         "weight": "1.0", 
         "mechanic": "Take That"
     }, 
@@ -2557,11 +2332,6 @@
     {
         "count": 36, 
         "weight": "1.2", 
-        "mechanic": "Take That"
-    }, 
-    {
-        "count": 856, 
-        "weight": "0.0", 
         "mechanic": "Take That"
     }, 
     {
@@ -2640,7 +2410,7 @@
         "mechanic": "Deck / Pool Building"
     }, 
     {
-        "count": 41, 
+        "count": 1285, 
         "weight": "1.0", 
         "mechanic": "Deck / Pool Building"
     }, 
@@ -2657,11 +2427,6 @@
     {
         "count": 4, 
         "weight": "4.2", 
-        "mechanic": "Deck / Pool Building"
-    }, 
-    {
-        "count": 1244, 
-        "weight": "0.0", 
         "mechanic": "Deck / Pool Building"
     }, 
     {
@@ -2725,18 +2490,13 @@
         "mechanic": "Deck / Pool Building"
     }, 
     {
-        "count": 1, 
+        "count": 84, 
         "weight": "1.0", 
         "mechanic": "Crayon Rail System"
     }, 
     {
         "count": 1, 
         "weight": "4.0", 
-        "mechanic": "Crayon Rail System"
-    }, 
-    {
-        "count": 83, 
-        "weight": "0.0", 
         "mechanic": "Crayon Rail System"
     }, 
     {
@@ -2800,7 +2560,7 @@
         "mechanic": "Role Playing"
     }, 
     {
-        "count": 131, 
+        "count": 1323, 
         "weight": "1.0", 
         "mechanic": "Role Playing"
     }, 
@@ -2817,11 +2577,6 @@
     {
         "count": 3, 
         "weight": "4.2", 
-        "mechanic": "Role Playing"
-    }, 
-    {
-        "count": 1192, 
-        "weight": "0.0", 
         "mechanic": "Role Playing"
     }, 
     {
@@ -2905,7 +2660,7 @@
         "mechanic": "Point to Point Movement"
     }, 
     {
-        "count": 367, 
+        "count": 2647, 
         "weight": "1.0", 
         "mechanic": "Point to Point Movement"
     }, 
@@ -2922,11 +2677,6 @@
     {
         "count": 8, 
         "weight": "4.4", 
-        "mechanic": "Point to Point Movement"
-    }, 
-    {
-        "count": 2280, 
-        "weight": "0.0", 
         "mechanic": "Point to Point Movement"
     }, 
     {
@@ -3005,7 +2755,7 @@
         "mechanic": "Press Your Luck"
     }, 
     {
-        "count": 251, 
+        "count": 1160, 
         "weight": "1.0", 
         "mechanic": "Press Your Luck"
     }, 
@@ -3017,11 +2767,6 @@
     {
         "count": 93, 
         "weight": "1.2", 
-        "mechanic": "Press Your Luck"
-    }, 
-    {
-        "count": 909, 
-        "weight": "0.0", 
         "mechanic": "Press Your Luck"
     }, 
     {
@@ -3100,7 +2845,7 @@
         "mechanic": "Pick-up and Deliver"
     }, 
     {
-        "count": 211, 
+        "count": 1015, 
         "weight": "1.0", 
         "mechanic": "Pick-up and Deliver"
     }, 
@@ -3117,11 +2862,6 @@
     {
         "count": 7, 
         "weight": "4.2", 
-        "mechanic": "Pick-up and Deliver"
-    }, 
-    {
-        "count": 804, 
-        "weight": "0.0", 
         "mechanic": "Pick-up and Deliver"
     }, 
     {
@@ -3200,7 +2940,7 @@
         "mechanic": "Trick-taking"
     }, 
     {
-        "count": 147, 
+        "count": 889, 
         "weight": "1.0", 
         "mechanic": "Trick-taking"
     }, 
@@ -3212,11 +2952,6 @@
     {
         "count": 14, 
         "weight": "1.2", 
-        "mechanic": "Trick-taking"
-    }, 
-    {
-        "count": 742, 
-        "weight": "0.0", 
         "mechanic": "Trick-taking"
     }, 
     {
@@ -3275,8 +3010,13 @@
         "mechanic": "Trick-taking"
     }, 
     {
-        "count": 22, 
-        "weight": "1.4", 
+        "count": 48, 
+        "weight": "5.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 45, 
+        "weight": "4.4", 
         "mechanic": "Simulation"
     }, 
     {
@@ -3285,8 +3025,18 @@
         "mechanic": "Simulation"
     }, 
     {
-        "count": 188, 
+        "count": 32, 
+        "weight": "4.6", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 2117, 
         "weight": "1.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 132, 
+        "weight": "4.0", 
         "mechanic": "Simulation"
     }, 
     {
@@ -3295,13 +3045,23 @@
         "mechanic": "Simulation"
     }, 
     {
-        "count": 1929, 
-        "weight": "0.0", 
+        "count": 23, 
+        "weight": "4.2", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.4", 
         "mechanic": "Simulation"
     }, 
     {
         "count": 54, 
         "weight": "1.8", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4.8", 
         "mechanic": "Simulation"
     }, 
     {
@@ -3355,36 +3115,6 @@
         "mechanic": "Simulation"
     }, 
     {
-        "count": 48, 
-        "weight": "5.0", 
-        "mechanic": "Simulation"
-    }, 
-    {
-        "count": 45, 
-        "weight": "4.4", 
-        "mechanic": "Simulation"
-    }, 
-    {
-        "count": 32, 
-        "weight": "4.6", 
-        "mechanic": "Simulation"
-    }, 
-    {
-        "count": 132, 
-        "weight": "4.0", 
-        "mechanic": "Simulation"
-    }, 
-    {
-        "count": 23, 
-        "weight": "4.2", 
-        "mechanic": "Simulation"
-    }, 
-    {
-        "count": 13, 
-        "weight": "4.8", 
-        "mechanic": "Simulation"
-    }, 
-    {
         "count": 74, 
         "weight": "1.4", 
         "mechanic": "Pattern Building"
@@ -3405,7 +3135,7 @@
         "mechanic": "Pattern Building"
     }, 
     {
-        "count": 321, 
+        "count": 1618, 
         "weight": "1.0", 
         "mechanic": "Pattern Building"
     }, 
@@ -3417,11 +3147,6 @@
     {
         "count": 52, 
         "weight": "1.2", 
-        "mechanic": "Pattern Building"
-    }, 
-    {
-        "count": 1297, 
-        "weight": "0.0", 
         "mechanic": "Pattern Building"
     }, 
     {
@@ -3485,13 +3210,28 @@
         "mechanic": "Variable Phase Order"
     }, 
     {
+        "count": 10, 
+        "weight": "5.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
         "count": 13, 
         "weight": "1.6", 
         "mechanic": "Variable Phase Order"
     }, 
     {
-        "count": 28, 
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 599, 
         "weight": "1.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 45, 
+        "weight": "4.0", 
         "mechanic": "Variable Phase Order"
     }, 
     {
@@ -3500,13 +3240,23 @@
         "mechanic": "Variable Phase Order"
     }, 
     {
-        "count": 571, 
-        "weight": "0.0", 
+        "count": 8, 
+        "weight": "4.4", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.2", 
         "mechanic": "Variable Phase Order"
     }, 
     {
         "count": 17, 
         "weight": "1.8", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
         "mechanic": "Variable Phase Order"
     }, 
     {
@@ -3560,38 +3310,13 @@
         "mechanic": "Variable Phase Order"
     }, 
     {
-        "count": 10, 
-        "weight": "5.0", 
-        "mechanic": "Variable Phase Order"
-    }, 
-    {
-        "count": 8, 
-        "weight": "4.4", 
-        "mechanic": "Variable Phase Order"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.6", 
-        "mechanic": "Variable Phase Order"
-    }, 
-    {
-        "count": 45, 
-        "weight": "4.0", 
-        "mechanic": "Variable Phase Order"
-    }, 
-    {
-        "count": 5, 
-        "weight": "4.2", 
-        "mechanic": "Variable Phase Order"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.8", 
-        "mechanic": "Variable Phase Order"
-    }, 
-    {
         "count": 20, 
         "weight": "1.4", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4.4", 
         "mechanic": "Stock Holding"
     }, 
     {
@@ -3600,8 +3325,18 @@
         "mechanic": "Stock Holding"
     }, 
     {
-        "count": 65, 
+        "count": 9, 
+        "weight": "4.6", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 837, 
         "weight": "1.0", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 41, 
+        "weight": "4.0", 
         "mechanic": "Stock Holding"
     }, 
     {
@@ -3610,13 +3345,23 @@
         "mechanic": "Stock Holding"
     }, 
     {
-        "count": 772, 
-        "weight": "0.0", 
+        "count": 13, 
+        "weight": "4.2", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.8", 
         "mechanic": "Stock Holding"
     }, 
     {
         "count": 24, 
         "weight": "1.8", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.8", 
         "mechanic": "Stock Holding"
     }, 
     {
@@ -3630,8 +3375,8 @@
         "mechanic": "Stock Holding"
     }, 
     {
-        "count": 14, 
-        "weight": "2.8", 
+        "count": 10, 
+        "weight": "5.0", 
         "mechanic": "Stock Holding"
     }, 
     {
@@ -3670,34 +3415,9 @@
         "mechanic": "Stock Holding"
     }, 
     {
-        "count": 10, 
+        "count": 22, 
         "weight": "5.0", 
-        "mechanic": "Stock Holding"
-    }, 
-    {
-        "count": 13, 
-        "weight": "4.4", 
-        "mechanic": "Stock Holding"
-    }, 
-    {
-        "count": 9, 
-        "weight": "4.6", 
-        "mechanic": "Stock Holding"
-    }, 
-    {
-        "count": 41, 
-        "weight": "4.0", 
-        "mechanic": "Stock Holding"
-    }, 
-    {
-        "count": 13, 
-        "weight": "4.2", 
-        "mechanic": "Stock Holding"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.8", 
-        "mechanic": "Stock Holding"
+        "mechanic": "Co-operative Play"
     }, 
     {
         "count": 64, 
@@ -3710,8 +3430,18 @@
         "mechanic": "Co-operative Play"
     }, 
     {
-        "count": 370, 
+        "count": 3, 
+        "weight": "4.6", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 3088, 
         "weight": "1.0", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 71, 
+        "weight": "4.0", 
         "mechanic": "Co-operative Play"
     }, 
     {
@@ -3720,13 +3450,18 @@
         "mechanic": "Co-operative Play"
     }, 
     {
-        "count": 2718, 
-        "weight": "0.0", 
+        "count": 7, 
+        "weight": "4.2", 
         "mechanic": "Co-operative Play"
     }, 
     {
         "count": 97, 
         "weight": "1.8", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
         "mechanic": "Co-operative Play"
     }, 
     {
@@ -3755,6 +3490,11 @@
         "mechanic": "Co-operative Play"
     }, 
     {
+        "count": 6, 
+        "weight": "4.4", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
         "count": 77, 
         "weight": "2.2", 
         "mechanic": "Co-operative Play"
@@ -3780,38 +3520,13 @@
         "mechanic": "Co-operative Play"
     }, 
     {
-        "count": 22, 
-        "weight": "5.0", 
-        "mechanic": "Co-operative Play"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.4", 
-        "mechanic": "Co-operative Play"
-    }, 
-    {
-        "count": 3, 
-        "weight": "4.6", 
-        "mechanic": "Co-operative Play"
-    }, 
-    {
-        "count": 71, 
-        "weight": "4.0", 
-        "mechanic": "Co-operative Play"
-    }, 
-    {
-        "count": 7, 
-        "weight": "4.2", 
-        "mechanic": "Co-operative Play"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.8", 
-        "mechanic": "Co-operative Play"
-    }, 
-    {
         "count": 350, 
         "weight": "1.4", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 61, 
+        "weight": "4.4", 
         "mechanic": "Dice Rolling"
     }, 
     {
@@ -3820,8 +3535,18 @@
         "mechanic": "Dice Rolling"
     }, 
     {
-        "count": 1846, 
+        "count": 34, 
+        "weight": "4.6", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 13660, 
         "weight": "1.0", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 363, 
+        "weight": "4.0", 
         "mechanic": "Dice Rolling"
     }, 
     {
@@ -3830,13 +3555,23 @@
         "mechanic": "Dice Rolling"
     }, 
     {
-        "count": 11814, 
-        "weight": "0.0", 
+        "count": 49, 
+        "weight": "4.2", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 494, 
+        "weight": "2.8", 
         "mechanic": "Dice Rolling"
     }, 
     {
         "count": 363, 
         "weight": "1.8", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 19, 
+        "weight": "4.8", 
         "mechanic": "Dice Rolling"
     }, 
     {
@@ -3850,8 +3585,8 @@
         "mechanic": "Dice Rolling"
     }, 
     {
-        "count": 494, 
-        "weight": "2.8", 
+        "count": 109, 
+        "weight": "5.0", 
         "mechanic": "Dice Rolling"
     }, 
     {
@@ -3890,34 +3625,9 @@
         "mechanic": "Dice Rolling"
     }, 
     {
-        "count": 109, 
+        "count": 4, 
         "weight": "5.0", 
-        "mechanic": "Dice Rolling"
-    }, 
-    {
-        "count": 61, 
-        "weight": "4.4", 
-        "mechanic": "Dice Rolling"
-    }, 
-    {
-        "count": 34, 
-        "weight": "4.6", 
-        "mechanic": "Dice Rolling"
-    }, 
-    {
-        "count": 363, 
-        "weight": "4.0", 
-        "mechanic": "Dice Rolling"
-    }, 
-    {
-        "count": 49, 
-        "weight": "4.2", 
-        "mechanic": "Dice Rolling"
-    }, 
-    {
-        "count": 19, 
-        "weight": "4.8", 
-        "mechanic": "Dice Rolling"
+        "mechanic": "Partnerships"
     }, 
     {
         "count": 105, 
@@ -3930,8 +3640,18 @@
         "mechanic": "Partnerships"
     }, 
     {
-        "count": 248, 
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 1329, 
         "weight": "1.0", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 28, 
+        "weight": "4.0", 
         "mechanic": "Partnerships"
     }, 
     {
@@ -3940,13 +3660,23 @@
         "mechanic": "Partnerships"
     }, 
     {
-        "count": 1081, 
-        "weight": "0.0", 
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
         "mechanic": "Partnerships"
     }, 
     {
         "count": 75, 
         "weight": "1.8", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
         "mechanic": "Partnerships"
     }, 
     {
@@ -4000,38 +3730,13 @@
         "mechanic": "Partnerships"
     }, 
     {
-        "count": 4, 
+        "count": 13, 
         "weight": "5.0", 
-        "mechanic": "Partnerships"
+        "mechanic": "Route/Network Building"
     }, 
     {
-        "count": 1, 
+        "count": 13, 
         "weight": "4.4", 
-        "mechanic": "Partnerships"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.6", 
-        "mechanic": "Partnerships"
-    }, 
-    {
-        "count": 28, 
-        "weight": "4.0", 
-        "mechanic": "Partnerships"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.2", 
-        "mechanic": "Partnerships"
-    }, 
-    {
-        "count": 2, 
-        "weight": "4.8", 
-        "mechanic": "Partnerships"
-    }, 
-    {
-        "count": 22, 
-        "weight": "1.4", 
         "mechanic": "Route/Network Building"
     }, 
     {
@@ -4040,8 +3745,18 @@
         "mechanic": "Route/Network Building"
     }, 
     {
-        "count": 43, 
+        "count": 10, 
+        "weight": "4.6", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 602, 
         "weight": "1.0", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 66, 
+        "weight": "4.0", 
         "mechanic": "Route/Network Building"
     }, 
     {
@@ -4050,13 +3765,23 @@
         "mechanic": "Route/Network Building"
     }, 
     {
-        "count": 559, 
-        "weight": "0.0", 
+        "count": 16, 
+        "weight": "4.2", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.4", 
         "mechanic": "Route/Network Building"
     }, 
     {
         "count": 29, 
         "weight": "1.8", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.8", 
         "mechanic": "Route/Network Building"
     }, 
     {
@@ -4110,36 +3835,6 @@
         "mechanic": "Route/Network Building"
     }, 
     {
-        "count": 13, 
-        "weight": "5.0", 
-        "mechanic": "Route/Network Building"
-    }, 
-    {
-        "count": 13, 
-        "weight": "4.4", 
-        "mechanic": "Route/Network Building"
-    }, 
-    {
-        "count": 10, 
-        "weight": "4.6", 
-        "mechanic": "Route/Network Building"
-    }, 
-    {
-        "count": 66, 
-        "weight": "4.0", 
-        "mechanic": "Route/Network Building"
-    }, 
-    {
-        "count": 16, 
-        "weight": "4.2", 
-        "mechanic": "Route/Network Building"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.8", 
-        "mechanic": "Route/Network Building"
-    }, 
-    {
         "count": 59, 
         "weight": "1.4", 
         "mechanic": "Storytelling"
@@ -4160,7 +3855,7 @@
         "mechanic": "Storytelling"
     }, 
     {
-        "count": 244, 
+        "count": 1350, 
         "weight": "1.0", 
         "mechanic": "Storytelling"
     }, 
@@ -4177,11 +3872,6 @@
     {
         "count": 2, 
         "weight": "4.2", 
-        "mechanic": "Storytelling"
-    }, 
-    {
-        "count": 1106, 
-        "weight": "0.0", 
         "mechanic": "Storytelling"
     }, 
     {
@@ -4255,18 +3945,13 @@
         "mechanic": "Singing"
     }, 
     {
-        "count": 57, 
+        "count": 215, 
         "weight": "1.0", 
         "mechanic": "Singing"
     }, 
     {
         "count": 10, 
         "weight": "1.2", 
-        "mechanic": "Singing"
-    }, 
-    {
-        "count": 158, 
-        "weight": "0.0", 
         "mechanic": "Singing"
     }, 
     {
@@ -4310,7 +3995,7 @@
         "mechanic": "Area-Impulse"
     }, 
     {
-        "count": 11, 
+        "count": 89, 
         "weight": "1.0", 
         "mechanic": "Area-Impulse"
     }, 
@@ -4325,8 +4010,8 @@
         "mechanic": "Area-Impulse"
     }, 
     {
-        "count": 78, 
-        "weight": "0.0", 
+        "count": 2, 
+        "weight": "1.4", 
         "mechanic": "Area-Impulse"
     }, 
     {
@@ -4352,11 +4037,6 @@
     {
         "count": 4, 
         "weight": "3.2", 
-        "mechanic": "Area-Impulse"
-    }, 
-    {
-        "count": 2, 
-        "weight": "1.4", 
         "mechanic": "Area-Impulse"
     }, 
     {
@@ -4410,7 +4090,7 @@
         "mechanic": "Commodity Speculation"
     }, 
     {
-        "count": 44, 
+        "count": 316, 
         "weight": "1.0", 
         "mechanic": "Commodity Speculation"
     }, 
@@ -4427,11 +4107,6 @@
     {
         "count": 4, 
         "weight": "4.2", 
-        "mechanic": "Commodity Speculation"
-    }, 
-    {
-        "count": 272, 
-        "weight": "0.0", 
         "mechanic": "Commodity Speculation"
     }, 
     {
@@ -4500,13 +4175,28 @@
         "mechanic": "Trading"
     }, 
     {
+        "count": 3, 
+        "weight": "5.0", 
+        "mechanic": "Trading"
+    }, 
+    {
         "count": 96, 
         "weight": "1.6", 
         "mechanic": "Trading"
     }, 
     {
-        "count": 189, 
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 2236, 
         "weight": "1.0", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 26, 
+        "weight": "4.0", 
         "mechanic": "Trading"
     }, 
     {
@@ -4515,13 +4205,23 @@
         "mechanic": "Trading"
     }, 
     {
-        "count": 2047, 
-        "weight": "0.0", 
+        "count": 4, 
+        "weight": "4.4", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.2", 
         "mechanic": "Trading"
     }, 
     {
         "count": 99, 
         "weight": "1.8", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
         "mechanic": "Trading"
     }, 
     {
@@ -4575,38 +4275,13 @@
         "mechanic": "Trading"
     }, 
     {
-        "count": 3, 
-        "weight": "5.0", 
-        "mechanic": "Trading"
-    }, 
-    {
-        "count": 4, 
-        "weight": "4.4", 
-        "mechanic": "Trading"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.6", 
-        "mechanic": "Trading"
-    }, 
-    {
-        "count": 26, 
-        "weight": "4.0", 
-        "mechanic": "Trading"
-    }, 
-    {
-        "count": 4, 
-        "weight": "4.2", 
-        "mechanic": "Trading"
-    }, 
-    {
-        "count": 1, 
-        "weight": "4.8", 
-        "mechanic": "Trading"
-    }, 
-    {
         "count": 102, 
         "weight": "1.4", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 18, 
+        "weight": "4.4", 
         "mechanic": "Tile Placement"
     }, 
     {
@@ -4615,8 +4290,18 @@
         "mechanic": "Tile Placement"
     }, 
     {
-        "count": 396, 
+        "count": 9, 
+        "weight": "4.6", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 2749, 
         "weight": "1.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 84, 
+        "weight": "4.0", 
         "mechanic": "Tile Placement"
     }, 
     {
@@ -4625,13 +4310,18 @@
         "mechanic": "Tile Placement"
     }, 
     {
-        "count": 2353, 
-        "weight": "0.0", 
+        "count": 20, 
+        "weight": "4.2", 
         "mechanic": "Tile Placement"
     }, 
     {
         "count": 182, 
         "weight": "1.8", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.8", 
         "mechanic": "Tile Placement"
     }, 
     {
@@ -4670,6 +4360,11 @@
         "mechanic": "Tile Placement"
     }, 
     {
+        "count": 12, 
+        "weight": "5.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
         "count": 156, 
         "weight": "2.6", 
         "mechanic": "Tile Placement"
@@ -4682,36 +4377,6 @@
     {
         "count": 174, 
         "weight": "2.4", 
-        "mechanic": "Tile Placement"
-    }, 
-    {
-        "count": 12, 
-        "weight": "5.0", 
-        "mechanic": "Tile Placement"
-    }, 
-    {
-        "count": 18, 
-        "weight": "4.4", 
-        "mechanic": "Tile Placement"
-    }, 
-    {
-        "count": 9, 
-        "weight": "4.6", 
-        "mechanic": "Tile Placement"
-    }, 
-    {
-        "count": 84, 
-        "weight": "4.0", 
-        "mechanic": "Tile Placement"
-    }, 
-    {
-        "count": 20, 
-        "weight": "4.2", 
-        "mechanic": "Tile Placement"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.8", 
         "mechanic": "Tile Placement"
     }, 
     {
@@ -4735,7 +4400,7 @@
         "mechanic": "Campaign / Battle Card Driven"
     }, 
     {
-        "count": 56, 
+        "count": 995, 
         "weight": "1.0", 
         "mechanic": "Campaign / Battle Card Driven"
     }, 
@@ -4752,11 +4417,6 @@
     {
         "count": 7, 
         "weight": "4.2", 
-        "mechanic": "Campaign / Battle Card Driven"
-    }, 
-    {
-        "count": 939, 
-        "weight": "0.0", 
         "mechanic": "Campaign / Battle Card Driven"
     }, 
     {
@@ -4835,7 +4495,7 @@
         "mechanic": "Betting/Wagering"
     }, 
     {
-        "count": 212, 
+        "count": 1166, 
         "weight": "1.0", 
         "mechanic": "Betting/Wagering"
     }, 
@@ -4847,11 +4507,6 @@
     {
         "count": 39, 
         "weight": "1.2", 
-        "mechanic": "Betting/Wagering"
-    }, 
-    {
-        "count": 954, 
-        "weight": "0.0", 
         "mechanic": "Betting/Wagering"
     }, 
     {
@@ -4915,13 +4570,28 @@
         "mechanic": "Area Movement"
     }, 
     {
+        "count": 7, 
+        "weight": "5.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
         "count": 78, 
         "weight": "1.6", 
         "mechanic": "Area Movement"
     }, 
     {
-        "count": 135, 
+        "count": 4, 
+        "weight": "4.6", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 1624, 
         "weight": "1.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 59, 
+        "weight": "4.0", 
         "mechanic": "Area Movement"
     }, 
     {
@@ -4930,13 +4600,18 @@
         "mechanic": "Area Movement"
     }, 
     {
-        "count": 1489, 
-        "weight": "0.0", 
+        "count": 6, 
+        "weight": "4.2", 
         "mechanic": "Area Movement"
     }, 
     {
         "count": 69, 
         "weight": "1.8", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
         "mechanic": "Area Movement"
     }, 
     {
@@ -4965,6 +4640,11 @@
         "mechanic": "Area Movement"
     }, 
     {
+        "count": 3, 
+        "weight": "4.4", 
+        "mechanic": "Area Movement"
+    }, 
+    {
         "count": 85, 
         "weight": "2.2", 
         "mechanic": "Area Movement"
@@ -4990,34 +4670,14 @@
         "mechanic": "Area Movement"
     }, 
     {
-        "count": 7, 
+        "count": 10, 
         "weight": "5.0", 
-        "mechanic": "Area Movement"
+        "mechanic": "Auction/Bidding"
     }, 
     {
-        "count": 3, 
+        "count": 15, 
         "weight": "4.4", 
-        "mechanic": "Area Movement"
-    }, 
-    {
-        "count": 4, 
-        "weight": "4.6", 
-        "mechanic": "Area Movement"
-    }, 
-    {
-        "count": 59, 
-        "weight": "4.0", 
-        "mechanic": "Area Movement"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.2", 
-        "mechanic": "Area Movement"
-    }, 
-    {
-        "count": 2, 
-        "weight": "4.8", 
-        "mechanic": "Area Movement"
+        "mechanic": "Auction/Bidding"
     }, 
     {
         "count": 61, 
@@ -5025,13 +4685,18 @@
         "mechanic": "Auction/Bidding"
     }, 
     {
-        "count": 119, 
-        "weight": "1.6", 
+        "count": 8, 
+        "weight": "4.6", 
         "mechanic": "Auction/Bidding"
     }, 
     {
-        "count": 193, 
+        "count": 1806, 
         "weight": "1.0", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 57, 
+        "weight": "4.0", 
         "mechanic": "Auction/Bidding"
     }, 
     {
@@ -5040,13 +4705,23 @@
         "mechanic": "Auction/Bidding"
     }, 
     {
-        "count": 1613, 
-        "weight": "0.0", 
+        "count": 10, 
+        "weight": "4.2", 
         "mechanic": "Auction/Bidding"
     }, 
     {
         "count": 100, 
         "weight": "1.8", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 119, 
+        "weight": "1.6", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.8", 
         "mechanic": "Auction/Bidding"
     }, 
     {
@@ -5100,38 +4775,13 @@
         "mechanic": "Auction/Bidding"
     }, 
     {
-        "count": 10, 
-        "weight": "5.0", 
-        "mechanic": "Auction/Bidding"
-    }, 
-    {
-        "count": 15, 
-        "weight": "4.4", 
-        "mechanic": "Auction/Bidding"
-    }, 
-    {
-        "count": 8, 
-        "weight": "4.6", 
-        "mechanic": "Auction/Bidding"
-    }, 
-    {
-        "count": 57, 
-        "weight": "4.0", 
-        "mechanic": "Auction/Bidding"
-    }, 
-    {
-        "count": 10, 
-        "weight": "4.2", 
-        "mechanic": "Auction/Bidding"
-    }, 
-    {
-        "count": 6, 
-        "weight": "4.8", 
-        "mechanic": "Auction/Bidding"
-    }, 
-    {
         "count": 108, 
         "weight": "1.4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 36, 
+        "weight": "5.0", 
         "mechanic": "Variable Player Powers"
     }, 
     {
@@ -5140,8 +4790,18 @@
         "mechanic": "Variable Player Powers"
     }, 
     {
-        "count": 269, 
+        "count": 10, 
+        "weight": "4.6", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 4131, 
         "weight": "1.0", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 195, 
+        "weight": "4.0", 
         "mechanic": "Variable Player Powers"
     }, 
     {
@@ -5150,13 +4810,18 @@
         "mechanic": "Variable Player Powers"
     }, 
     {
-        "count": 3862, 
-        "weight": "0.0", 
+        "count": 12, 
+        "weight": "4.2", 
         "mechanic": "Variable Player Powers"
     }, 
     {
         "count": 190, 
         "weight": "1.8", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.8", 
         "mechanic": "Variable Player Powers"
     }, 
     {
@@ -5185,6 +4850,11 @@
         "mechanic": "Variable Player Powers"
     }, 
     {
+        "count": 10, 
+        "weight": "4.4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
         "count": 219, 
         "weight": "2.2", 
         "mechanic": "Variable Player Powers"
@@ -5207,36 +4877,6 @@
     {
         "count": 397, 
         "weight": "2.4", 
-        "mechanic": "Variable Player Powers"
-    }, 
-    {
-        "count": 36, 
-        "weight": "5.0", 
-        "mechanic": "Variable Player Powers"
-    }, 
-    {
-        "count": 10, 
-        "weight": "4.4", 
-        "mechanic": "Variable Player Powers"
-    }, 
-    {
-        "count": 10, 
-        "weight": "4.6", 
-        "mechanic": "Variable Player Powers"
-    }, 
-    {
-        "count": 195, 
-        "weight": "4.0", 
-        "mechanic": "Variable Player Powers"
-    }, 
-    {
-        "count": 12, 
-        "weight": "4.2", 
-        "mechanic": "Variable Player Powers"
-    }, 
-    {
-        "count": 4, 
-        "weight": "4.8", 
         "mechanic": "Variable Player Powers"
     }
 ]
