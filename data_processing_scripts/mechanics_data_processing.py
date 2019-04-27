@@ -52,6 +52,8 @@ headers = next(reader, None)
 
 for row in reader:
 	raw_weight = float(row[1])
+	if raw_weight == 0:
+		continue
 	binned_weight = weight_bins(raw_weight)
 
 	mechanics_raw_string = row[2]

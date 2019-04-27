@@ -1,0 +1,8687 @@
+[
+    {
+        "count": 79, 
+        "weight": "1.4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 154, 
+        "weight": "1.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 45, 
+        "weight": "1.6", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 72, 
+        "weight": "1.7", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 512, 
+        "weight": "1.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.1", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 39, 
+        "weight": "1.2", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 49, 
+        "weight": "1.3", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 79, 
+        "weight": "1.8", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 66, 
+        "weight": "1.9", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.7", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 53, 
+        "weight": "2.9", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 73, 
+        "weight": "2.8", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.2", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 25, 
+        "weight": "3.3", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 314, 
+        "weight": "3.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 28, 
+        "weight": "3.1", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 104, 
+        "weight": "2.3", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 72, 
+        "weight": "2.2", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 54, 
+        "weight": "2.1", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 647, 
+        "weight": "2.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 81, 
+        "weight": "2.7", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 52, 
+        "weight": "2.6", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 124, 
+        "weight": "2.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 100, 
+        "weight": "2.4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 38, 
+        "weight": "4.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.3", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.2", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.8", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.9", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 32, 
+        "weight": "3.4", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 34, 
+        "weight": "3.5", 
+        "mechanic": "Card Drafting"
+    }, 
+    {
+        "count": 237, 
+        "weight": "1.4", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 394, 
+        "weight": "1.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 115, 
+        "weight": "1.6", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 221, 
+        "weight": "1.7", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 1041, 
+        "weight": "1.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 52, 
+        "weight": "1.1", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 136, 
+        "weight": "1.2", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 163, 
+        "weight": "1.3", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 200, 
+        "weight": "1.8", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 164, 
+        "weight": "1.9", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 28, 
+        "weight": "3.6", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 25, 
+        "weight": "3.7", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 90, 
+        "weight": "2.9", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 146, 
+        "weight": "2.8", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 71, 
+        "weight": "3.2", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 46, 
+        "weight": "3.3", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 615, 
+        "weight": "3.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 44, 
+        "weight": "3.1", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 194, 
+        "weight": "2.3", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 206, 
+        "weight": "2.2", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 113, 
+        "weight": "2.1", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 1270, 
+        "weight": "2.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 181, 
+        "weight": "2.7", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 108, 
+        "weight": "2.6", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 305, 
+        "weight": "2.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 252, 
+        "weight": "2.4", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 22, 
+        "weight": "5.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.4", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 103, 
+        "weight": "4.0", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.3", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.2", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 21, 
+        "weight": "3.8", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.9", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 69, 
+        "weight": "3.4", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 70, 
+        "weight": "3.5", 
+        "mechanic": "Hand Management"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.4", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 58, 
+        "weight": "1.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.6", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 33, 
+        "weight": "1.7", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 86, 
+        "weight": "1.0", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.1", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.2", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.3", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 33, 
+        "weight": "1.8", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.9", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.7", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 34, 
+        "weight": "3.4", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 54, 
+        "weight": "2.8", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.2", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.3", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 181, 
+        "weight": "3.0", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.1", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 55, 
+        "weight": "2.3", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.2", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.1", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 255, 
+        "weight": "2.0", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 46, 
+        "weight": "2.7", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 38, 
+        "weight": "2.6", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.8", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 52, 
+        "weight": "2.4", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 17, 
+        "weight": "5.0", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.1", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 46, 
+        "weight": "4.0", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.2", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 70, 
+        "weight": "2.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.9", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.9", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 20, 
+        "weight": "3.5", 
+        "mechanic": "Grid Movement"
+    }, 
+    {
+        "count": 52, 
+        "weight": "1.4", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 117, 
+        "weight": "1.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 33, 
+        "weight": "1.6", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 71, 
+        "weight": "1.7", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 248, 
+        "weight": "1.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.1", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.2", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 29, 
+        "weight": "1.3", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 56, 
+        "weight": "1.8", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 57, 
+        "weight": "1.9", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.6", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.7", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 58, 
+        "weight": "2.9", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 48, 
+        "weight": "3.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 52, 
+        "weight": "3.2", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 39, 
+        "weight": "3.3", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 360, 
+        "weight": "3.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 31, 
+        "weight": "3.1", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 103, 
+        "weight": "2.3", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 76, 
+        "weight": "2.2", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 48, 
+        "weight": "2.1", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 502, 
+        "weight": "2.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 102, 
+        "weight": "2.7", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 78, 
+        "weight": "2.6", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 183, 
+        "weight": "2.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 125, 
+        "weight": "2.4", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 45, 
+        "weight": "5.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.4", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.7", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.6", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.1", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 66, 
+        "weight": "4.0", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.3", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4.2", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.8", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.8", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.9", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 11, 
+        "weight": "4.5", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 59, 
+        "weight": "3.4", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 72, 
+        "weight": "2.8", 
+        "mechanic": "Modular Board"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.4", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.6", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.7", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 60, 
+        "weight": "1.0", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.1", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.2", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.3", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.8", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.9", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.4", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.3", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.0", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.3", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.2", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.1", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 27, 
+        "weight": "2.0", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.6", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.5", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.4", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.0", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.8", 
+        "mechanic": "Line Drawing"
+    }, 
+    {
+        "count": 44, 
+        "weight": "1.4", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 93, 
+        "weight": "1.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.6", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 47, 
+        "weight": "1.7", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 321, 
+        "weight": "1.0", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.1", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 41, 
+        "weight": "1.2", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 30, 
+        "weight": "1.3", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.8", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 29, 
+        "weight": "1.9", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.9", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.8", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.2", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.3", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 83, 
+        "weight": "3.0", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.1", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.3", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.2", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.1", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 293, 
+        "weight": "2.0", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.7", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.6", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.8", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.4", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 4, 
+        "weight": "5.0", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 17, 
+        "weight": "4.0", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 41, 
+        "weight": "2.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.9", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.4", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.5", 
+        "mechanic": "Pattern Building"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.4", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 29, 
+        "weight": "1.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.7", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 218, 
+        "weight": "1.0", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.1", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.2", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.3", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.8", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.9", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.0", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.3", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.2", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.1", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 61, 
+        "weight": "2.0", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.7", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.6", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.8", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.4", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.0", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.5", 
+        "mechanic": "Acting"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.4", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.6", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.7", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.0", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.8", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.9", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.7", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.9", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.8", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.2", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.3", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.0", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.1", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.2", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.1", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 33, 
+        "weight": "2.0", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.7", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.6", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.8", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.7", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.0", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.4", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.4", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.5", 
+        "mechanic": "Time Track"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.4", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.6", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.7", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 70, 
+        "weight": "1.0", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.1", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.2", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.3", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.8", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.9", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.9", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.8", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.3", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.0", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.3", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.2", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.1", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 56, 
+        "weight": "2.0", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.7", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.6", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.4", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.0", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.8", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.9", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.5", 
+        "mechanic": "Rock-Paper-Scissors"
+    }, 
+    {
+        "count": 83, 
+        "weight": "1.4", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 106, 
+        "weight": "1.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 32, 
+        "weight": "1.6", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 55, 
+        "weight": "1.7", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 747, 
+        "weight": "1.0", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.1", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 77, 
+        "weight": "1.2", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 65, 
+        "weight": "1.3", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 45, 
+        "weight": "1.8", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.9", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.7", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.4", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.8", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 49, 
+        "weight": "3.0", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.1", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.3", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.2", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.1", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 237, 
+        "weight": "2.0", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2.7", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.6", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 21, 
+        "weight": "2.4", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.0", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.8", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.9", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.5", 
+        "mechanic": "Memory"
+    }, 
+    {
+        "count": 54, 
+        "weight": "1.4", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 76, 
+        "weight": "1.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 37, 
+        "weight": "1.6", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 51, 
+        "weight": "1.7", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 309, 
+        "weight": "1.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.1", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 66, 
+        "weight": "1.2", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 59, 
+        "weight": "1.3", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 61, 
+        "weight": "1.8", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 35, 
+        "weight": "1.9", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 13, 
+        "weight": "3.6", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.7", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.9", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 32, 
+        "weight": "3.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.2", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.3", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 243, 
+        "weight": "3.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.1", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 44, 
+        "weight": "2.3", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.2", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 35, 
+        "weight": "2.1", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 355, 
+        "weight": "2.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 50, 
+        "weight": "2.7", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 29, 
+        "weight": "2.6", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 112, 
+        "weight": "2.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 77, 
+        "weight": "2.4", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 8, 
+        "weight": "5.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.4", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 53, 
+        "weight": "4.0", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.2", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.9", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.8", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.9", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 34, 
+        "weight": "3.4", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 42, 
+        "weight": "2.8", 
+        "mechanic": "Simultaneous Action Selection"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.4", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 92, 
+        "weight": "1.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 27, 
+        "weight": "1.6", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 46, 
+        "weight": "1.7", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 209, 
+        "weight": "1.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.2", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.3", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 47, 
+        "weight": "1.8", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.9", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 63, 
+        "weight": "3.6", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 69, 
+        "weight": "3.7", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 117, 
+        "weight": "2.9", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 176, 
+        "weight": "2.8", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 131, 
+        "weight": "3.2", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 121, 
+        "weight": "3.3", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 643, 
+        "weight": "3.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 62, 
+        "weight": "3.1", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 94, 
+        "weight": "2.3", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 83, 
+        "weight": "2.2", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.1", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 646, 
+        "weight": "2.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 156, 
+        "weight": "2.7", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 125, 
+        "weight": "2.6", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 85, 
+        "weight": "3.8", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 177, 
+        "weight": "2.4", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 136, 
+        "weight": "5.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 54, 
+        "weight": "4.4", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 22, 
+        "weight": "4.7", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 26, 
+        "weight": "4.6", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 26, 
+        "weight": "4.1", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 242, 
+        "weight": "4.0", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 38, 
+        "weight": "4.3", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 50, 
+        "weight": "4.2", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 11, 
+        "weight": "4.9", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4.8", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 276, 
+        "weight": "2.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 50, 
+        "weight": "3.9", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 52, 
+        "weight": "4.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 132, 
+        "weight": "3.4", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 182, 
+        "weight": "3.5", 
+        "mechanic": "Hex-and-Counter"
+    }, 
+    {
+        "count": 26, 
+        "weight": "1.4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 42, 
+        "weight": "1.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.6", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 31, 
+        "weight": "1.7", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 104, 
+        "weight": "1.0", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.2", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.3", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 38, 
+        "weight": "1.8", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 31, 
+        "weight": "1.9", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 24, 
+        "weight": "3.6", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.7", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 42, 
+        "weight": "2.9", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 68, 
+        "weight": "2.8", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 43, 
+        "weight": "3.2", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 39, 
+        "weight": "3.3", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 394, 
+        "weight": "3.0", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.1", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 57, 
+        "weight": "2.3", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 39, 
+        "weight": "2.2", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 23, 
+        "weight": "2.1", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 365, 
+        "weight": "2.0", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 79, 
+        "weight": "2.7", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 51, 
+        "weight": "2.6", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 126, 
+        "weight": "2.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 83, 
+        "weight": "2.4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.7", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 66, 
+        "weight": "4.0", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.8", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.9", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 12, 
+        "weight": "5.0", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 54, 
+        "weight": "3.4", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 59, 
+        "weight": "3.5", 
+        "mechanic": "Action Point Allowance System"
+    }, 
+    {
+        "count": 32, 
+        "weight": "1.4", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 56, 
+        "weight": "1.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.6", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.7", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 181, 
+        "weight": "1.0", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.1", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 31, 
+        "weight": "1.2", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.3", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.8", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.9", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.9", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2.8", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.2", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.3", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 40, 
+        "weight": "3.0", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.1", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.3", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.2", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.1", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 109, 
+        "weight": "2.0", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.7", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.6", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.1", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.0", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.3", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.8", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.4", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.4", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.5", 
+        "mechanic": "Voting"
+    }, 
+    {
+        "count": 42, 
+        "weight": "1.4", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 56, 
+        "weight": "1.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.6", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1.7", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 488, 
+        "weight": "1.0", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 30, 
+        "weight": "1.1", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 42, 
+        "weight": "1.2", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.3", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.8", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.9", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.4", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.8", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.0", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.3", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.2", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.1", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 146, 
+        "weight": "2.0", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.7", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.6", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.4", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.0", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.8", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.9", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.5", 
+        "mechanic": "Pattern Recognition"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.4", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.6", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 19, 
+        "weight": "1.7", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.0", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.1", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.2", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.3", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.8", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.9", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.6", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.4", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2.8", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.2", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.3", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 92, 
+        "weight": "3.0", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.1", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.3", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.2", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.1", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 159, 
+        "weight": "2.0", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.7", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.6", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.8", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.4", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.1", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.0", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 48, 
+        "weight": "2.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.9", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.5", 
+        "mechanic": "Action / Movement Programming"
+    }, 
+    {
+        "count": 154, 
+        "weight": "1.4", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 314, 
+        "weight": "1.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 87, 
+        "weight": "1.6", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 146, 
+        "weight": "1.7", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 1177, 
+        "weight": "1.0", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 47, 
+        "weight": "1.1", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 106, 
+        "weight": "1.2", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 121, 
+        "weight": "1.3", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 136, 
+        "weight": "1.8", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 111, 
+        "weight": "1.9", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.6", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.7", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.9", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 40, 
+        "weight": "2.8", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 25, 
+        "weight": "3.2", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.3", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 196, 
+        "weight": "3.0", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.1", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 99, 
+        "weight": "2.3", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 97, 
+        "weight": "2.2", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 81, 
+        "weight": "2.1", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 798, 
+        "weight": "2.0", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 50, 
+        "weight": "2.7", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 44, 
+        "weight": "2.6", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 117, 
+        "weight": "2.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 92, 
+        "weight": "2.4", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 3, 
+        "weight": "5.0", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.1", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 32, 
+        "weight": "4.0", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.3", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.8", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.4", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.5", 
+        "mechanic": "Set Collection"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.4", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.6", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.7", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 42, 
+        "weight": "1.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.2", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.8", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.9", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.6", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 24, 
+        "weight": "3.7", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 31, 
+        "weight": "2.9", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 38, 
+        "weight": "2.8", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 46, 
+        "weight": "3.2", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 20, 
+        "weight": "3.3", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 169, 
+        "weight": "3.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.1", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 32, 
+        "weight": "2.3", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.2", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.1", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 128, 
+        "weight": "2.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 48, 
+        "weight": "2.7", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 27, 
+        "weight": "2.6", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 61, 
+        "weight": "2.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.9", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 5, 
+        "weight": "5.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.4", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.1", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 35, 
+        "weight": "4.0", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.3", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.8", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 35, 
+        "weight": "2.4", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.4", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 36, 
+        "weight": "3.5", 
+        "mechanic": "Worker Placement"
+    }, 
+    {
+        "count": 20, 
+        "weight": "1.4", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 38, 
+        "weight": "1.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.6", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.7", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 193, 
+        "weight": "1.0", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.1", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.2", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 21, 
+        "weight": "1.3", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1.8", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.9", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.7", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.4", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.8", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.2", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.3", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 46, 
+        "weight": "3.0", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.1", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.3", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.2", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.1", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 113, 
+        "weight": "2.0", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.7", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.6", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.8", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.4", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.4", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 20, 
+        "weight": "4.0", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.9", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.5", 
+        "mechanic": "Paper-and-Pencil"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1.4", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 21, 
+        "weight": "1.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.6", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.7", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 91, 
+        "weight": "1.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.1", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.2", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.3", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.8", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.9", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.6", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 13, 
+        "weight": "3.7", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.4", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.8", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.2", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 24, 
+        "weight": "3.3", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 133, 
+        "weight": "3.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.1", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.3", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 27, 
+        "weight": "2.2", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.1", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 149, 
+        "weight": "2.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 36, 
+        "weight": "2.7", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 22, 
+        "weight": "2.6", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 55, 
+        "weight": "2.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 28, 
+        "weight": "2.4", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.4", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.7", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 33, 
+        "weight": "4.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.3", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.2", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.8", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.8", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.9", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 28, 
+        "weight": "5.0", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 22, 
+        "weight": "2.9", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 33, 
+        "weight": "3.5", 
+        "mechanic": "Secret Unit Deployment"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.4", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 44, 
+        "weight": "1.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.6", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 44, 
+        "weight": "1.7", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 106, 
+        "weight": "1.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.1", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.2", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.3", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 58, 
+        "weight": "1.8", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 42, 
+        "weight": "1.9", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 27, 
+        "weight": "3.6", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.7", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 56, 
+        "weight": "2.9", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 61, 
+        "weight": "2.8", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 50, 
+        "weight": "3.2", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.3", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 319, 
+        "weight": "3.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 37, 
+        "weight": "3.1", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 87, 
+        "weight": "2.3", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 69, 
+        "weight": "2.2", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 43, 
+        "weight": "2.1", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 368, 
+        "weight": "2.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 71, 
+        "weight": "2.7", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 62, 
+        "weight": "2.6", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.8", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.9", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.4", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.1", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 65, 
+        "weight": "4.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.3", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.8", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 135, 
+        "weight": "2.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 104, 
+        "weight": "2.4", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 6, 
+        "weight": "5.0", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 48, 
+        "weight": "3.4", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 47, 
+        "weight": "3.5", 
+        "mechanic": "Area Control / Area Influence"
+    }, 
+    {
+        "count": 156, 
+        "weight": "1.4", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 296, 
+        "weight": "1.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 65, 
+        "weight": "1.6", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 119, 
+        "weight": "1.7", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 1834, 
+        "weight": "1.0", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 26, 
+        "weight": "1.1", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 95, 
+        "weight": "1.2", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 103, 
+        "weight": "1.3", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 96, 
+        "weight": "1.8", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 46, 
+        "weight": "1.9", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.7", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.4", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.8", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.2", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.3", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 155, 
+        "weight": "3.0", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.1", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 38, 
+        "weight": "2.3", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 44, 
+        "weight": "2.2", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.1", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 648, 
+        "weight": "2.0", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 27, 
+        "weight": "2.7", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.6", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 59, 
+        "weight": "2.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 45, 
+        "weight": "2.4", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 13, 
+        "weight": "5.0", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 19, 
+        "weight": "4.0", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.9", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.5", 
+        "mechanic": "Roll / Spin and Move"
+    }, 
+    {
+        "count": 33, 
+        "weight": "1.4", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 43, 
+        "weight": "1.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.6", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 26, 
+        "weight": "1.7", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 138, 
+        "weight": "1.0", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.1", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.2", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 31, 
+        "weight": "1.3", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.8", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.9", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.6", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.7", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.9", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 13, 
+        "weight": "2.8", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.2", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.3", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 74, 
+        "weight": "3.0", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.1", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.3", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.2", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.1", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 152, 
+        "weight": "2.0", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.7", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.6", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 31, 
+        "weight": "2.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 22, 
+        "weight": "2.4", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 3, 
+        "weight": "5.0", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.0", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.8", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.4", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.5", 
+        "mechanic": "Player Elimination"
+    }, 
+    {
+        "count": 47, 
+        "weight": "1.4", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 76, 
+        "weight": "1.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 27, 
+        "weight": "1.6", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 37, 
+        "weight": "1.7", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 176, 
+        "weight": "1.0", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.1", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.2", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 21, 
+        "weight": "1.3", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.8", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 27, 
+        "weight": "1.9", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.9", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.8", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.2", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.3", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 40, 
+        "weight": "3.0", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.1", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.3", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.2", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 21, 
+        "weight": "2.1", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 239, 
+        "weight": "2.0", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.7", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.6", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.4", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 3, 
+        "weight": "5.0", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.0", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.8", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.4", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.5", 
+        "mechanic": "Take That"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1.4", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 36, 
+        "weight": "1.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.6", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.7", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 41, 
+        "weight": "1.0", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.2", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.3", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.8", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.9", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.6", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.7", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 22, 
+        "weight": "2.9", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 51, 
+        "weight": "2.8", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.2", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.3", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 157, 
+        "weight": "3.0", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.1", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 56, 
+        "weight": "2.3", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 43, 
+        "weight": "2.2", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 21, 
+        "weight": "2.1", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 261, 
+        "weight": "2.0", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 36, 
+        "weight": "2.7", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 33, 
+        "weight": "2.6", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.8", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 69, 
+        "weight": "2.4", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 21, 
+        "weight": "4.0", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.3", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.2", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 90, 
+        "weight": "2.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.9", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.4", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.5", 
+        "mechanic": "Deck / Pool Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.0", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.0", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.4", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.8", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.5", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.3", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.0", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.3", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.2", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.0", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.7", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.6", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.5", 
+        "mechanic": "Crayon Rail System"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.4", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 53, 
+        "weight": "1.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.6", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 26, 
+        "weight": "1.7", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 131, 
+        "weight": "1.0", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.1", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.2", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.3", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.8", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 13, 
+        "weight": "1.9", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.6", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.7", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.4", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.2", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.3", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 143, 
+        "weight": "3.0", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.1", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 28, 
+        "weight": "2.3", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 33, 
+        "weight": "2.2", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.1", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 211, 
+        "weight": "2.0", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.7", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 23, 
+        "weight": "2.6", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 60, 
+        "weight": "2.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 39, 
+        "weight": "2.4", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 10, 
+        "weight": "5.0", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.4", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 62, 
+        "weight": "4.0", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.3", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.8", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.9", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.9", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.8", 
+        "mechanic": "Role Playing"
+    }, 
+    {
+        "count": 38, 
+        "weight": "1.4", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 82, 
+        "weight": "1.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.6", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 38, 
+        "weight": "1.7", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 367, 
+        "weight": "1.0", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.1", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 30, 
+        "weight": "1.2", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 19, 
+        "weight": "1.3", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 43, 
+        "weight": "1.8", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 27, 
+        "weight": "1.9", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.6", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.7", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.4", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 36, 
+        "weight": "2.8", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 35, 
+        "weight": "3.2", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.3", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 210, 
+        "weight": "3.0", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.1", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 36, 
+        "weight": "2.3", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 50, 
+        "weight": "2.2", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.1", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 348, 
+        "weight": "2.0", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 44, 
+        "weight": "2.7", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.6", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.8", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 66, 
+        "weight": "2.4", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 11, 
+        "weight": "5.0", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.4", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 32, 
+        "weight": "4.0", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.2", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 74, 
+        "weight": "2.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.9", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.9", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 25, 
+        "weight": "3.5", 
+        "mechanic": "Point to Point Movement"
+    }, 
+    {
+        "count": 46, 
+        "weight": "1.4", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 75, 
+        "weight": "1.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 20, 
+        "weight": "1.6", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 32, 
+        "weight": "1.7", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 251, 
+        "weight": "1.0", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 32, 
+        "weight": "1.1", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 61, 
+        "weight": "1.2", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 42, 
+        "weight": "1.3", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.8", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.9", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.4", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.8", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.2", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.3", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 49, 
+        "weight": "3.0", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.1", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.3", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.2", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.1", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 198, 
+        "weight": "2.0", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.7", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.6", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.4", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.7", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.0", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.9", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.5", 
+        "mechanic": "Press Your Luck"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.4", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 46, 
+        "weight": "1.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.6", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 26, 
+        "weight": "1.7", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 211, 
+        "weight": "1.0", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.1", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.2", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.3", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.8", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.9", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.7", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.9", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.2", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.3", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 120, 
+        "weight": "3.0", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.1", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.3", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 30, 
+        "weight": "2.2", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 21, 
+        "weight": "2.1", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 145, 
+        "weight": "2.0", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 25, 
+        "weight": "2.7", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.6", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 51, 
+        "weight": "2.5", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 30, 
+        "weight": "2.4", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 5, 
+        "weight": "5.0", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 40, 
+        "weight": "4.0", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.3", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.2", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.8", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.9", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.4", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.8", 
+        "mechanic": "Pick-up and Deliver"
+    }, 
+    {
+        "count": 26, 
+        "weight": "1.4", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 62, 
+        "weight": "1.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 20, 
+        "weight": "1.6", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.7", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 147, 
+        "weight": "1.0", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.1", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.2", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.3", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.8", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.9", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.7", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.8", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.2", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.3", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 46, 
+        "weight": "3.0", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.1", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2.3", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.2", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.1", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 173, 
+        "weight": "2.0", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.7", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.6", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 25, 
+        "weight": "2.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.4", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.0", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.9", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.5", 
+        "mechanic": "Trick-taking"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.4", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 62, 
+        "weight": "1.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.6", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 20, 
+        "weight": "1.7", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 188, 
+        "weight": "1.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.1", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.2", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.3", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.8", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 21, 
+        "weight": "1.9", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.6", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 40, 
+        "weight": "3.7", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 59, 
+        "weight": "3.4", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 58, 
+        "weight": "2.8", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 49, 
+        "weight": "3.2", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 34, 
+        "weight": "3.3", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 356, 
+        "weight": "3.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 30, 
+        "weight": "3.1", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 44, 
+        "weight": "2.3", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 41, 
+        "weight": "2.2", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2.1", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 347, 
+        "weight": "2.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 61, 
+        "weight": "2.7", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 41, 
+        "weight": "2.6", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 27, 
+        "weight": "3.8", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 71, 
+        "weight": "2.4", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 22, 
+        "weight": "4.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 29, 
+        "weight": "4.4", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.7", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 10, 
+        "weight": "4.6", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.1", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 113, 
+        "weight": "4.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 16, 
+        "weight": "4.3", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 11, 
+        "weight": "4.2", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.9", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.8", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 123, 
+        "weight": "2.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.9", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 45, 
+        "weight": "5.0", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.9", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 72, 
+        "weight": "3.5", 
+        "mechanic": "Simulation"
+    }, 
+    {
+        "count": 74, 
+        "weight": "1.4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 161, 
+        "weight": "1.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 52, 
+        "weight": "1.6", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 94, 
+        "weight": "1.7", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 269, 
+        "weight": "1.0", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.1", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.2", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.3", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 96, 
+        "weight": "1.8", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 84, 
+        "weight": "1.9", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 38, 
+        "weight": "3.6", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 44, 
+        "weight": "3.7", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 106, 
+        "weight": "3.4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 146, 
+        "weight": "2.8", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 93, 
+        "weight": "3.2", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 67, 
+        "weight": "3.3", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 677, 
+        "weight": "3.0", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 32, 
+        "weight": "3.1", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 148, 
+        "weight": "2.3", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 159, 
+        "weight": "2.2", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 60, 
+        "weight": "2.1", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 797, 
+        "weight": "2.0", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 182, 
+        "weight": "2.7", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 118, 
+        "weight": "2.6", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 284, 
+        "weight": "2.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 249, 
+        "weight": "2.4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 36, 
+        "weight": "5.0", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.7", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.1", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 175, 
+        "weight": "4.0", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.3", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.2", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.8", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 38, 
+        "weight": "3.8", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 20, 
+        "weight": "3.9", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 115, 
+        "weight": "2.9", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 104, 
+        "weight": "3.5", 
+        "mechanic": "Variable Player Powers"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.4", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.6", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.7", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.2", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.3", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.8", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.9", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.7", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.4", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.2", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.3", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 113, 
+        "weight": "3.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.1", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.3", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.2", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.1", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 67, 
+        "weight": "2.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.7", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.6", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 27, 
+        "weight": "2.5", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.9", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 10, 
+        "weight": "5.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.4", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 41, 
+        "weight": "4.0", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.8", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 16, 
+        "weight": "2.4", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.9", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 32, 
+        "weight": "2.8", 
+        "mechanic": "Variable Phase Order"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.4", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 21, 
+        "weight": "1.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.6", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.7", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 65, 
+        "weight": "1.0", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.2", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.3", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.8", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.9", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.7", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.4", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.2", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.3", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 44, 
+        "weight": "3.0", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.1", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.3", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.2", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.1", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 93, 
+        "weight": "2.0", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.7", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.6", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.8", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.4", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "5.0", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.4", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.7", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.6", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.1", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 32, 
+        "weight": "4.0", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.3", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "4.2", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.9", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.5", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.9", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.8", 
+        "mechanic": "Stock Holding"
+    }, 
+    {
+        "count": 37, 
+        "weight": "1.4", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 82, 
+        "weight": "1.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.6", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 52, 
+        "weight": "1.7", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 370, 
+        "weight": "1.0", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.1", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 32, 
+        "weight": "1.2", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 27, 
+        "weight": "1.3", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 45, 
+        "weight": "1.8", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 29, 
+        "weight": "1.9", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.7", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 35, 
+        "weight": "3.4", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 66, 
+        "weight": "2.8", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 39, 
+        "weight": "3.2", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.3", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 293, 
+        "weight": "3.0", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.1", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.3", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 53, 
+        "weight": "2.2", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.1", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 436, 
+        "weight": "2.0", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 86, 
+        "weight": "2.7", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 56, 
+        "weight": "2.6", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 151, 
+        "weight": "2.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 93, 
+        "weight": "2.4", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 22, 
+        "weight": "5.0", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.4", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 65, 
+        "weight": "4.0", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.2", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.8", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.9", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 40, 
+        "weight": "2.9", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 39, 
+        "weight": "3.5", 
+        "mechanic": "Co-operative Play"
+    }, 
+    {
+        "count": 208, 
+        "weight": "1.4", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 418, 
+        "weight": "1.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 108, 
+        "weight": "1.6", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 187, 
+        "weight": "1.7", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 1846, 
+        "weight": "1.0", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 73, 
+        "weight": "1.1", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 167, 
+        "weight": "1.2", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 142, 
+        "weight": "1.3", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 176, 
+        "weight": "1.8", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 124, 
+        "weight": "1.9", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 60, 
+        "weight": "3.6", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 81, 
+        "weight": "3.7", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 135, 
+        "weight": "2.9", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 186, 
+        "weight": "3.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 156, 
+        "weight": "3.2", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 106, 
+        "weight": "3.3", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 1228, 
+        "weight": "3.0", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 71, 
+        "weight": "3.1", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 233, 
+        "weight": "2.3", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 213, 
+        "weight": "2.2", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 107, 
+        "weight": "2.1", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 1787, 
+        "weight": "2.0", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 262, 
+        "weight": "2.7", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 184, 
+        "weight": "2.6", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 71, 
+        "weight": "3.8", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 328, 
+        "weight": "2.4", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 107, 
+        "weight": "5.0", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 41, 
+        "weight": "4.4", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 11, 
+        "weight": "4.7", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 11, 
+        "weight": "4.6", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 19, 
+        "weight": "4.1", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 320, 
+        "weight": "4.0", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 20, 
+        "weight": "4.3", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 30, 
+        "weight": "4.2", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.9", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.8", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 472, 
+        "weight": "2.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 43, 
+        "weight": "3.9", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 23, 
+        "weight": "4.5", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 147, 
+        "weight": "3.4", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 232, 
+        "weight": "2.8", 
+        "mechanic": "Dice Rolling"
+    }, 
+    {
+        "count": 60, 
+        "weight": "1.4", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 75, 
+        "weight": "1.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.6", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 47, 
+        "weight": "1.7", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 248, 
+        "weight": "1.0", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 12, 
+        "weight": "1.1", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 37, 
+        "weight": "1.2", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 45, 
+        "weight": "1.3", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.8", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 29, 
+        "weight": "1.9", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.6", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.7", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.9", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.2", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 13, 
+        "weight": "3.3", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 128, 
+        "weight": "3.0", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.1", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 28, 
+        "weight": "2.3", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 35, 
+        "weight": "2.2", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 18, 
+        "weight": "2.1", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 217, 
+        "weight": "2.0", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 29, 
+        "weight": "2.7", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 23, 
+        "weight": "2.6", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 61, 
+        "weight": "2.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 54, 
+        "weight": "2.4", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 4, 
+        "weight": "5.0", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 26, 
+        "weight": "4.0", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.8", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.4", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.8", 
+        "mechanic": "Partnerships"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.4", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 30, 
+        "weight": "1.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.6", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.7", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 43, 
+        "weight": "1.0", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.2", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.3", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.8", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.9", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.6", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.7", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.9", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 24, 
+        "weight": "3.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 20, 
+        "weight": "3.2", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.3", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 82, 
+        "weight": "3.0", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.1", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.3", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.2", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.1", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 130, 
+        "weight": "2.0", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 32, 
+        "weight": "2.7", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 23, 
+        "weight": "2.6", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 35, 
+        "weight": "2.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 30, 
+        "weight": "2.4", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 13, 
+        "weight": "5.0", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.4", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.7", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.1", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 55, 
+        "weight": "4.0", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.3", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 14, 
+        "weight": "4.2", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.8", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.9", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.5", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 17, 
+        "weight": "3.4", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 21, 
+        "weight": "2.8", 
+        "mechanic": "Route/Network Building"
+    }, 
+    {
+        "count": 28, 
+        "weight": "1.4", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 47, 
+        "weight": "1.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.6", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 18, 
+        "weight": "1.7", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 244, 
+        "weight": "1.0", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.1", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 33, 
+        "weight": "1.2", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 31, 
+        "weight": "1.3", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.8", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 6, 
+        "weight": "1.9", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.9", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.8", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.2", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.3", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 56, 
+        "weight": "3.0", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.1", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.3", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.2", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 2, 
+        "weight": "2.1", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 95, 
+        "weight": "2.0", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.7", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.6", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.8", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 8, 
+        "weight": "2.4", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 4, 
+        "weight": "5.0", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.0", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 29, 
+        "weight": "2.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.4", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.5", 
+        "mechanic": "Storytelling"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.4", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.6", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.7", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 52, 
+        "weight": "1.0", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.2", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.3", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.8", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.9", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.7", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.4", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.2", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 35, 
+        "weight": "3.0", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.1", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.3", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.2", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.1", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 100, 
+        "weight": "2.0", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.7", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.6", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 22, 
+        "weight": "2.5", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.9", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 10, 
+        "weight": "4.0", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 16, 
+        "weight": "2.4", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.9", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.8", 
+        "mechanic": "Area Enclosure"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.4", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.5", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.7", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 57, 
+        "weight": "1.0", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.1", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.2", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.3", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.8", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.5", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.0", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.2", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 12, 
+        "weight": "2.0", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "5.0", 
+        "mechanic": "Singing"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.4", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.6", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.0", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.3", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.9", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.6", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.9", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.8", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.2", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.3", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 20, 
+        "weight": "3.0", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.3", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.2", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.1", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.0", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.7", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.6", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 15, 
+        "weight": "2.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.4", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.1", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.0", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.8", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.4", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.5", 
+        "mechanic": "Area-Impulse"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.4", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 8, 
+        "weight": "1.6", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 19, 
+        "weight": "1.7", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 44, 
+        "weight": "1.0", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.2", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 2, 
+        "weight": "1.3", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.8", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.9", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.6", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.7", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.9", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.8", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.2", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.3", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 51, 
+        "weight": "3.0", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.1", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.3", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.2", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.1", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 69, 
+        "weight": "2.0", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.7", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.6", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 13, 
+        "weight": "2.4", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.1", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 13, 
+        "weight": "4.0", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.3", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.2", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.8", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.4", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.5", 
+        "mechanic": "Commodity Speculation"
+    }, 
+    {
+        "count": 38, 
+        "weight": "1.4", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 77, 
+        "weight": "1.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 19, 
+        "weight": "1.6", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 54, 
+        "weight": "1.7", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 189, 
+        "weight": "1.0", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.1", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.2", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.3", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 45, 
+        "weight": "1.8", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 34, 
+        "weight": "1.9", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 13, 
+        "weight": "3.6", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.7", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.4", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.8", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.2", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.3", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 110, 
+        "weight": "3.0", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.1", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 34, 
+        "weight": "2.3", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 27, 
+        "weight": "2.2", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 23, 
+        "weight": "2.1", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 288, 
+        "weight": "2.0", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.7", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 33, 
+        "weight": "2.6", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 12, 
+        "weight": "3.8", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 55, 
+        "weight": "2.4", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 3, 
+        "weight": "5.0", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.4", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.1", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 22, 
+        "weight": "4.0", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.3", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.2", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 67, 
+        "weight": "2.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.9", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 10, 
+        "weight": "2.9", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.5", 
+        "mechanic": "Trading"
+    }, 
+    {
+        "count": 71, 
+        "weight": "1.4", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 176, 
+        "weight": "1.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 50, 
+        "weight": "1.6", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 97, 
+        "weight": "1.7", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 396, 
+        "weight": "1.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.1", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 50, 
+        "weight": "1.2", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 31, 
+        "weight": "1.3", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 85, 
+        "weight": "1.8", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 74, 
+        "weight": "1.9", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 13, 
+        "weight": "3.6", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.7", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.4", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 50, 
+        "weight": "2.8", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.2", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 21, 
+        "weight": "3.3", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 220, 
+        "weight": "3.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 21, 
+        "weight": "3.1", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 78, 
+        "weight": "2.3", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 75, 
+        "weight": "2.2", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 51, 
+        "weight": "2.1", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 535, 
+        "weight": "2.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 60, 
+        "weight": "2.7", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.6", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 119, 
+        "weight": "2.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 96, 
+        "weight": "2.4", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 12, 
+        "weight": "5.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "4.4", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.7", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 70, 
+        "weight": "4.0", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 12, 
+        "weight": "4.3", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 16, 
+        "weight": "4.2", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.8", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.8", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 14, 
+        "weight": "3.9", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 9, 
+        "weight": "4.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 35, 
+        "weight": "2.9", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 32, 
+        "weight": "3.5", 
+        "mechanic": "Tile Placement"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.4", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 23, 
+        "weight": "1.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.6", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.7", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 56, 
+        "weight": "1.0", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 1, 
+        "weight": "1.1", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.2", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.3", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.8", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 9, 
+        "weight": "1.9", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.6", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.7", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 20, 
+        "weight": "2.9", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 32, 
+        "weight": "2.8", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.2", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.3", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 137, 
+        "weight": "3.0", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.1", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 33, 
+        "weight": "2.3", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 37, 
+        "weight": "2.2", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.1", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 183, 
+        "weight": "2.0", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 35, 
+        "weight": "2.7", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 34, 
+        "weight": "2.6", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 71, 
+        "weight": "2.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 50, 
+        "weight": "2.4", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.4", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.6", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 21, 
+        "weight": "4.0", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.2", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.8", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.9", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.4", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 23, 
+        "weight": "3.5", 
+        "mechanic": "Campaign / Battle Card Driven"
+    }, 
+    {
+        "count": 30, 
+        "weight": "1.4", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 49, 
+        "weight": "1.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.6", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 33, 
+        "weight": "1.7", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 212, 
+        "weight": "1.0", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 14, 
+        "weight": "1.1", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.2", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 22, 
+        "weight": "1.3", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.8", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.9", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.6", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 5, 
+        "weight": "2.9", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.8", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 2, 
+        "weight": "3.2", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 3, 
+        "weight": "3.3", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 33, 
+        "weight": "3.0", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 1, 
+        "weight": "3.1", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 4, 
+        "weight": "2.3", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 16, 
+        "weight": "2.2", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 9, 
+        "weight": "2.1", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 153, 
+        "weight": "2.0", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.7", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 1, 
+        "weight": "2.6", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 13, 
+        "weight": "2.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 16, 
+        "weight": "2.4", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 2, 
+        "weight": "5.0", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.7", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.0", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.4", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 4, 
+        "weight": "3.5", 
+        "mechanic": "Betting/Wagering"
+    }, 
+    {
+        "count": 20, 
+        "weight": "1.4", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 63, 
+        "weight": "1.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 15, 
+        "weight": "1.6", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 29, 
+        "weight": "1.7", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 135, 
+        "weight": "1.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "1.1", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 11, 
+        "weight": "1.2", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.3", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 40, 
+        "weight": "1.8", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 24, 
+        "weight": "1.9", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.6", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.7", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 54, 
+        "weight": "2.9", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 56, 
+        "weight": "2.8", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 39, 
+        "weight": "3.2", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.3", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 255, 
+        "weight": "3.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.1", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 63, 
+        "weight": "2.3", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 61, 
+        "weight": "2.2", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 24, 
+        "weight": "2.1", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 337, 
+        "weight": "2.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 65, 
+        "weight": "2.7", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 51, 
+        "weight": "2.6", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 110, 
+        "weight": "2.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 79, 
+        "weight": "2.4", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.4", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.7", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 4, 
+        "weight": "4.1", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 51, 
+        "weight": "4.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.3", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.9", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.8", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 8, 
+        "weight": "3.9", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 6, 
+        "weight": "5.0", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 37, 
+        "weight": "3.4", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 42, 
+        "weight": "3.5", 
+        "mechanic": "Area Movement"
+    }, 
+    {
+        "count": 36, 
+        "weight": "1.4", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 83, 
+        "weight": "1.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 36, 
+        "weight": "1.6", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 51, 
+        "weight": "1.7", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 193, 
+        "weight": "1.0", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 16, 
+        "weight": "1.2", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 25, 
+        "weight": "1.3", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 49, 
+        "weight": "1.8", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 40, 
+        "weight": "1.9", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 18, 
+        "weight": "3.6", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.7", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 30, 
+        "weight": "3.4", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 29, 
+        "weight": "2.8", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 32, 
+        "weight": "3.2", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 26, 
+        "weight": "3.3", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 170, 
+        "weight": "3.0", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 22, 
+        "weight": "3.1", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 39, 
+        "weight": "2.3", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 49, 
+        "weight": "2.2", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 30, 
+        "weight": "2.1", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 320, 
+        "weight": "2.0", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 40, 
+        "weight": "2.7", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 43, 
+        "weight": "2.6", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 19, 
+        "weight": "3.8", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 15, 
+        "weight": "3.9", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 10, 
+        "weight": "5.0", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.4", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.7", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.1", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 42, 
+        "weight": "4.0", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.3", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 7, 
+        "weight": "4.2", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 3, 
+        "weight": "4.8", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 96, 
+        "weight": "2.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 63, 
+        "weight": "2.4", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 8, 
+        "weight": "4.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 36, 
+        "weight": "2.9", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 29, 
+        "weight": "3.5", 
+        "mechanic": "Auction/Bidding"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.4", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 17, 
+        "weight": "1.5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.6", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 7, 
+        "weight": "1.7", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 40, 
+        "weight": "1.0", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 3, 
+        "weight": "1.2", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 10, 
+        "weight": "1.8", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "1.9", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.6", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.7", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.9", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 26, 
+        "weight": "2.8", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 9, 
+        "weight": "3.2", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 7, 
+        "weight": "3.3", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 67, 
+        "weight": "3.0", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 10, 
+        "weight": "3.1", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 6, 
+        "weight": "2.3", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 7, 
+        "weight": "2.2", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 3, 
+        "weight": "2.1", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 70, 
+        "weight": "2.0", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 11, 
+        "weight": "2.7", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 19, 
+        "weight": "2.6", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 14, 
+        "weight": "2.5", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 17, 
+        "weight": "2.4", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 9, 
+        "weight": "5.0", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "4.1", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 15, 
+        "weight": "4.0", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.3", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 2, 
+        "weight": "4.2", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 1, 
+        "weight": "4.8", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 5, 
+        "weight": "3.8", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 6, 
+        "weight": "3.9", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 16, 
+        "weight": "3.4", 
+        "mechanic": "Chit-Pull System"
+    }, 
+    {
+        "count": 11, 
+        "weight": "3.5", 
+        "mechanic": "Chit-Pull System"
+    }
+]
