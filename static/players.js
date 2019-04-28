@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/30-minute-intervals
 // Title: 30 minute intervals
 // Author: Lily He (@tigerlily-he)
-// Version: 2140
+// Version: 2206
 // Runtime version: 1
 
 const m0 = {
-  id: "a18ea2ebc3466068@2140",
+  id: "a18ea2ebc3466068@2206",
   variables: [
     {
       inputs: ["md"],
@@ -489,9 +489,9 @@ createArr(mapdata)
       inputs: ["d3","DOM","series","color"],
       value: (function(d3,DOM,series,color)
 {
-  const svg = d3.select(DOM.svg(series.length * 70, 40))
+  const svg = d3.select(DOM.svg(series.length * 90, 40))
       .style("font", "10px sans-serif")
-      .style("margin-left", `250px`)
+      .style("margin-left", `100px`)
       .style("display", "block")
       .attr("text-anchor", "middle")
 
@@ -499,7 +499,7 @@ createArr(mapdata)
     .selectAll("g")
     .data(series)
     .join("g")
-      .attr("transform", (d, i) => `translate(${i * 55},0)`);
+      .attr("transform", (d, i) => `translate(${(i * 55) + 165},0)`);
 
   g.append("rect")
       .attr("width", 36)
@@ -512,14 +512,20 @@ createArr(mapdata)
       .attr("dy", "0.35em")
       .text(d => d.key);
   
+  svg.append("text")
+      .attr("x", 80)
+      .attr("y", 20)
+      .style("font", "14px sans-serif")
+      .text("Min. Play Time (minutes)");
+  
   return svg.node();
 }
 )
     },
     {
       name: "chart3",
-      inputs: ["d3","DOM","width","height","series","color","x","y","convertPlayerNum","data","xAxis","yAxis"],
-      value: (function(d3,DOM,width,height,series,color,x,y,convertPlayerNum,data,xAxis,yAxis)
+      inputs: ["d3","DOM","width","height","series","color","x","y","data","convertPlayerNum","xAxis","yAxis"],
+      value: (function(d3,DOM,width,height,series,color,x,y,data,convertPlayerNum,xAxis,yAxis)
 {
   const svg = d3.select(DOM.svg(width, height))
       .style("overflow", "visible");
@@ -527,6 +533,12 @@ createArr(mapdata)
    var t = d3.transition()
     .duration(750)
     .ease(d3.easeLinear);
+  
+    const user_input_player = {
+      "clicked": false,
+      "num_players": null,
+      "percent": null
+    }
   
   const stackedbar = svg.append("g")
     .selectAll("g")
@@ -546,10 +558,28 @@ createArr(mapdata)
       .attr("data-person", (d, i) => i)
       .attr("data-percent", d => ((d[1] - d[0])*100).toFixed(2)+"%")
       .classed("stacked-rect", true)
+      .style("cursor", "pointer")
+  
+    function mouseOutEvent() {
+        if (!user_input_player['clicked']){
+      d3.selectAll(".percentage-line").remove();
+      d3.select(this).attr("stroke", "none");
+      d3.select("#tooltip").remove();
+    
+      data.columns.slice(1).forEach(k => {
+        d3.selectAll(`.b${k.split("+").join("")}`).attr("fill", color(k)).transition(t)
+      })
+    
+      d3.selectAll(".stacked-rect").attr("fill", null).transition(t)
+      d3.selectAll(".stacked-rect").attr("fill-opacity", null).transition(t)
+      d3.selectAll(".stacked_bar").attr("fill-opacity", null)
+    }
+  }
   
   stackedbar
     .on("mouseover", function (){
-         // Get this bar's x/y values, then augment for the tooltip
+    if (!user_input_player['clicked']){
+       // Get this bar's x/y values, then augment for the tooltip
       var xpos = parseFloat(d3.select(this).attr("x"));
       var ypos = parseFloat(d3.select(this).attr("y"));
       // Create the tooltip label as an SVG group with a text and a rect inside
@@ -562,6 +592,7 @@ createArr(mapdata)
         .attr("fill", "#f2eff2")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2) - 5)
         .attr("y", ypos-50)
+     
       tgrp.append("text")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
         .attr("y", ypos-40)
@@ -571,6 +602,7 @@ createArr(mapdata)
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(d3.select(this).attr("data-percent"));
+      
       tgrp.append("text")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
         .attr("y", ypos-25)
@@ -589,25 +621,94 @@ createArr(mapdata)
       .style("stroke", "black")
       .classed("percentage-line", true)
 
-      // d3.selectAll(".stacked_bar").attr("fill", "#fafafa")
       d3.selectAll(".stacked_bar").attr("fill-opacity", "0.2")
 
       d3.select(this).attr("fill", color(d3.select(this.parentNode).attr("data-key")))
       d3.select(this).attr("fill-opacity", 1)
+    }
       
   })
-    .on("mouseout", function () {
-    d3.selectAll(".percentage-line").remove();
-    d3.select(this).attr("stroke", "none");
-    d3.select("#tooltip").remove();
+  .on("click", function () {
+    const clicked_player_num = d3.select(this).attr("data-person");
+    const clicked_time_percent = d3.select(this).attr("data-percent");
     
-    data.columns.slice(1).forEach(k => {
-       d3.selectAll(`.b${k.split("+").join("")}`).attr("fill", color(k)).transition(t)
-    })
+    if (user_input_player['num_players'] == clicked_player_num 
+        && user_input_player['percent'] == clicked_time_percent){
+      user_input_player['clicked'] = false;
+      user_input_player['num_players'] = null;
+      user_input_player['percent'] = null;
+    } else {
+      user_input_player['clicked'] = true;
+      user_input_player['num_players'] = clicked_player_num;
+      user_input_player['percent'] = clicked_time_percent;
+      
+      /* Mouse Out Event */
+            d3.selectAll(".percentage-line").remove();
+      d3.select(this).attr("stroke", "none");
+      d3.select("#tooltip").remove();
     
-    d3.selectAll(".stacked-rect").attr("fill", null).transition(t)
-    d3.selectAll(".stacked-rect").attr("fill-opacity", null).transition(t)
-    d3.selectAll(".stacked_bar").attr("fill-opacity", null)
+      data.columns.slice(1).forEach(k => {
+        d3.selectAll(`.b${k.split("+").join("")}`).attr("fill", color(k)).transition(t)
+      })
+    
+      d3.selectAll(".stacked-rect").attr("fill", null).transition(t)
+      d3.selectAll(".stacked-rect").attr("fill-opacity", null).transition(t)
+      d3.selectAll(".stacked_bar").attr("fill-opacity", null)
+      
+      /* Mouse Over Event */
+      
+         // Get this bar's x/y values, then augment for the tooltip
+      var xpos = parseFloat(d3.select(this).attr("x"));
+      var ypos = parseFloat(d3.select(this).attr("y"));
+      // Create the tooltip label as an SVG group with a text and a rect inside
+      var tgrp = svg.append("g")
+        .attr("id", "tooltip")
+        // .attr("transform", (d, i) => `translate(${xpos},${ypos})`);
+      tgrp.append("rect")
+        .attr("width", "70px")
+        .attr("height", "40px")
+        .attr("fill", "#f2eff2")
+        .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2) - 5)
+        .attr("y", ypos-50)
+     
+      tgrp.append("text")
+        .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
+        .attr("y", ypos-40)
+        .attr("text-anchor", "left")
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "13px")
+        .attr("font-weight", "bold")
+        .attr("fill", "black")
+        .text(d3.select(this).attr("data-percent"));
+      
+      tgrp.append("text")
+        .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
+        .attr("y", ypos-25)
+        .attr("text-anchor", "left")
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "13px")
+        .attr("font-weight", "bold")
+        .attr("fill", "black")
+        .text(convertPlayerNum(d3.select(this).attr("data-person")));
+    
+      svg.append('line')
+      .attr("x1", parseFloat(d3.select(this).attr("x"))+ (parseInt(d3.select(this).attr("width"))/3))
+      .attr("y1", parseFloat(d3.select(this).attr("y")))
+      .attr("x2", xpos + (parseInt(d3.select(this).attr("width"))/2) - 5)
+      .attr("y2", ypos-15)
+      .style("stroke", "black")
+      .classed("percentage-line", true)
+
+      d3.selectAll(".stacked_bar").attr("fill-opacity", "0.2")
+
+      d3.select(this).attr("fill", color(d3.select(this.parentNode).attr("data-key")))
+      d3.select(this).attr("fill-opacity", 1)
+    
+    }
+    console.log(user_input_player['clicked']);
+  })
+  .on("mouseout", function () {
+    mouseOutEvent()
    
   })
   
@@ -618,6 +719,24 @@ createArr(mapdata)
 
   svg.append("g")
       .call(yAxis);
+  
+    var legend1 = svg.append("text")
+      .text("% Games for Cooresponding Min. Players")
+      .attr("x", width*0.25)
+      .attr("y", height*0.2)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "20px")
+    
+     var legend2 = svg.append("text")
+      .text("Min. Number of Players")
+      .attr("x", width*0.01)
+      .attr("y", height*0.9)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "20px")
+      .attr("transform", `rotate(-90,${width*0.01}, ${height*0.9})`)
+                
 
   return svg.node();
 }
@@ -688,7 +807,7 @@ d3.scaleBand()
     {
       name: "margin",
       value: (function(){return(
-{top: 30, right: 10, bottom: 0, left: 30}
+{top: 100, right: 10, bottom: 0, left: 50}
 )})
     },
     {
@@ -895,7 +1014,7 @@ require("d3-format@1")
 };
 
 const notebook_players = {
-  id: "a18ea2ebc3466068@2140",
+  id: "a18ea2ebc3466068@2206",
   modules: [m0,m1]
 };
 

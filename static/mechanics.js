@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/matrix-of-board-game-mechanics
 // Title: Matrix of Board Game Mechanics
 // Author: Lily He (@tigerlily-he)
-// Version: 429
+// Version: 430
 // Runtime version: 1
 
 const m0 = {
-  id: "2d7af585c7b50d87@429",
+  id: "2d7af585c7b50d87@430",
   variables: [
     {
       inputs: ["md"],
@@ -48,6 +48,7 @@ md`# Matrix of Board Game Mechanics
       .attr("stroke", "#e2e2e2")
       .attr("id", (d,i) => `mech_${i}`)
       .attr("data-mech", d => d.mechanic)
+      .attr("class", "heatmap-button")
       .on("mouseover", function (){
     d3.select(this).attr("fill", "orange")
     
@@ -280,7 +281,7 @@ d3.scaleSequential()
 };
 
 const notebook2 = {
-  id: "2d7af585c7b50d87@429",
+  id: "2d7af585c7b50d87@430",
   modules: [m0]
 };
 

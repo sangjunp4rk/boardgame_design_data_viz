@@ -19,6 +19,11 @@ def main():
 def load_data():
 	json_data = request.get_json()
 
+	print "!!!!"
+	print json_data['category']
+	print json_data['mechanics']
+	print json_data['min_players']
+
 	df = pd.read_csv('games_data.csv', sep=',')
 
 	## CALCULATE CATEGORY RATING ##
@@ -51,7 +56,10 @@ def load_data():
 	min_players = json_data['min_players']
 
 	# filter based on min players
-	filtered_min_players_df = df[df['minplayers'] == min_players]
+	if min_players == 6:
+		filtered_min_players_df = df[df['minplayers'] > 5]
+	else:
+		filtered_min_players_df = df[df['minplayers'] == min_players]
 
 	# filter 0s
 	filtered_min_players_df = filtered_min_players_df[filtered_min_players_df['average_rating'] != 0.0]
@@ -63,6 +71,11 @@ def load_data():
 	## CALCULATE AVERAGE MEAN ##
 	average_list = [category_mean, mechanics_mean, min_players_mean]
 	estimated_average = reduce(lambda x, y: x + y, average_list) / len(average_list)
+
+	print category_mean
+	print mechanics_mean
+	print min_players_mean
+	print estimated_average
 
 	return jsonify(calculated_rating = estimated_average)
 
