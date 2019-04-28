@@ -7,10 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 
-    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script type="text/javascript" src="{{ url_for('static', filename = 'main.js') }}"></script>
@@ -28,6 +31,29 @@
         }
       });
 
+      import notebook_players from "{{ url_for('static', filename='players.js')}}";
+      Runtime.load(notebook_players, (cell) => {
+        if (cell.name === "chart3") {
+          return {
+            fulfilled: (value) => {
+              document.getElementById("num_of_players_data_viz").appendChild(value);
+            }
+          };
+        }
+      });
+
+      import notebook2 from "{{ url_for('static', filename='mechanics.js')}}";
+      Runtime.load(notebook2, (cell) => {
+        if (cell.name === "chart2") {
+          return {
+            fulfilled: (value) => {
+              document.getElementById("mechanics_data_viz").appendChild(value);
+            }
+          };
+        }
+      });
+
+
     </script>
 
     <style>
@@ -37,9 +63,8 @@
   <body>
     <!-- WELCOME PANEL -->
     <div class="row panel" id="welcome_panel">
-      <img src="static/images/monopoly_man.jpg" id="monopoly_man_image"/>
+<!--       <img src="static/images/monopoly_man.jpg" id="monopoly_man_image"/> -->
       <div class="col-lg-12" id="welcome_header">
-
         Designing the Perfect <br/>
         BOARDGAME!
       </div>
@@ -59,14 +84,14 @@
           </div>
           <div class="col-lg-11">
             <div class="row" id="rules_header">
-              Rules of the Game
+              How to Design the Perfect Board Game
             </div>
 
             <div class="row" id="rules_list">
-              <div class="col-lg-6">
-                1) Consectetur adipiscing elit. Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.  <br/>
-                2) Lorem ipsum dolor sit amet. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et. <br/>
-                3) Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.  
+              <div class="col-lg-9">
+                Board games have been classic ways of spending time with family and friends.   <br/> <br/>
+                Not surprisingly, there are a lot of resources for board game fanatics, ranging from guides on winning Monopoly to discussions of game mechanics. On the flip side, there are not a lot of resources to designing the perfect board game. Articles such as FiveThirtyEight’s “Designing The Best Board Game On The Planet” and Board Game Geeks’ Analysis of Board Games provides useful information, but ironically, these resources are not “fun.” The purpose of this project is to provide insight on different aspects of board games in an interactive, user-friendly way.  <br/> <br/>
+                The audience of our project is not only board game designers and makers, but also players who want to learn more about the general landscape of board games such as the behind-the-scenes for board games with high user ratings, relationships between different themes and categories, and the intersection between game mechanics and difficulty of the game. 
               </div>
             </div>
           </div>
@@ -92,11 +117,51 @@
 
       <div class="col-lg-4">
         <div class="row" id="category_header">
-          Category Exploration
+          Categories Wheel
         </div>
 
         <div class="row" id="category_text">
-          Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.
+          Categories are an important aspect of board games - they are themes, such as fantasy and simulations, that board games are built on. A board game may have a single category, or multiple. The category web above shows the relationships between different categories.
+        </div>
+
+        <div class="row" id="category_selection_header">
+          <div class="selection_header">Your Selection: </div>
+        </div>
+
+        <div class="row" id="category_selection_text">
+          <div class="selection_text">&nbsp;</div>
+        </div>
+
+        <div class="row" id="category_rules_div">
+          <!-- Button to Open the Modal -->
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#categoryModal">
+            User Guide
+          </button>
+
+          <!-- The Modal -->
+          <div class="modal" id="categoryModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                  <h4 class="modal-title">Category User Guide</h4>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                  Each point in the circle denotes a single category. Once a category is selected, lines of varying intensities connect a point to other points in the circle. The intensity of the color is correlated with how closely related the different categories are. 
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -104,18 +169,164 @@
 
     <!-- NUM OF PLAYERS PANEL -->
     <div class="row panel" id="num_of_players_panel">
-      <div class="col-lg-4">
-        <div class="row" id="num_of_players_header">
-          Number of Player vs Time
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="row" id="num_of_players_header">
+              Time vs. Number of Players 
+            </div>
+
+            <div class="row" id="num_of_players_text">
+              Next, we explore the relationship between the number of players and minimum playing time of the board game.
+            </div>
+
+            <div class="row" id="players_selection_header">
+              <div class="selection_header">Your Selection: </div>
+            </div>
+
+            <div class="row" id="players_selection_text">
+              <div class="selection_text">&nbsp;</div>
+            </div>
+
+            <div class="row" id="num_of_players_rules_div">
+              <!-- Button to Open the Modal -->
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#playersModal">
+                User Guide
+              </button>
+
+              <!-- The Modal -->
+              <div class="modal" id="playersModal">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                      <h4 class="modal-title">Number of Players User Guide</h4>
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                      The visualization above shows the relative proportion of the minimum playing time given the minimum number of players. For example, out of the board games with a minimum of two players, ---% require a minimum playing of time of between 30-60 minutes. Because there were varying numbers of board games with different number of players, the data was normalized and displayed according to proportions to show the overall trends of the relationship between playing times and number of players. <br/>
+
+                      Hovering over individual bars of the bar chart will show the actual individual percentage of the bar, ----
+
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-8">
+            <div class="btn-group btn-group-toggle" data-toggle="buttons">
+              <label class="btn btn-secondary active">
+                <input type="radio" name="options" id="option1" autocomplete="off"> 1
+              </label>
+              <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option2" autocomplete="off"> 2
+              </label>
+              <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option3" autocomplete="off"> 3
+              </label>
+               <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option4" autocomplete="off"> 4
+              </label>
+               <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option5" autocomplete="off"> 5
+              </label>
+              <label class="btn btn-secondary">
+                <input type="radio" name="options" id="option5+" autocomplete="off"> 5+
+              </label>
+            </div>
+          </div>
+
         </div>
 
-        <div class="row" id="num_of_players_text">
-          Cras at maximus justo, sit amet pellentesque metus. Phasellus non quam quis ex bibendum interdum. Praesent efficitur ultricies velit, vel blandit nisl condimentum et.
+
+
+
+
+        <div class="row">
+          <div class="col-lg-8" id="num_of_players_data_viz">
+          </div>
         </div>
       </div>
+    </div>
 
-      <div class="col-lg-8">
-        <!-- @Brian insert your graphs here -->
+    <!-- MECHANICS PANEL -->
+    <div class="row panel" id="mechanics_panel">
+      <div class="col-lg-8" id="mechanics_data_viz">
+      
+      </div>
+
+      <div class="col-lg-4">
+        <div class="row" id="mechanics_header">
+          Board Game Mechanics vs. Difficulty
+        </div>
+
+        <div class="row" id="mechanics_text">
+          Mechanics are the “how” of the board games, such as dice rolling and role playing. 
+        </div>
+
+        <div class="row" id="num_of_players_rules_div">
+          <!-- Button to Open the Modal -->
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#mechanicsModal">
+            User Guide
+          </button>
+
+          <!-- The Modal -->
+          <div class="modal" id="mechanicsModal">
+            <div class="modal-dialog">
+              <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                  <h4 class="modal-title">Mechanics and Difficulty User Guide</h4>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                  The heat map above shows the relationship between board game mechanics, frequency/count, and difficulty. Frequency/count is the number of board games that is matched with the corresponding level of difficulty and board game mechanics. The difficulty rating is determined by users on Board Game Geeks, with 1 being the easiest and 5 being the most difficult. Hovering over individual boxes of matrix includes explanation of the mechanic, count of the mechanic, and difficulty. 
+
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- RATING RESULT -->
+    <div class="row panel" id="rating_panel">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="row" id="results_header">
+              Result
+            </div>
+
+            <div class="row" id="results_text">
+              xyz....
+            </div>
+
+            <div class="col-lg-8">
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
