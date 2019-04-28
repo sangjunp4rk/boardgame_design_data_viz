@@ -39,6 +39,7 @@ html {
 
 #welcome_panel {
 	background-color: white;
+	background-image: linear-gradient(to bottom right, #FFFDE4, #005AA7);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -62,6 +63,8 @@ html {
 	height: 10vh;
 	width: 15vw;
 	font-size: 1.5rem;
+	background-color: transparent;
+	border: 2px solid #005AA7;
 }
 
 #monopoly_man_image {
@@ -69,6 +72,7 @@ html {
 	margin-left: -30vw;
 	margin-top: 30vh;
 }
+
 
 
 /** RULES PANEL **/
@@ -94,6 +98,10 @@ html {
 
 
 /** CATEGORY PANEL **/
+
+#category_panel {
+
+}
 
 #category_data_viz {
 	margin-top: -3vh;
@@ -214,5 +222,9 @@ input[type=radio]{
 }
 
 
+/** RESULTS PANEL **/
 
+#rating_panel {
+	background-color: #005AA7;
+}
 
