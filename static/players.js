@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/30-minute-intervals
 // Title: 30 minute intervals
 // Author: Lily He (@tigerlily-he)
-// Version: 2135
+// Version: 2140
 // Runtime version: 1
 
 const m0 = {
-  id: "a18ea2ebc3466068@2135",
+  id: "a18ea2ebc3466068@2140",
   variables: [
     {
       inputs: ["md"],
@@ -558,7 +558,7 @@ createArr(mapdata)
         // .attr("transform", (d, i) => `translate(${xpos},${ypos})`);
       tgrp.append("rect")
         .attr("width", "70px")
-        .attr("height", "30px")
+        .attr("height", "40px")
         .attr("fill", "#f2eff2")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2) - 5)
         .attr("y", ypos-50)
@@ -567,7 +567,7 @@ createArr(mapdata)
         .attr("y", ypos-40)
         .attr("text-anchor", "left")
         .attr("font-family", "sans-serif")
-        .attr("font-size", "11px")
+        .attr("font-size", "13px")
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(d3.select(this).attr("data-percent"));
@@ -576,7 +576,7 @@ createArr(mapdata)
         .attr("y", ypos-25)
         .attr("text-anchor", "left")
         .attr("font-family", "sans-serif")
-        .attr("font-size", "11px")
+        .attr("font-size", "13px")
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(convertPlayerNum(d3.select(this).attr("data-person")));
@@ -695,7 +695,7 @@ d3.scaleBand()
       name: "height",
       inputs: ["data","margin"],
       value: (function(data,margin){return(
-data.length * 25 + margin.top + margin.bottom
+data.length * 45 + margin.top + margin.bottom
 )})
     },
     {
@@ -895,7 +895,7 @@ require("d3-format@1")
 };
 
 const notebook_players = {
-  id: "a18ea2ebc3466068@2135",
+  id: "a18ea2ebc3466068@2140",
   modules: [m0,m1]
 };
 
