@@ -8,7 +8,12 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 	// 6.036603119145441
 	// 6.0981073624929545
 	// overall_rating = 5.765892513779056
-	$("#results_text").html(overall_rating)
+	$("#category_score_number_id").html(category_mean)
+	$("#players_score_number_id").html(mechanics_mean)
+	$("#mechanism_score_number_id").html(min_players_selected)
+	$("#overall_score_number_id").html(overall_rating)
+	
+
 }
 
 function myFunction() {
@@ -93,11 +98,12 @@ $(document).ready(function(){
 		
 	})
 
-	$("#rating_panel").on("click", "#get_results", function() {
+	$("#rating_panel").on("click", "#calculate_score_button", function() {
 		// check if all fields are valid (first three lines)
 		// if it doesn't throw an alert 
 		get_rating()
 	})
+
 
 	// $("#rules_arrow_div").on("click", '.down_arrow', function() {
 	// 	$("#Zombies").click();

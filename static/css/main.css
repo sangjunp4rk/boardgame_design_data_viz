@@ -232,12 +232,55 @@ input[type=radio]{
 
 #rating_panel {
 
-	background-color: pink;
-	margin-top: 2rem;
+/*	background-color: pink;*/
+	margin-top: 4rem;
+	background-image: linear-gradient(to bottom right, #FFFDE4, #005AA7);
+}
 
-	
+.sub_score {
+	border: 2px solid #005AA7;
+	text-align: center;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
 
+.sub_score_number {
+	font-size: 4rem;
+}
 
+.sub_score_caption {
+	font-size: 1.5rem;
+}
+
+.inner_rating_div {
+	padding-top: 10vh;
+}
+
+.overall_rating_div {
+	padding-top: 10vh;
+	text-align: center;
+}
+
+.overall_score_number {
+	font-size: 8rem;
+	font-weight: bold;
+}
+
+.overall_score_caption {
+	font-size: 1.5rem;
+}
+
+.score_button_div {
+	text-align: center;
+}
+
+#calculate_score_button {
+	margin-top: 10vh;
+	height: 8vh;
+	width: 15vw;
+	font-size: 1.5rem;
+	background-color: transparent;
+	border: 2px solid #005AA7;
 }
 
 #left-text{

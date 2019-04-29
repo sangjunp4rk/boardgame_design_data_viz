@@ -77,6 +77,11 @@ def load_data():
 	print min_players_mean
 	print estimated_average
 
+	category_mean = round(category_mean, 2)
+	mechanics_mean = round(mechanics_mean, 2)
+	min_players_mean = round(min_players_mean, 2)
+	estimated_average = round(estimated_average, 2)
+
 	return jsonify(calculated_rating = estimated_average, category_mean=category_mean, mechanics_mean=mechanics_mean, min_players_mean=min_players_mean)
 
 
