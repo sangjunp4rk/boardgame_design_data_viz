@@ -2,13 +2,11 @@ var category_text = ""
 var mechanic_selected_name = ""
 var min_players_selected = 0
 
-function load_rating(overall_rating, category_mean, mechanics_mean, min_players_selected) {
-	// 5.765892513779056
-	// 6.491826454554369
-	// 6.036603119145441
-	// 6.0981073624929545
-	// overall_rating = 5.765892513779056
-	$("#results_text").html(overall_rating)
+function load_rating(overall_rating, category_mean, mechanics_mean, min_players_mean) {
+	$("#category_rating").html(category_mean.toFixed(2));
+	$("#players_rating").html(min_players_mean.toFixed(2));
+	$("#mechanism_rating").html(mechanics_mean.toFixed(2));
+	$("#overall_rating").html(overall_rating.toFixed(2));
 }
 
 function myFunction() {
@@ -71,12 +69,20 @@ $(document).ready(function(){
 		category_text = $("#" + this.id).text()
 		console.log(category_text)
 		$("#category_selection_text").html(category_text)
+		$("#user_category").html(category_text);
+
+		$("#category_rating").html("--");
+		$("#overall_rating").html("--");
 	})
 
 	$("#mechanics_data_viz").on("click", ".heatmap-button", function() {
 		console.log($(this).attr('data-mech'))
 		mechanic_selected_name = $(this).attr('data-mech')
 		$("#mechanics_selection_text").html(mechanic_selected_name)
+		$("#user_mechanism").html(mechanic_selected_name);
+
+		$("#mechanism_rating").html("--");
+		$("#overall_rating").html("--");
 	})
 
 	$("#num_of_players_data_viz").on("click", ".stacked-rect", function() {
@@ -87,15 +93,20 @@ $(document).ready(function(){
 		console.log(min_players_selected)
 		if (min_players_selected == 6) {
 			$("#players_selection_text").html("5+")
+			$("#user_players").html("5+");
 		} else {
 			$("#players_selection_text").html(min_players_selected)
+			$("#user_players").html(min_players_selected);
 		}
-		
+
+		$("#players_rating").html("--");
+		$("#overall_rating").html("--");
+
 	})
 
 	$("#rating_panel").on("click", "#get_results", function() {
 		// check if all fields are valid (first three lines)
-		// if it doesn't throw an alert 
+		// if it doesn't throw an alert
 		get_rating()
 	})
 
@@ -104,5 +115,5 @@ $(document).ready(function(){
 	// 	console.log("!!!!")
 	// })
 
-	
+
 })
