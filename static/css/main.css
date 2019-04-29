@@ -234,7 +234,7 @@ input[type=radio]{
 
 /*	background-color: pink;*/
 	margin-top: 4rem;
-	background-image: linear-gradient(to bottom right, #FFFDE4, #005AA7);
+  background-image: linear-gradient(to bottom right, rgb(189, 229, 191), rgb(43, 141, 191));
 }
 
 .sub_score {
@@ -288,6 +288,3 @@ input[type=radio]{
 	top: 47%;
 	font-size: 3rem;
 }
-
-
-
