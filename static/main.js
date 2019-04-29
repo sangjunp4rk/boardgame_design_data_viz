@@ -2,13 +2,23 @@ var category_text = ""
 var mechanic_selected_name = ""
 var min_players_selected = 0
 
-function load_rating(overall_rating, category_mean, mechanics_mean, min_players_selected) {
-	// 5.765892513779056
-	// 6.491826454554369
-	// 6.036603119145441
-	// 6.0981073624929545
-	// overall_rating = 5.765892513779056
-	$("#results_text").html(overall_rating)
+function load_rating(overall_rating, category_mean, mechanics_mean, min_players_mean) {
+	$("#results_text").empty();
+	const newContainer = $('<div class="row">');
+
+	const categoryDiv = $('<div class="col-md-4">')
+	categoryDiv.html(category_mean.toFixed(2))
+	newContainer.append(categoryDiv);
+	//
+	const minPlayersDiv = $('<div class="col-md-4">')
+	minPlayersDiv.html(min_players_mean.toFixed(2))
+	newContainer.append(minPlayersDiv);
+
+	const mechanicsDiv = $('<div class="col-md-4">')
+	mechanicsDiv.html(mechanics_mean.toFixed(2));
+	newContainer.append(mechanicsDiv);
+
+	$("#results_text").append(newContainer);
 }
 
 function convertPlayerNum(text){
@@ -85,12 +95,12 @@ $(document).ready(function(){
 		} else {
 			$("#players_selection_text").html(min_players_selected)
 		}
-		
+
 	})
 
 	$("#rating_panel").on("click", "#get_results", function() {
 		// check if all fields are valid (first three lines)
-		// if it doesn't throw an alert 
+		// if it doesn't throw an alert
 		get_rating()
 	})
 
@@ -99,5 +109,5 @@ $(document).ready(function(){
 	// 	console.log("!!!!")
 	// })
 
-	
+
 })
