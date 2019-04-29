@@ -77,11 +77,17 @@ html {
 
 /** RULES PANEL **/
 
-#rules_panel {
+#description {
 	background-color: lightgrey;
 	padding-top: 5vh;
 }
-
+.toggletext {
+  width: 100%;
+  padding: 25px;
+  background-color: coral;
+  color: white;
+  font-size: 25px;
+}
 #rules_header {
 	font-size: 3rem;
 }
@@ -225,6 +231,20 @@ input[type=radio]{
 /** RESULTS PANEL **/
 
 #rating_panel {
-	background-color: #005AA7;
+
+	background-color: pink;
+	margin-top: 2rem;
+
+	
+
+
 }
+
+#left-text{
+	position: absolute;
+	top: 47%;
+	font-size: 3rem;
+}
+
+
 
