@@ -81,12 +81,20 @@ html {
 	background-color: lightgrey;
 	padding-top: 5vh;
 }
-.toggletext {
+
+.toggleCategoriesText {
   width: 100%;
   padding: 25px;
   background-color: coral;
-  color: white;
-  font-size: 25px;
+  color: black;
+	font-size: 1em;
+}
+.toggleTimeText {
+  width: 100%;
+  padding: 25px;
+  background-color: coral;
+  color: black;
+	font-size: 1em;
 }
 #rules_header {
 	font-size: 3rem;

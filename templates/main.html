@@ -188,12 +188,16 @@
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#categoryModal" style="margin-right: 2.5%;" >
             User Guide
           </button>
-          <button type="button" onclick="myFunction()" class="btn btn-primary"  style="margin-left: 2.5%;">
+          <button type="button" onclick="myCategoriesFunction()" class="btn btn-primary"  style="margin-left: 2.5%;">
             Data Insight
           </button>
-          <div id="myDIV" style="position: absolute; top: 50%; color: white;" >
+          <div id="myCatgoriesDIV" style="position: absolute; top: 45%; color: white; z-index: -1; 	" >
+            <ul style="list-style-type:circle;">
+  <li>Broad categories that encompassed mechanics of the game, such as dice and card games, were connected with numerous topical categories. </li>
+  <li>Many connections between different categories are intuitive: for example, the connection between zombie and horror games is strong, along with the connection between novel-based and fantasy games. </li>
+  <li>On the other hand, there are surprising connections. For example, wargame has the greatest number of overlap with miniatures. </li>
+</ul>
             
-            fdsafasd
         </div>
           <!-- The Modal -->
           <div class="modal" id="categoryModal">
@@ -250,6 +254,20 @@
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#playersModal">
                 User Guide
               </button>
+
+              
+              <button type="button" onclick="time()" class="btn btn-primary"  style="margin-left: 2.5%;">
+            Data Insight
+          </button>
+          <div id="myTimeDIV" style="position: absolute; top: 60%; color: white; z-index: -1; 	" >
+          <ul>
+            
+  <li>There is no significant variation in playing times between games with 1-5 minimum players.  </li>
+  <li>The bulk of playing times of games with 1-5 minimum players is 0-60 minutes. </li>
+  <li>Unsurprisingly, a large percentage of games that require more than 5 players at minimum had playing times of greater than 2.5 hours. 
+ </li>
+</ul> 
+        </div>
 
               <!-- The Modal -->
               <div class="modal" id="playersModal">

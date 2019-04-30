@@ -19,10 +19,7 @@ def main():
 def load_data():
 	json_data = request.get_json()
 
-	print "!!!!"
-	print json_data['category']
-	print json_data['mechanics']
-	print json_data['min_players']
+
 
 	df = pd.read_csv('games_data.csv', sep=',')
 
@@ -72,10 +69,6 @@ def load_data():
 	average_list = [category_mean, mechanics_mean, min_players_mean]
 	estimated_average = reduce(lambda x, y: x + y, average_list) / len(average_list)
 
-	print category_mean
-	print mechanics_mean
-	print min_players_mean
-	print estimated_average
 
 	return jsonify(calculated_rating = estimated_average, category_mean=category_mean, mechanics_mean=mechanics_mean, min_players_mean=min_players_mean)
 
