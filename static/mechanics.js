@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/matrix-of-board-game-mechanics
 // Title: Matrix of Board Game Mechanics
 // Author: Lily He (@tigerlily-he)
-// Version: 430
+// Version: 450
 // Runtime version: 1
 
 const m0 = {
-  id: "2d7af585c7b50d87@430",
+  id: "2d7af585c7b50d87@450",
   variables: [
     {
       inputs: ["md"],
@@ -104,6 +104,23 @@ md`# Matrix of Board Game Mechanics
     // .append("title")
     //   .text(d => d.count)
   
+   var legend1 = svg.append("text")
+      .text("Difficulty (easiest to hardest)")
+      .attr("x", width*0.4)
+      .attr("y", h*0.030)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "18px")
+  
+   var legend2 = svg.append("text")
+      .text("Mechanic")
+      .attr("x", width*0.12)
+      .attr("y", h*0.055)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "14px")
+   
+   
   g.selectAll(".mech")
     .data(mechanics)
     .enter().append("text")
@@ -224,7 +241,7 @@ d3.json("https://raw.githubusercontent.com/sangjunp4rk/boardgame_design_data_viz
     {
       name: "margin",
       value: (function(){return(
-{ top: 40, right: 30, bottom: 70, left: 200 }
+{ top: 60, right: 30, bottom: 70, left: 200 }
 )})
     },
     {
@@ -281,7 +298,7 @@ d3.scaleSequential()
 };
 
 const notebook2 = {
-  id: "2d7af585c7b50d87@430",
+  id: "2d7af585c7b50d87@450",
   modules: [m0]
 };
 

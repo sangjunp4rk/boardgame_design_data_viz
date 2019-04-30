@@ -79,7 +79,7 @@
         BOARD GAME!
       </div>
 
-      
+
       <a href="#rules_panel">
         <button type="button" class="btn btn-primary" id="welcome_button">Let's Get Started</button>
       </a>
@@ -93,16 +93,16 @@
           <div class="col-lg-1">
           </div>
           <div class="col-lg-11">
-            <div class="row" id="rules_header" style="font-size: 4em;">
+            <div class="row" id="rules_header" style="font-size: 3em; padding-top: 5vh; padding-bottom: 3vh;">
               Rules of the Game
             </div>
 
             <div class="row" id="rules_list">
-              <div class="col-lg-9"  style="font-size: 2em;">
-                1. Explore the visualizations - be sure to click and hover over different parts of the visualization! <br>
-2. Check out the “Data Insights” section to get more insights about the data! <br>
-3. Design your own board game by selecting your own criteria!  <br>
-4. At the end of the visualization, see what user rating your board game would receive! <br>
+              <div class="col-lg-9"  style="font-size: 1.25em;">
+                1. Explore the visualizations - be sure to click and hover over different parts of the visualization! <br> <br>
+                2. Check out the “Data Insights” section to get more insights about the data! <br> <br>
+                3. Design your own board game by selecting your own criteria!  <br> <br>
+                4. At the end of the visualization, see what user rating your board game would receive! <br>
 
               </div>
             </div>
@@ -136,7 +136,7 @@
               <div class="col-lg-9">
                 Board games have been classic ways of spending time with family and friends.   <br/> <br/>
                 Not surprisingly, there are a lot of resources for board game fanatics, ranging from guides on winning Monopoly to discussions of game mechanics. On the flip side, there are not a lot of resources to designing the perfect board game. Articles such as FiveThirtyEight’s “Designing The Best Board Game On The Planet” and Board Game Geeks’ Analysis of Board Games provides useful information, but ironically, these resources are not “fun.” The purpose of this project is to provide insight on different aspects of board games in an interactive, user-friendly way.  <br/> <br/>
-                The audience of our project is not only board game designers and makers, but also players who want to learn more about the general landscape of board games such as the behind-the-scenes for board games with high user ratings, relationships between different themes and categories, and the intersection between game mechanics and difficulty of the game. 
+                The audience of our project is not only board game designers and makers, but also players who want to learn more about the general landscape of board games such as the behind-the-scenes for board games with high user ratings, relationships between different themes and categories, and the intersection between game mechanics and difficulty of the game.
               </div>
             </div>
           </div>
@@ -184,7 +184,7 @@
         </div>
 
         <div class="row" id="category_rules_div" >
-    
+
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#categoryModal" style="margin-right: 2.5%;" >
             User Guide
           </button>
@@ -212,7 +212,7 @@
 
                 <!-- Modal body -->
                 <div class="modal-body">
-                  Each point in the circle denotes a single category. Once a category is selected, lines of varying intensities connect a point to other points in the circle. The intensity of the color is correlated with how many existing games have the two categories. 
+                  Each point in the circle denotes a single category. Once a category is selected, lines of varying intensities connect a point to other points in the circle. The intensity of the color is correlated with how many existing games have the two categories.
                 </div>
 
                 <!-- Modal footer -->
@@ -234,7 +234,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="row" id="num_of_players_header">
-              Time vs. Number of Players 
+              Time vs. Number of Players
             </div>
 
             <div class="row" id="num_of_players_text">
@@ -284,7 +284,7 @@
                     <div class="modal-body">
                       The visualization above shows the relative proportion of the minimum playing time given the minimum number of players. For example, out of the board games with a minimum of two players, 33.16% require a minimum playing of time of between 30-60 minutes. <br/><br/>
 
-                      Clicking individual bars of the bar chart will show the actual individual percentage of the bar, along with the number of minimum players needed to play the game. Clicking on another bar will show the relevant information for the selected, and clicking on the same bar will deselect the bar. 
+                      Clicking individual bars of the bar chart will show the actual individual percentage of the bar, along with the number of minimum players needed to play the game. Clicking on another bar will show the relevant information for the selected, and clicking on the same bar will deselect the bar.
 
 
 
@@ -342,7 +342,7 @@
     <!-- MECHANICS PANEL -->
     <div class="row panel" id="mechanics_panel">
       <div class="col-lg-8" id="mechanics_data_viz">
-      
+
       </div>
 
       <div class="col-lg-4">
@@ -351,7 +351,7 @@
         </div>
 
         <div class="row" id="mechanics_text">
-          Mechanics are the “how” of the board games, such as dice rolling and role playing. 
+          Mechanics are the “how” of the board games, such as dice rolling and role playing.
         </div>
 
         <div class="row" id="mechanics_selection_header">
@@ -381,7 +381,7 @@
 
                 <!-- Modal body -->
                 <div class="modal-body">
-                  The heat map above shows the relationship between board game mechanics, frequency/count, and difficulty. Frequency/count is the number of board games that is matched with the corresponding level of difficulty and board game mechanics. The difficulty rating is determined by users on Board Game Geeks, with 1 being the easiest and 5 being the most difficult. Hovering over individual boxes of matrix includes explanation of the mechanic, count of the mechanic, and difficulty. 
+                  The heat map above shows the relationship between board game mechanics, frequency/count, and difficulty. Frequency/count is the number of board games that is matched with the corresponding level of difficulty and board game mechanics. The difficulty rating is determined by users on Board Game Geeks, with 1 being the easiest and 5 being the most difficult. Hovering over individual boxes of matrix includes explanation of the mechanic, count of the mechanic, and difficulty.
 
                 </div>
 
@@ -399,54 +399,59 @@
 
     <!-- RATING RESULT -->
     <div class="row panel" id="rating_panel">
-      <div class="col-lg-12">
-        <div id="left-text"> You selected: </div>
-        <div class="row " style="margin-top: 5%; font-size: 3rem;" >
-           
-          <div class="col-lg-2 offset-lg-2" style="background-color: green; height: 400px; ">
-            <div class="row " style= "height: 20%;background-color: yellow;">
-              Category
-              </div>
-            <div class="row "style= "height: 60%;background-color: white; font-size: 2.5em;">
-              5.7
-              </div>
-            <div class="row "style= "height: 20%;background-color: purple;">
-              Horror
-              </div>
+      <div class="col-lg-12 inner_rating_div">
+        <div class="row">
+          <div class="col-lg-2 offset-lg-1">
+          </div>
+          <div class="col-lg-2 sub_score">
+            <div class="sub_score_number" id="category_score_number_id">
+              &nbsp;
+            </div>
+            <div class="sub_score_caption">
+              category score
+            </div>
             
+          </div>
+
+          <div class="col-lg-2 sub_score">
+            <div class="sub_score_number" id="players_score_number_id">
+              &nbsp;
             </div>
-            <div class="col-lg-2 offset-lg-1" style="background-color: yellow; height: 400px; ">
-              <div class="row " style= "height: 20%;background-color: yellow; ">
-              Min Players
-              </div>
-            <div class="row "style= "height: 60%;background-color: white;font-size: 2.5em;">
-               5.9
-              </div>
-            <div class="row "style= "height: 20%;background-color: purple;">
-              5 Players
-              </div>
+            <div class="sub_score_caption">
+              min player score
+            </div>
           </div>
-          <div class="col-lg-2 offset-lg-1" style="background-color: blue; height: 400px;">
-            <div class="row " style= "height: 20%;background-color: yellow;">
-              Mechanism
-              </div>
-            <div class="row "style= "height: 60%;background-color: white;font-size: 2.5em;">
-              6.1
-              </div>
-            <div class="row "style= "height: 20%;background-color: purple;">
-              Line Drawing
-              </div>
+
+          <div class="col-lg-2 sub_score">
+            <div class="sub_score_number" id="mechanism_score_number_id">
+              &nbsp;
+            </div>
+            <div class="sub_score_caption">
+              mechanism score
+            </div>
           </div>
-       
+          <div class="col-lg-2">
+          </div>
         </div>
-        <div class="row " style="margin-top: 5%; ">
-          <div class="col-lg-4 offset-lg-4" style="height: 200px;background-color: black;">
-            <div class="row " style= "height: 40%;background-color: white; font-size: 2.5rem; ">
-              Overall Rating</div>
-            <div class="row " style= "height: 60%;background-color: yellow;font-size: 4em;">
-              6.23</div>
-       
+
+        <div class="row overall_rating_div">
+          <div class="col-lg-12">
+            <div class="overall_score_number" id="overall_score_number_id">
+              &nbsp;
             </div>
+            <div class="overall_score_caption">
+              overall rating
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 score_button_div">
+            <a>
+              <button type="button" class="btn btn-primary" id="calculate_score_button">Calculate Rating</button>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
 
