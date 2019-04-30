@@ -16,9 +16,16 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 
 }
 
-function myFunction() {
-  var element = document.getElementById("myDIV");
-  element.classList.toggle("toggletext");
+
+
+function myCategoriesFunction() {
+  var element = document.getElementById("myCatgoriesDIV");
+  element.classList.toggle("toggleCategoriesText");
+}
+function time() {
+	
+  var element = document.getElementById("myTimeDIV");
+  element.classList.toggle("toggleTimeText");
 }
 
 function convertPlayerNum(text){
