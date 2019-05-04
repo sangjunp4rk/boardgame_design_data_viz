@@ -299,17 +299,7 @@
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#categoryModal" style="margin-right: 2.5%;" >
             User Guide
           </button>
-          <!-- <button type="button" onclick="toggleDataInsights('categoryInsights')" class="btn btn-primary"  style="margin-left: 2.5%;">
-            Data Insight
-          </button> -->
-          <div id="categoryInsights" class="insights">
-            <ul style="list-style-type:circle;">
-  <li>Broad categories that encompassed mechanics of the game, such as dice and card games, were connected with numerous topical categories. </li>
-  <li>Many connections between different categories are intuitive: for example, the connection between zombie and horror games is strong, along with the connection between novel-based and fantasy games. </li>
-  <li>On the other hand, there are surprising connections. For example, wargame has the greatest number of overlap with miniatures. </li>
-</ul>
 
-        </div>
           <!-- The Modal -->
           <div class="modal" id="categoryModal">
             <div class="modal-dialog">
@@ -336,18 +326,21 @@
           </div>
 
         </div>
-       
+
+        <!-- Data Insights -->
+        <div class="row">
+          <div class="selection_header">Data Insights: </div>
+        </div>
+        <div id="categoryInsights" class="insights">
+          <ul style="list-style-type:circle;">
+          <li>Broad categories that encompassed mechanics of the game, such as dice and card games, were connected with numerous topical categories. </li>
+          <li>Many connections between different categories are intuitive: for example, the connection between zombie and horror games is strong, along with the connection between novel-based and fantasy games. </li>
+          <li>On the other hand, there are surprising connections. For example, wargame has the greatest number of overlap with miniatures. </li>
+          </ul>
       </div>
 
-      <div class="row" style="margin-left: -12%;margin-top:-25%;">
-          <div class="col-lg-5">
-          </div>
-          <div class="col-lg-1" >
-            <a href="#num_of_players_panel" id="rules_arrow_div">
-              <img src="static/images/angle-double-down.svg" class="down_arrow"style="height: 25%; "/>
-            </a>
-          </div>
-        </div>
+      </div>
+
     </div>
 
     <!-- NUM OF PLAYERS PANEL -->
@@ -380,18 +373,6 @@
                 User Guide
               </button>
 
-          <!-- <button type="button" onclick="toggleDataInsights('playersInsights')" class="btn btn-primary"  style="margin-left: 2.5%;">
-            Data Insight
-          </button> -->
-          <div id="playersInsights" class="insights" >
-          <ul>
-              <li>There is no significant variation in playing times between games with 1-5 minimum players.  </li>
-              <li>The bulk of playing times of games with 1-5 minimum players is 0-60 minutes. </li>
-              <li>Unsurprisingly, a large percentage of games that require more than 5 players at minimum had playing times of greater than 2.5 hours.
-              </li>
-          </ul>
-        </div>
-
               <!-- The Modal -->
               <div class="modal" id="playersModal">
                 <div class="modal-dialog">
@@ -423,6 +404,18 @@
               </div>
             </div>
 
+            <!-- Data Insights -->
+            <div class="row">
+              <div class="selection_header">Data Insights: </div>
+            </div>
+            <div id="playersInsights" class="insights" >
+            <ul>
+                <li>There is no significant variation in playing times between games with 1-5 minimum players.  </li>
+                <li>The bulk of playing times of games with 1-5 minimum players is 0-60 minutes. </li>
+                <li>Unsurprisingly, a large percentage of games that require more than 5 players at minimum had playing times of greater than 2.5 hours.
+                </li>
+            </ul>
+          </div>
           </div>
 
 
@@ -432,21 +425,8 @@
             </div>
           </div>
 
-
-
         </div>
-
-
       </div>
-      <div class="row" style="margin-left: 80%;">
-          <div class="col-lg-5">
-          </div>
-          <div class="col-lg-1" style="margin-top:0%;">
-            <a href="#mechanics_panel" id="rules_arrow_div">
-              <img src="static/images/angle-double-down.svg" class="down_arrow"style="height: 60%; "/>
-            </a>
-          </div>
-        </div>
     </div>
 
     <!-- MECHANICS PANEL -->
@@ -485,20 +465,6 @@
             User Guide
           </button>
 
-          <!-- <button type="button" onclick="toggleDataInsights('mechanicsInsights')" class="btn btn-primary"  style="margin-left: 2.5%;">
-            Data Insight
-          </button> -->
-          <div id="mechanicsInsights" class="insights" >
-          <ul>
-          <li>
-            The vast majority of board game mechanics had difficulties spanning from 1 (easiest) to 3 (somewhat difficult).
-          </li>
-          <li>
-              Hex-and-Counter and Dice Rolling had the greatest numbers of games that were classified as 5 (most difficult) in the difficulty scale.
-          </li>
-          </ul>
-        </div>
-
           <!-- The Modal -->
           <div class="modal" id="mechanicsModal">
             <div class="modal-dialog">
@@ -525,16 +491,23 @@
           </div>
         </div>
 
-      </div>
-      <div class="row" style="left: -20%;">
-          <div class="col-lg-5">
-          </div>
-          <div class="col-lg-1" style="margin-top:-10%;">
-            <a href="#mechanics_panel" id="rules_arrow_div">
-              <img src="static/images/angle-double-down.svg" class="down_arrow"style="height: 60%; "/>
-            </a>
-          </div>
+        <!-- Data Insights -->
+        <div class="row">
+          <div class="selection_header">Data Insights: </div>
         </div>
+        <div id="mechanicsInsights" class="insights" >
+        <ul>
+        <li>
+          The vast majority of board game mechanics had difficulties spanning from 1 (easiest) to 3 (somewhat difficult).
+        </li>
+        <li>
+            Hex-and-Counter and Dice Rolling had the greatest numbers of games that were classified as 5 (most difficult) in the difficulty scale.
+        </li>
+        </ul>
+      </div>
+
+      </div>
+
     </div>
 
     <!-- RATING RESULT -->
