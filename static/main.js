@@ -2,6 +2,8 @@ var category_text = ""
 var mechanic_selected_name = ""
 var min_players_selected = 0
 
+var description_dict = {}
+
 function load_rating(overall_rating, category_mean, mechanics_mean, min_players_mean) {
 	// 5.765892513779056
 	// 6.491826454554369
@@ -79,7 +81,29 @@ function get_rating() {
 	})
 }
 
+function get_descriptions() {
+	$.ajax({
+		type: "GET",
+		url: "get_descriptions",
+		dataType: "json",
+        contentType: "application/json; charset=utf-8",
+        success: function(result) {
+        	description_dict = result["description_dict"]
+        	console.log(description_dict['Acting'])
+        },
+        error: function(request, status, error) {
+        	console.log("Error")
+        }
+	})
+}
+
+function load_description(key_name) {
+	$("#mechanics_description_div").html(description_dict[key_name])
+}
+
 $(document).ready(function(){
+	get_descriptions()
+
 	$("#category_data_viz").on("click", ".myLabel", function() {
 		console.log(this.id)
 		category_selected_name = this.id
@@ -100,6 +124,12 @@ $(document).ready(function(){
 
 		$("#mechanism_rating").html("--");
 		$("#overall_rating").html("--");
+	})
+
+	$("#mechanics_data_viz").on("click", ".heatmap-button", function() {
+		console.log($(this).attr('data-mech'))
+		mechanic_selected_name = $(this).attr('data-mech')
+		load_description(mechanic_selected_name)
 	})
 
 	$("#num_of_players_data_viz").on("click", ".stacked-rect", function() {

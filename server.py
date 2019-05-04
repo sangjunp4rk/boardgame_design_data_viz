@@ -10,6 +10,31 @@ app = Flask(__name__)
 
 game_data = []
 
+description_dict = {}
+
+with open('data_viz_mechanic_2.csv') as fp:
+	line = fp.readline()
+	# print line
+
+	while line:
+		line = fp.readline()
+		try:
+			header = line.split(",", 1)[0]
+			text = line.split(",", 1)[1]
+			# print line[:-3]
+			# print header
+			# print text[:-3].strip()
+			# print ""
+			description_dict[header] = text[:-3].strip()
+		except:
+			print "error"
+
+@app.route('/get_descriptions', methods=['GET', 'POST'])
+def get_descriptions():
+	global description_dict
+	
+	return jsonify(description_dict=description_dict)
+
 ######## Routes for Main Page ########
 @app.route('/')
 def main():
