@@ -16,14 +16,18 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 	$("#mechanism_score_number_id").empty()
 	$("#overall_score_number_id").empty()
 
+	$("#category_results_div").empty()
+	$("#min_player_results_div").empty()
+	$("#mechanism_results_div").empty()
+
 	$("#category_score_number_id").html(category_mean)
 	$("#players_score_number_id").html(min_players_mean)
 	$("#mechanism_score_number_id").html(mechanics_mean)
 	$("#overall_score_number_id").append(overall_rating + "<strong id='out_of_ten'>/10</strong>")
 
 	$("#category_results_div").append("for <br/> <strong class='sub_score_caption_css'>" + category_text + "</strong>")
-	$("#min_player_results_div").append("for <br/><strong class='sub_score_caption_css'> " + mechanic_selected_name + "</strong>")
-	$("#mechanism_results_div").append("for <br/><strong class='sub_score_caption_css'> " + min_players_selected + " Players</strong>")
+	$("#min_player_results_div").append("for <br/><strong class='sub_score_caption_css'> " + min_players_selected + "</strong>")
+	$("#mechanism_results_div").append("for <br/><strong class='sub_score_caption_css'> " + mechanic_selected_name  + "</strong>")
 
 
 }
