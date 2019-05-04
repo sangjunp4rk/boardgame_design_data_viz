@@ -12,20 +12,14 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 	$("#players_score_number_id").html(mechanics_mean)
 	$("#mechanism_score_number_id").html(min_players_selected)
 	$("#overall_score_number_id").html(overall_rating)
-	
+
 
 }
 
-
-
-function myCategoriesFunction() {
-  var element = document.getElementById("myCatgoriesDIV");
-  element.classList.toggle("toggleCategoriesText");
-}
-function time() {
-	
-  var element = document.getElementById("myTimeDIV");
-  element.classList.toggle("toggleTimeText");
+function toggleDataInsights (name){
+	var element = document.getElementById(name);
+	element.classList.toggle("displayed-text");
+	element.classList.toggle("hidden-text");
 }
 
 function convertPlayerNum(text){
@@ -76,7 +70,6 @@ function get_rating() {
 }
 
 $(document).ready(function(){
-	console.log("hi")
 	$("#category_data_viz").on("click", ".myLabel", function() {
 		console.log(this.id)
 		category_selected_name = this.id
