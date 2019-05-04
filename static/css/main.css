@@ -236,6 +236,11 @@ input[type=radio]{
 	color: rgb(11, 96, 161);
 }
 
+#mechanics_description_div {
+	height: 15vh;
+	padding-top: 5vh;
+}
+
 
 /** RESULTS PANEL **/
 
@@ -277,6 +282,7 @@ input[type=radio]{
 
 .overall_score_caption {
 	font-size: 1.5rem;
+	margin-top: -4vh;
 }
 
 .score_button_div {

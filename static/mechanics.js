@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/matrix-of-board-game-mechanics
 // Title: Matrix of Board Game Mechanics
 // Author: Lily He (@tigerlily-he)
-// Version: 450
+// Version: 502
 // Runtime version: 1
 
 const m0 = {
-  id: "2d7af585c7b50d87@450",
+  id: "2d7af585c7b50d87@502",
   variables: [
     {
       inputs: ["md"],
@@ -19,6 +19,7 @@ md`# Matrix of Board Game Mechanics
       inputs: ["d3","DOM","width","h","color2","margin","game_data","gridSize","mechanics","gridSizeH","legend"],
       value: (function(d3,DOM,width,h,color2,margin,game_data,gridSize,mechanics,gridSizeH,legend)
 {
+  // width, h
   const svg = d3.select(DOM.svg(width, h))
     .classed("game-mechanics", true)
   
@@ -268,7 +269,7 @@ Math.floor(w / 25 )
       name: "gridSizeH",
       inputs: ["gridSize"],
       value: (function(gridSize){return(
-gridSize*0.5
+gridSize*0.45
 )})
     },
     {
@@ -293,12 +294,34 @@ d3.scaleSequential()
       value: (function(game_data){return(
 [...new Set(game_data.map(x => x['mechanic']))].sort()
 )})
+    },
+    {
+      name: "temp",
+      inputs: ["d3","DOM"],
+      value: (function(d3,DOM)
+{ 
+  const num = 0.7
+  const svg = d3.select(DOM.svg(300, 50))
+  svg.append("circle")
+  .attr("cx", 20)
+  .attr("cy", 20)
+  .attr("r", 20)
+  .style("fill",d3.interpolateGnBu(num));
+  
+  svg.append("text")
+  .attr("x", 60)
+  .attr("y", 20)
+  .style("fill", "black")
+  .text(d3.interpolateGnBu(num))
+return svg.node()
+}
+)
     }
   ]
 };
 
 const notebook2 = {
-  id: "2d7af585c7b50d87@450",
+  id: "2d7af585c7b50d87@502",
   modules: [m0]
 };
 
