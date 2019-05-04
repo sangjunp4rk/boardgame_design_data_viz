@@ -2,16 +2,26 @@ var category_text = ""
 var mechanic_selected_name = ""
 var min_players_selected = 0
 
-function load_rating(overall_rating, category_mean, mechanics_mean, min_players_selected) {
+function load_rating(overall_rating, category_mean, mechanics_mean, min_players_mean) {
 	// 5.765892513779056
 	// 6.491826454554369
 	// 6.036603119145441
 	// 6.0981073624929545
 	// overall_rating = 5.765892513779056
+
+	$("#category_score_number_id").empty()
+	$("#players_score_number_id").empty()
+	$("#mechanism_score_number_id").empty()
+	$("#overall_score_number_id").empty()
+
 	$("#category_score_number_id").html(category_mean)
 	$("#players_score_number_id").html(mechanics_mean)
-	$("#mechanism_score_number_id").html(min_players_selected)
-	$("#overall_score_number_id").html(overall_rating)
+	$("#mechanism_score_number_id").html(min_players_mean)
+	$("#overall_score_number_id").append(overall_rating + "<strong id='out_of_ten'>/10</strong>")
+
+	$("#category_results_div").append("for <br/> <strong class='sub_score_caption_css'>" + category_text + "</strong>")
+	$("#min_player_results_div").append("for <br/><strong class='sub_score_caption_css'> " + mechanic_selected_name + "</strong>")
+	$("#mechanism_results_div").append("for <br/><strong class='sub_score_caption_css'> " + min_players_selected + " Players</strong>")
 
 
 }
@@ -133,7 +143,13 @@ $(document).ready(function(){
 	$("#rating_panel").on("click", "#calculate_score_button", function() {
 		// check if all fields are valid (first three lines)
 		// if it doesn't throw an alert
-		get_rating()
+		if (category_text == "" || mechanic_selected_name == "" || min_players_selected == 0) {
+			alert('Please make a selection for all aspects of the boardgame.')
+		} else {
+			get_rating()
+		}
+
+		
 	})
 
 

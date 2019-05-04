@@ -4,6 +4,19 @@ import numpy as np
 
 df = pd.read_csv('games_data.csv', sep=',')
 
+categories = df['categories']
+unique_categories = set(())
+
+for item in df['categories']:
+	item = str(item)
+	if item == 'nan':
+		continue
+	categories_split = item.split(',')
+	for item2 in categories_split:
+		if item2 not in unique_categories:
+			unique_categories.add(item2)
+print unique_categories
+
 ## CALCULATE CATEGORY RATING ##
 category_name = 'Economic'
 
