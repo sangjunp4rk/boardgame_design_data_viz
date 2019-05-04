@@ -78,8 +78,8 @@ def load_data():
 	min_players = json_data['min_players']
 
 	# filter based on min players
-	if min_players == 6:
-		filtered_min_players_df = df[df['minplayers'] > 5]
+	if min_players == 9:
+		filtered_min_players_df = df[df['minplayers'] > 8]
 	else:
 		filtered_min_players_df = df[df['minplayers'] == min_players]
 
