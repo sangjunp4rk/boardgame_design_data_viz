@@ -1,7 +1,7 @@
 var category_text = ""
 var mechanic_selected_name = ""
+var raw_min_players = 0
 var min_players_selected = 0
-
 var description_dict = {}
 
 function load_rating(overall_rating, category_mean, mechanics_mean, min_players_mean) {
@@ -78,12 +78,15 @@ function readCsv(){
 
 function get_rating() {
 	console.log("getting rating")
+	console.log(category_text)
+	console.log(mechanic_selected_name)
+	console.log(raw_min_players)
 	$.ajax({
 		type: "POST",
 		url: "get_rating",
 		dataType: "json",
         contentType: "application/json; charset=utf-8",
-        data : JSON.stringify({"category": category_text, "mechanics": mechanic_selected_name, "min_players": min_players_selected}),
+        data : JSON.stringify({"category": category_text, "mechanics": mechanic_selected_name, "min_players": raw_min_players}),
         success: function(result) {
         	calculated_rating = result["calculated_rating"]
         	category_mean = result["category_mean"]
@@ -157,13 +160,10 @@ $(document).ready(function(){
 		//console.log(raw_min_players)
 		min_players_selected = convertPlayerNum(raw_min_players)
 	//	console.log(min_players_selected)
-		if (min_players_selected == 6) {
-			$("#players_selection_text").html("5+")
-			$("#user_players").html("5+");
-		} else {
-			$("#players_selection_text").html(min_players_selected)
-			$("#user_players").html(min_players_selected);
-		}
+
+		$("#players_selection_text").html(min_players_selected)
+		$("#user_players").html(min_players_selected);
+		
 
 		$("#players_rating").html("--");
 		$("#overall_rating").html("--");

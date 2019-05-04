@@ -44,6 +44,9 @@ def main():
 def load_data():
 	json_data = request.get_json()
 
+	print ("!!!!")
+	print (json_data)
+
 
 
 	df = pd.read_csv('games_data.csv', sep=',')
@@ -75,7 +78,7 @@ def load_data():
 	################
 
 	## CALCULATE MIN PLAYERS ##
-	min_players = json_data['min_players']
+	min_players = int(json_data['min_players'])
 
 	# filter based on min players
 	if min_players == 9:
