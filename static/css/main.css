@@ -45,6 +45,10 @@ html {
 	/*background-color: rgb(43, 141, 191);*/
 }
 
+a  {
+	color: black;
+}
+
 /** WELCOME PANEL **/
 
 #welcome_panel {
