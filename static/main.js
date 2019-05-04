@@ -13,7 +13,6 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 	$("#mechanism_score_number_id").html(min_players_selected)
 	$("#overall_score_number_id").html(overall_rating)
 	
-
 }
 
 function myFunction() {
