@@ -247,7 +247,7 @@ input[type=radio]{
 }
 
 .sub_score {
-	border: 2px solid #005AA7;
+/*	border: 2px solid #005AA7;*/
 	text-align: center;
 	padding-top: 5vh;
 	padding-bottom: 5vh;
@@ -300,4 +300,13 @@ input[type=radio]{
 
 .btn-primary {
   background-color: rgb(8, 80, 146);
+}
+
+#out_of_ten {
+	color: white;
+	font-weight: 100;
+}
+
+.sub_score_caption_css {
+	font-size: 2.5rem;
 }
