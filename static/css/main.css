@@ -39,7 +39,7 @@ html {
 
 #welcome_panel {
 	background-color: white;
-	background-image: linear-gradient(to bottom right, #FFFDE4, #005AA7);
+	background-image: linear-gradient(to bottom right, rgb(189, 229, 191), rgb(43, 141, 191));
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -54,7 +54,7 @@ html {
 #welcome_header {
 	position: relative
 	padding-top: 15vh;
-	font-size: 5rem;
+	font-size: 7rem;
 	text-align: center;
 }
 
@@ -81,12 +81,21 @@ html {
 	background-color: lightgrey;
 	padding-top: 5vh;
 }
-.toggletext {
+
+.displayed-text {
   width: 100%;
   padding: 25px;
-  background-color: coral;
+  background-color: rgb(29, 126, 183);
   color: white;
-  font-size: 25px;
+	font-size: 1em;
+  z-index: 0;
+  margin: 2%;
+}
+.hidden-text {
+  position: absolute;
+  padding-top: 80%;
+  color: white;
+  z-index: -1;
 }
 #rules_header {
 	font-size: 3rem;
@@ -234,7 +243,7 @@ input[type=radio]{
 
 /*	background-color: pink;*/
 	margin-top: 4rem;
-	background-image: linear-gradient(to bottom right, #FFFDE4, #005AA7);
+  background-image: linear-gradient(to bottom right, rgb(189, 229, 191), rgb(43, 141, 191));
 }
 
 .sub_score {
@@ -289,5 +298,6 @@ input[type=radio]{
 	font-size: 3rem;
 }
 
-
-
+.btn-primary {
+  background-color: rgb(8, 80, 146);
+}
