@@ -27,7 +27,7 @@ with open('data_viz_mechanic_2.csv') as fp:
 			# print ""
 			description_dict[header] = text[:-3].strip()
 		except:
-			print "error"
+			print ("error")
 
 @app.route('/get_descriptions', methods=['GET', 'POST'])
 def get_descriptions():
