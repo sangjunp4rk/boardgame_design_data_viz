@@ -1,5 +1,6 @@
 var category_text = ""
 var mechanic_selected_name = ""
+var raw_min_players = 0
 var min_players_selected = 0
 
 var description_dict = {}
@@ -83,7 +84,7 @@ function get_rating() {
 		url: "get_rating",
 		dataType: "json",
         contentType: "application/json; charset=utf-8",
-        data : JSON.stringify({"category": category_text, "mechanics": mechanic_selected_name, "min_players": min_players_selected}),
+        data : JSON.stringify({"category": category_text, "mechanics": mechanic_selected_name, "min_players": raw_min_players}),
         success: function(result) {
         	calculated_rating = result["calculated_rating"]
         	category_mean = result["category_mean"]
