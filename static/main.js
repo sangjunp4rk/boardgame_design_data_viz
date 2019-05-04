@@ -28,11 +28,11 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 
 }
 
-function toggleDataInsights (name){
-	var element = document.getElementById(name);
-	element.classList.toggle("displayed-text");
-	element.classList.toggle("hidden-text");
-}
+// function toggleDataInsights (name){
+// 	var element = document.getElementById(name);
+// 	element.classList.toggle("displayed-text");
+// 	element.classList.toggle("hidden-text");
+// }
 
 function convertPlayerNum(text){
   switch(text){
@@ -73,7 +73,7 @@ function convertPlayerNum(text){
 }
 
 function readCsv(){
-	
+
 }
 
 function get_rating() {
@@ -179,7 +179,7 @@ $(document).ready(function(){
 			get_rating()
 		}
 
-		
+
 	})
 
 

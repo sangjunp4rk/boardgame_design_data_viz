@@ -9,7 +9,16 @@ html {
 
 .panel {
 	width: 101vw;
-	height: 170vh;
+	height: 101vh;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	padding-right: 3vw;
+	padding-left: 4vw;
+}
+
+.panel_viz {
+  width: 101vw;
+	height: 180vh;
 	padding-top: 2vh;
 	padding-bottom: 2vh;
 	padding-right: 3vw;
@@ -109,7 +118,7 @@ a  {
 	padding-top: 5vh;
 }
 
-.displayed-text {
+/* .displayed-text {
   width: 100%;
   padding: 25px;
   background-color: rgb(29, 126, 183);
@@ -123,7 +132,7 @@ a  {
   padding-top: 80%;
   color: white;
   z-index: -1;
-}
+} */
 #rules_header {
 	font-size: 3rem;
 }
@@ -140,7 +149,9 @@ a  {
 /** DATA INSIGHTS **/
 .insights {
   font-size: 1.5rem;
-  margin-top: 60%;
+}
+.insights > ul >li {
+  margin-top: 40%;
 }
 
 /** CATEGORY PANEL **/
