@@ -17,8 +17,8 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 	$("#overall_score_number_id").empty()
 
 	$("#category_score_number_id").html(category_mean)
-	$("#players_score_number_id").html(mechanics_mean)
-	$("#mechanism_score_number_id").html(min_players_mean)
+	$("#players_score_number_id").html(min_players_mean)
+	$("#mechanism_score_number_id").html(mechanics_mean)
 	$("#overall_score_number_id").append(overall_rating + "<strong id='out_of_ten'>/10</strong>")
 
 	$("#category_results_div").append("for <br/> <strong class='sub_score_caption_css'>" + category_text + "</strong>")
@@ -128,7 +128,7 @@ $(document).ready(function(){
 		category_selected_name = this.id
 		category_text = $("#" + this.id).text()
 		//console.log(category_text)
-		$("#category_selection_text_mechanics").html(category_text)
+		// $("#category_selection_text_mechanics").html(category_text)
 		$("#category_selection_text").html(category_text)
 		$("#user_category").html(category_text);
 
@@ -163,7 +163,7 @@ $(document).ready(function(){
 
 		$("#players_selection_text").html(min_players_selected)
 		$("#user_players").html(min_players_selected);
-		
+
 
 		$("#players_rating").html("--");
 		$("#overall_rating").html("--");
