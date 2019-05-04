@@ -35,6 +35,16 @@ html {
 	color: rgb(11, 96, 161);
 }
 
+#back_to_top {
+	position: fixed;
+	bottom: 5vh;
+	right: 5vh;
+	text-align: center;
+	z-index: 10;
+	color: black;
+	/*background-color: rgb(43, 141, 191);*/
+}
+
 /** WELCOME PANEL **/
 
 #welcome_panel {
