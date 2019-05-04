@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/matrix-of-board-game-mechanics
 // Title: Matrix of Board Game Mechanics
 // Author: Lily He (@tigerlily-he)
-// Version: 502
+// Version: 511
 // Runtime version: 1
 
 const m0 = {
-  id: "2d7af585c7b50d87@502",
+  id: "2d7af585c7b50d87@511",
   variables: [
     {
       inputs: ["md"],
@@ -27,7 +27,7 @@ md`# Matrix of Board Game Mechanics
   // and: https://www.visualcinnamon.com/2016/05/smooth-color-legend-d3-svg-gradient.html
   const defs = svg.append("defs");
   const linearGradient = defs.append("linearGradient")
-      .attr("id", "linear-gradient");
+      .attr("id", "linear-gradient")
   
   linearGradient.selectAll("stop")
     .data(color2.ticks().map((t, i, n) => ({ offset: `${100*i/n.length}%`, color: color2(t) })))
@@ -117,6 +117,14 @@ md`# Matrix of Board Game Mechanics
       .text("Mechanic")
       .attr("x", width*0.12)
       .attr("y", h*0.055)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "14px")
+   
+  var legend_title = svg.append("text")
+      .text("Number of Games")
+      .attr("x", width*0.5)
+      .attr("y", h*0.97)
       .style("fill", "black")
       .style("font-weight", "bold")
       .style("font-size", "14px")
@@ -321,7 +329,7 @@ return svg.node()
 };
 
 const notebook2 = {
-  id: "2d7af585c7b50d87@502",
+  id: "2d7af585c7b50d87@511",
   modules: [m0]
 };
 
