@@ -25,27 +25,43 @@ function toggleDataInsights (name){
 function convertPlayerNum(text){
   switch(text){
     case "0":
-      return 1;
+      return "1 player";
       break;
     case "1":
-      return 2;
+      return "2 players";
       break;
     case "2":
-      return 3;
+      return "3 players";
       break;
     case "3":
-      return 4;
+      return "4 players";
       break;
     case "4":
-      return 5;
+      return "5 players";
       break;
     case "5":
-      return 6; // 5+
+      return "6 players";
+      break;
+     case "6":
+      return "7 players";
+      break;
+     case "7":
+      return "8 players";
+      break;
+     case "8":
+      return "9 players";
+      break;
+       case "9":
+      return "10+ players";
       break;
     default:
-      return -1;
+      return "-1";
       break;
   }
+}
+
+function readCsv(){
+	
 }
 
 function get_rating() {
@@ -74,7 +90,8 @@ $(document).ready(function(){
 		console.log(this.id)
 		category_selected_name = this.id
 		category_text = $("#" + this.id).text()
-		console.log(category_text)
+		//console.log(category_text)
+		$("#category_selection_text_mechanics").html(category_text)
 		$("#category_selection_text").html(category_text)
 		$("#user_category").html(category_text);
 
@@ -85,6 +102,9 @@ $(document).ready(function(){
 	$("#mechanics_data_viz").on("click", ".heatmap-button", function() {
 		console.log($(this).attr('data-mech'))
 		mechanic_selected_name = $(this).attr('data-mech')
+
+		//console.log(mechanic_selected_name);
+		//displays the selcted mechanics name
 		$("#mechanics_selection_text").html(mechanic_selected_name)
 		$("#user_mechanism").html(mechanic_selected_name);
 
@@ -93,11 +113,10 @@ $(document).ready(function(){
 	})
 
 	$("#num_of_players_data_viz").on("click", ".stacked-rect", function() {
-		console.log("lsadfjklsadjflkjdsalfkja")
 		raw_min_players = $(this).attr('data-person')
-		console.log(raw_min_players)
+		//console.log(raw_min_players)
 		min_players_selected = convertPlayerNum(raw_min_players)
-		console.log(min_players_selected)
+	//	console.log(min_players_selected)
 		if (min_players_selected == 6) {
 			$("#players_selection_text").html("5+")
 			$("#user_players").html("5+");

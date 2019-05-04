@@ -1,11 +1,11 @@
-// URL: https://observablehq.com/@tigerlily-he/30-minute-intervals
+// URL: https://observablehq.com/@duhfatbiscuit/30-minute-intervals/2
 // Title: 30 minute intervals
-// Author: Lily He (@tigerlily-he)
-// Version: 2206
+// Author: duhfatbiscuit (@duhfatbiscuit)
+// Version: 2220
 // Runtime version: 1
 
 const m0 = {
-  id: "a18ea2ebc3466068@2206",
+  id: "ea35964298ae9365@2220",
   variables: [
     {
       inputs: ["md"],
@@ -30,11 +30,11 @@ md `## Chart`
       inputs: ["d3","DOM","graphWidth","game_categories","order_of_categories_array","categories_circle"],
       value: (function(d3,DOM,graphWidth,game_categories,order_of_categories_array,categories_circle)
 {
-
+  
   const user_input = {
   "category": null
   }
-
+  
   const svg = d3.select(DOM.svg(graphWidth, graphWidth+50));
   const category = svg.selectAll("g")
     .data(game_categories)
@@ -49,16 +49,16 @@ md `## Chart`
     .attr("r", 3)
     .attr("id", d => d.name.replace(/['"&]+/g, '').split(" ").join("_").split("/").join("_") + "_dot")
     .attr("class", "dot")
-
+     
    function draw_connectors(current, category_name){
         category.append("path")
         .merge(category)
-        .datum([
-            {x: game_categories[order_of_categories_array.indexOf(category_name)]['x'],
-             y: game_categories[order_of_categories_array.indexOf(category_name)]['y']},
-
-           {x: game_categories[order_of_categories_array.indexOf(current)]['x'],
-             y: game_categories[order_of_categories_array.indexOf(current)]['y']}
+        .datum([ 
+            {x: game_categories[order_of_categories_array.indexOf(category_name)]['x'],     
+             y: game_categories[order_of_categories_array.indexOf(category_name)]['y']}, 
+        
+           {x: game_categories[order_of_categories_array.indexOf(current)]['x'],     
+             y: game_categories[order_of_categories_array.indexOf(current)]['y']} 
             ])
         .attr("class", "line")
         .style("stroke", d3.interpolateGreens(0.5))
@@ -68,13 +68,13 @@ md `## Chart`
                  .y(function(d) { return d.y; })
         )
         .attr("stroke-width", 2)
-
+     
    d3.selectAll(`#${category_name.replace(/['"&]+/g, '').split(" ").join("_").split("/").join("_")}_dot`).attr("fill", "green");
-
+     
           d3.selectAll(`#${category_name.replace(/['"&]+/g, '').split(" ").join("_").split("/").join("_")}`).attr("fill", "green").attr("font-weight", "bold");
   }
 
-
+  
    const category_label = category.append("text")
    .attr("y", d => d.y)
    .attr("x", d=> d.x)
@@ -103,7 +103,7 @@ md `## Chart`
        categories_circle.get(user_input.category).forEach((value, key, map) =>{
        if (value > 100){
            draw_connectors(user_input.category, key);
-         }
+         }  
         })
      }
     })
@@ -167,9 +167,9 @@ function createStructure(input){
   var graphMap = new Map();
   let i = 0;
   for(i = 0; i < input.length; i++){
-
+  
     if(input[i].categories == null){
-      continue;
+      continue; 
     }
     var categoryArr = input[i].categories.split(",");
     var arrLength = categoryArr.length;
@@ -179,22 +179,22 @@ function createStructure(input){
       var subMap = new Map();
       if(!graphMap.has(categoryArr[j])){
           graphMap.set(categoryArr[j], subMap);
-
+        
       }
         for(k = 0; k < arrLength; k++){
         if(j == k){
           continue;
         }
-
+   
         if(!graphMap.get(categoryArr[j]).has(categoryArr[k])){
             graphMap.get(categoryArr[j]).set(categoryArr[k], 1);
         }else{
             graphMap.get(categoryArr[j]).set(categoryArr[k], graphMap.get(categoryArr[j]).get(categoryArr[k]) + 1);
         }
       }
-
+      
     }
-
+   
   }
   return graphMap;
 
@@ -233,38 +233,38 @@ order_of_categories_array.map(x => { return {"name": x}})
   const center_x = 500;
   const center_y = 500;
   const r = 290;
-  order_of_categories.forEach(function (value, i) {
+  order_of_categories.forEach(function (value, i) { 
    c.push(value)
     c[i]['x'] = center_x +(r*Math.cos(i *angle));
     c[i]['y'] = center_y - (r*Math.sin(i *angle));
-
+    
     if (Math.cos(i*angle) < 0){
       if (Math.sin(i*angle) > 0.55){
         c[i]['rot'] = `translate (-5, -5) rotate(${180- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;
-      }
+      } 
       else if (Math.sin(i*angle) < -0.55) {
         c[i]['rot'] = `translate (0, 10) rotate(${180- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;
       } else {
-         c[i]['rot'] = `translate (-10, 5) rotate(${180- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;
+         c[i]['rot'] = `translate (-10, 5) rotate(${180- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;    
       }
-
-
+      
+     
       c[i]['textanchor'] = "end";
     } else {
-
+      
       if (Math.sin(i*angle) > 0.55){
         c[i]['rot'] = `translate (5, -5) rotate(${360- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;
-      }
+      } 
       else if (Math.sin(i*angle) < -0.55) {
         c[i]['rot'] = `translate (-5, 10) rotate(${360- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;
       } else {
        c[i]['rot'] = `translate (10, 5) rotate(${360- (i*angle_degrees)} ${c[i]['x']} ${c[i]['y']})`;
       }
-
+      
       c[i]['textanchor'] = "start";
     }
-
-
+    
+ 
 });
   return c;
 }
@@ -286,13 +286,21 @@ function initializeHashmap(input){
   var thirdSubmap = new Map();
   var fourthSubmap = new Map();
    var fifthSubmap = new Map();
+   var sixthSubmap = new Map();
+   var seventhSubmap = new Map();
+   var eighthSubmap = new Map();
+   var ninthSubmap = new Map();
    var otherSubmap = new Map();
   players.set("1", firstSubmap);
   players.set("2", secondSubmap);
   players.set("3", thirdSubmap);
   players.set("4", fourthSubmap);
   players.set("5", fifthSubmap);
-  players.set("5+", otherSubmap);
+  players.set("6", sixthSubmap);
+  players.set("7", seventhSubmap);
+  players.set("8", eighthSubmap);
+  players.set("9", ninthSubmap);       
+  players.set("10+", otherSubmap);
 
   for (var [key, value] of players) {
     value.set("0-30", 0);
@@ -333,26 +341,34 @@ function test(input){
   let i = 0;
   let count = 0;
   for(i = 0; i < input.length; i++){
-
+   
      if(input[i].minplayers == 0 || input[i].minplayers == null){
       continue;
      } else if(input[i].minplayers == 1){
         insertDataSubmaps15(i, input, players, "1");
-
-
+      
+      
     }else if(input[i].minplayers == 2){
      insertDataSubmaps15(i, input, players, "2");
-
+      
     }else if(input[i].minplayers == 3){
       insertDataSubmaps15(i, input, players, "3");
     }else if(input[i].minplayers == 4){
       insertDataSubmaps15(i, input, players, "4");
     }else if(input[i].minplayers == 5){
       insertDataSubmaps15(i, input, players, "5");
+    }else if(input[i].minplayers == 6){
+      insertDataSubmaps15(i, input, players, "6");
+    }else if(input[i].minplayers == 7){
+      insertDataSubmaps15(i, input, players, "7");
+    }else if(input[i].minplayers == 8){
+      insertDataSubmaps15(i, input, players, "8");
+    }else if(input[i].minplayers == 9){
+      insertDataSubmaps15(i, input, players, "9");
     }else{
-      insertDataSubmaps15(i, input, players, "5+");
+      insertDataSubmaps15(i, input, players, "10+");
     }
-
+   
   }
   return players;
 }
@@ -363,12 +379,12 @@ function test(input){
       value: (function(){return(
 function insertDataSubmaps15(i, input, map, amountOfPlayers){
         if(input[i].minplaytime == 0 || input[i].minplaytime == null){
-
+          
         } else if(input[i].minplaytime >= 1 && input[i].minplaytime <= 29 ){
           map.get(amountOfPlayers).set("0-30", map.get(amountOfPlayers).get("0-30") + 1);
         }
-
-
+  
+  
 
       else if(input[i].minplaytime >= 30 && input[i].minplaytime <= 59){
           map.get(amountOfPlayers).set("30-60", map.get(amountOfPlayers).get("30-60") + 1);
@@ -383,7 +399,7 @@ function insertDataSubmaps15(i, input, map, amountOfPlayers){
     else if(input[i].minplaytime >= 120 && input[i].minplaytime <= 149){
            map.get(amountOfPlayers).set("120-150", map.get(amountOfPlayers).get("120-150") + 1);
 
-        }
+        } 
   else if(input[i].minplaytime >= 150 && input[i].minplaytime <= 179){
            map.get(amountOfPlayers).set("150-180", map.get(amountOfPlayers).get("150-180") + 1);
         }
@@ -392,12 +408,12 @@ function insertDataSubmaps15(i, input, map, amountOfPlayers){
          }
  else if(input[i].minplaytime >= 210 && input[i].minplaytime <= 239){
            map.get(amountOfPlayers).set("210-240", map.get(amountOfPlayers).get("210-240") + 1);
-        }
-
+        } 
+  
   else{
            map.get(amountOfPlayers).set("240+", map.get(amountOfPlayers).get("240+") + 1);
         }
-
+     
 }
 )})
     },
@@ -422,12 +438,12 @@ function createBarGraph(data, map, index){
   let i = 0 ;
   for (var [key, value] of map.get(index)) {
     let subcontainer = {};
-
+    
       subcontainer["letter"] = key;
-
+        
       subcontainer["frequency"]= value;
     i++;
-
+    
     container.push(subcontainer);
   }
   return container;
@@ -473,7 +489,7 @@ function createArr(map){
   }
 
   container["columns"]= columnDivision;
-
+  
   return container;
 }
 )})
@@ -490,7 +506,7 @@ createArr(mapdata)
       value: (function(d3,DOM,series,color)
 {
   const svg = d3.select(DOM.svg(series.length * 90, 40))
-      .style("font", "10px sans-serif")
+      .style("font-size", "10px")
       .style("margin-left", `100px`)
       .style("display", "block")
       .attr("text-anchor", "middle")
@@ -511,13 +527,13 @@ createArr(mapdata)
       .attr("y", 32)
       .attr("dy", "0.35em")
       .text(d => d.key);
-
+  
   svg.append("text")
       .attr("x", 80)
       .attr("y", 20)
-      .style("font", "14px sans-serif")
+      .style("font-size", "14px")
       .text("Min. Play Time (minutes)");
-
+  
   return svg.node();
 }
 )
@@ -533,13 +549,13 @@ createArr(mapdata)
    var t = d3.transition()
     .duration(750)
     .ease(d3.easeLinear);
-
+  
     const user_input_player = {
       "clicked": false,
       "num_players": null,
       "percent": null
     }
-
+  
   const stackedbar = svg.append("g")
     .selectAll("g")
     .data(series)
@@ -559,23 +575,23 @@ createArr(mapdata)
       .attr("data-percent", d => ((d[1] - d[0])*100).toFixed(2)+"%")
       .classed("stacked-rect", true)
       .style("cursor", "pointer")
-
+  
     function mouseOutEvent() {
         if (!user_input_player['clicked']){
       d3.selectAll(".percentage-line").remove();
       d3.select(this).attr("stroke", "none");
       d3.select("#tooltip").remove();
-
+    
       data.columns.slice(1).forEach(k => {
         d3.selectAll(`.b${k.split("+").join("")}`).attr("fill", color(k)).transition(t)
       })
-
+    
       d3.selectAll(".stacked-rect").attr("fill", null).transition(t)
       d3.selectAll(".stacked-rect").attr("fill-opacity", null).transition(t)
       d3.selectAll(".stacked_bar").attr("fill-opacity", null)
     }
   }
-
+  
   stackedbar
     .on("mouseover", function (){
     if (!user_input_player['clicked']){
@@ -592,7 +608,7 @@ createArr(mapdata)
         .attr("fill", "#f2eff2")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2) - 5)
         .attr("y", ypos-50)
-
+     
       tgrp.append("text")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
         .attr("y", ypos-40)
@@ -602,7 +618,7 @@ createArr(mapdata)
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(d3.select(this).attr("data-percent"));
-
+      
       tgrp.append("text")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
         .attr("y", ypos-25)
@@ -612,7 +628,7 @@ createArr(mapdata)
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(convertPlayerNum(d3.select(this).attr("data-person")));
-
+    
       svg.append('line')
       .attr("x1", parseFloat(d3.select(this).attr("x"))+ (parseInt(d3.select(this).attr("width"))/3))
       .attr("y1", parseFloat(d3.select(this).attr("y")))
@@ -626,13 +642,13 @@ createArr(mapdata)
       d3.select(this).attr("fill", color(d3.select(this.parentNode).attr("data-key")))
       d3.select(this).attr("fill-opacity", 1)
     }
-
+      
   })
   .on("click", function () {
     const clicked_player_num = d3.select(this).attr("data-person");
     const clicked_time_percent = d3.select(this).attr("data-percent");
-
-    if (user_input_player['num_players'] == clicked_player_num
+    
+    if (user_input_player['num_players'] == clicked_player_num 
         && user_input_player['percent'] == clicked_time_percent){
       user_input_player['clicked'] = false;
       user_input_player['num_players'] = null;
@@ -641,22 +657,22 @@ createArr(mapdata)
       user_input_player['clicked'] = true;
       user_input_player['num_players'] = clicked_player_num;
       user_input_player['percent'] = clicked_time_percent;
-
+      
       /* Mouse Out Event */
             d3.selectAll(".percentage-line").remove();
       d3.select(this).attr("stroke", "none");
       d3.select("#tooltip").remove();
-
+    
       data.columns.slice(1).forEach(k => {
         d3.selectAll(`.b${k.split("+").join("")}`).attr("fill", color(k)).transition(t)
       })
-
+    
       d3.selectAll(".stacked-rect").attr("fill", null).transition(t)
       d3.selectAll(".stacked-rect").attr("fill-opacity", null).transition(t)
       d3.selectAll(".stacked_bar").attr("fill-opacity", null)
-
+      
       /* Mouse Over Event */
-
+      
          // Get this bar's x/y values, then augment for the tooltip
       var xpos = parseFloat(d3.select(this).attr("x"));
       var ypos = parseFloat(d3.select(this).attr("y"));
@@ -670,7 +686,7 @@ createArr(mapdata)
         .attr("fill", "#f2eff2")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2) - 5)
         .attr("y", ypos-50)
-
+     
       tgrp.append("text")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
         .attr("y", ypos-40)
@@ -680,7 +696,7 @@ createArr(mapdata)
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(d3.select(this).attr("data-percent"));
-
+      
       tgrp.append("text")
         .attr("x", xpos + (parseInt(d3.select(this).attr("width"))/2))
         .attr("y", ypos-25)
@@ -690,7 +706,7 @@ createArr(mapdata)
         .attr("font-weight", "bold")
         .attr("fill", "black")
         .text(convertPlayerNum(d3.select(this).attr("data-person")));
-
+    
       svg.append('line')
       .attr("x1", parseFloat(d3.select(this).attr("x"))+ (parseInt(d3.select(this).attr("width"))/3))
       .attr("y1", parseFloat(d3.select(this).attr("y")))
@@ -703,31 +719,31 @@ createArr(mapdata)
 
       d3.select(this).attr("fill", color(d3.select(this.parentNode).attr("data-key")))
       d3.select(this).attr("fill-opacity", 1)
-
+    
     }
     console.log(user_input_player['clicked']);
   })
   .on("mouseout", function () {
     mouseOutEvent()
-
+   
   })
+  
 
-
-
+   
   svg.append("g")
       .call(xAxis);
 
   svg.append("g")
       .call(yAxis);
-
+  
     var legend1 = svg.append("text")
       .text("% Games for Corresponding Min. Players")
       .attr("x", width*0.25)
-      .attr("y", height*0.2)
+      .attr("y", height*.08)
       .style("fill", "black")
       .style("font-weight", "bold")
       .style("font-size", "20px")
-
+    
      var legend2 = svg.append("text")
       .text("Min. Number of Players")
       .attr("x", width*0.01)
@@ -736,7 +752,7 @@ createArr(mapdata)
       .style("font-weight", "bold")
       .style("font-size", "20px")
       .attr("transform", `rotate(-90,${width*0.01}, ${height*0.9})`)
-
+                
 
   return svg.node();
 }
@@ -751,10 +767,10 @@ function createStacked(){
   let temp = "UT";
   for(i = 0; i< 10; i++){
     let subcontainer = {};
-
+    
       subcontainer["name"] = temp;
     temp += "a";
-
+        
       subcontainer["<10"]= 10;
    subcontainer["10-19"]= 20;
     subcontainer["20-29"]=  30;
@@ -767,9 +783,9 @@ function createStacked(){
     subcontainer["90-99"]= 10;
      subcontainer["100-109"]= 50;
   subcontainer["total"]= 370;
+        
 
-
-
+    
     container.push(subcontainer);
   }
 
@@ -878,7 +894,19 @@ function convertPlayerNum(text){
       return "5 players";
       break;
     case "5":
-      return "5+ players";
+      return "6 players";
+      break;
+     case "6":
+      return "7 players";
+      break;
+     case "7":
+      return "8 players";
+      break;
+     case "8":
+      return "9 players";
+      break;
+       case "9":
+      return "10+ players";
       break;
     default:
       return "-1";
@@ -938,7 +966,7 @@ function input(config) {
   const wrapper = html`<div></div>`;
   if (!form)
     form = html`<form>
-  <input name=input type=${type} />
+	<input name=input type=${type} />
   </form>`;
   Object.keys(attributes).forEach(key => {
     const val = attributes[key];
@@ -1014,7 +1042,7 @@ require("d3-format@1")
 };
 
 const notebook_players = {
-  id: "a18ea2ebc3466068@2206",
+  id: "ea35964298ae9365@2220",
   modules: [m0,m1]
 };
 
