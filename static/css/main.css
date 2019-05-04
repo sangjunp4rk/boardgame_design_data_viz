@@ -16,6 +16,15 @@ html {
 	padding-left: 4vw;
 }
 
+.panel_viz {
+  width: 101vw;
+	height: 180vh;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	padding-right: 3vw;
+	padding-left: 4vw;
+}
+
 .down_arrow {
 	width: 10vw;
 	height: auto;
@@ -35,11 +44,25 @@ html {
 	color: rgb(11, 96, 161);
 }
 
+#back_to_top {
+	position: fixed;
+	bottom: 5vh;
+	right: 5vh;
+	text-align: center;
+	z-index: 10;
+	color: black;
+	/*background-color: rgb(43, 141, 191);*/
+}
+
+a  {
+	color: black;
+}
+
 /** WELCOME PANEL **/
 
 #welcome_panel {
 	background-color: white;
-	background-image: linear-gradient(to bottom right, #FFFDE4, #005AA7);
+	background-image: linear-gradient(to bottom right, rgb(189, 229, 191), rgb(43, 141, 191));
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -54,7 +77,7 @@ html {
 #welcome_header {
 	position: relative
 	padding-top: 15vh;
-	font-size: 5rem;
+	font-size: 7rem;
 	text-align: center;
 }
 
@@ -73,15 +96,43 @@ html {
 	margin-top: 30vh;
 }
 
+#our_names {
+	font-size: 2.5rem;
+	margin-top: 0%;
+	color: white;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+
+.inner_out_names {
+	display: inline-block;
+}
+
 
 
 /** RULES PANEL **/
 
-#rules_panel {
+#description {
 	background-color: lightgrey;
 	padding-top: 5vh;
 }
 
+/* .displayed-text {
+  width: 100%;
+  padding: 25px;
+  background-color: rgb(29, 126, 183);
+  color: white;
+	font-size: 1em;
+  z-index: 0;
+  margin: 2%;
+}
+.hidden-text {
+  position: absolute;
+  padding-top: 80%;
+  color: white;
+  z-index: -1;
+} */
 #rules_header {
 	font-size: 3rem;
 }
@@ -95,7 +146,22 @@ html {
 	position: absolute;
 
 }
+/** DATA INSIGHTS **/
+.insights {
+  font-size: 1.5rem;
+}
 
+.insights_item{
+  margin-top: 20%;
+}
+.data_insights_title {
+  font-size: 2rem;
+  margin-top: 20vh;
+  margin-bottom: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 /** CATEGORY PANEL **/
 
@@ -221,10 +287,83 @@ input[type=radio]{
 	color: rgb(11, 96, 161);
 }
 
+#mechanics_description_div {
+	height: 15vh;
+	padding-top: 5vh;
+}
+
 
 /** RESULTS PANEL **/
 
 #rating_panel {
-	background-color: #005AA7;
+
+/*	background-color: pink;*/
+	margin-top: 4rem;
+  background-image: linear-gradient(to bottom right, rgb(189, 229, 191), rgb(43, 141, 191));
 }
 
+.sub_score {
+/*	border: 2px solid #005AA7;*/
+	text-align: center;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+
+.sub_score_number {
+	font-size: 4rem;
+}
+
+.sub_score_caption {
+	font-size: 1.5rem;
+}
+
+.inner_rating_div {
+	padding-top: 10vh;
+}
+
+.overall_rating_div {
+	padding-top: 10vh;
+	text-align: center;
+}
+
+.overall_score_number {
+	font-size: 8rem;
+	font-weight: bold;
+}
+
+.overall_score_caption {
+	font-size: 1.5rem;
+	margin-top: -4vh;
+}
+
+.score_button_div {
+	text-align: center;
+}
+
+#calculate_score_button {
+	margin-top: 10vh;
+	height: 8vh;
+	width: 15vw;
+	font-size: 1.5rem;
+	background-color: transparent;
+	border: 2px solid #005AA7;
+}
+
+#left-text{
+	position: absolute;
+	top: 47%;
+	font-size: 3rem;
+}
+
+.btn-primary {
+  background-color: rgb(8, 80, 146);
+}
+
+#out_of_ten {
+	font-weight: 100;
+	font-size: 5.5rem;
+}
+
+.sub_score_caption_css {
+	font-size: 2.5rem;
+}

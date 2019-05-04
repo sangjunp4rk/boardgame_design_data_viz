@@ -10,6 +10,31 @@ app = Flask(__name__)
 
 game_data = []
 
+description_dict = {}
+
+with open('data_viz_mechanic_2.csv') as fp:
+	line = fp.readline()
+	# print line
+
+	while line:
+		line = fp.readline()
+		try:
+			header = line.split(",", 1)[0]
+			text = line.split(",", 1)[1]
+			# print line[:-3]
+			# print header
+			# print text[:-3].strip()
+			# print ""
+			description_dict[header] = text[:-3].strip()
+		except:
+			print ("error")
+
+@app.route('/get_descriptions', methods=['GET', 'POST'])
+def get_descriptions():
+	global description_dict
+	
+	return jsonify(description_dict=description_dict)
+
 ######## Routes for Main Page ########
 @app.route('/')
 def main():
@@ -19,10 +44,10 @@ def main():
 def load_data():
 	json_data = request.get_json()
 
-	print "!!!!"
-	print json_data['category']
-	print json_data['mechanics']
-	print json_data['min_players']
+	print ("!!!!")
+	print (json_data)
+
+
 
 	df = pd.read_csv('games_data.csv', sep=',')
 
@@ -53,11 +78,11 @@ def load_data():
 	################
 
 	## CALCULATE MIN PLAYERS ##
-	min_players = json_data['min_players']
+	min_players = int(json_data['min_players'])
 
 	# filter based on min players
-	if min_players == 6:
-		filtered_min_players_df = df[df['minplayers'] > 5]
+	if min_players == 9:
+		filtered_min_players_df = df[df['minplayers'] > 8]
 	else:
 		filtered_min_players_df = df[df['minplayers'] == min_players]
 
@@ -72,10 +97,11 @@ def load_data():
 	average_list = [category_mean, mechanics_mean, min_players_mean]
 	estimated_average = reduce(lambda x, y: x + y, average_list) / len(average_list)
 
-	print category_mean
-	print mechanics_mean
-	print min_players_mean
-	print estimated_average
+
+	category_mean = round(category_mean, 2)
+	mechanics_mean = round(mechanics_mean, 2)
+	min_players_mean = round(min_players_mean, 2)
+	estimated_average = round(estimated_average, 2)
 
 	return jsonify(calculated_rating = estimated_average, category_mean=category_mean, mechanics_mean=mechanics_mean, min_players_mean=min_players_mean)
 

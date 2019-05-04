@@ -1,11 +1,11 @@
-// URL: https://observablehq.com/@tigerlily-he/30-minute-intervals
+// URL: https://observablehq.com/@duhfatbiscuit/30-minute-intervals/2
 // Title: 30 minute intervals
-// Author: Lily He (@tigerlily-he)
-// Version: 2206
+// Author: duhfatbiscuit (@duhfatbiscuit)
+// Version: 2220
 // Runtime version: 1
 
 const m0 = {
-  id: "a18ea2ebc3466068@2206",
+  id: "ea35964298ae9365@2220",
   variables: [
     {
       inputs: ["md"],
@@ -286,13 +286,21 @@ function initializeHashmap(input){
   var thirdSubmap = new Map();
   var fourthSubmap = new Map();
    var fifthSubmap = new Map();
+   var sixthSubmap = new Map();
+   var seventhSubmap = new Map();
+   var eighthSubmap = new Map();
+   var ninthSubmap = new Map();
    var otherSubmap = new Map();
   players.set("1", firstSubmap);
   players.set("2", secondSubmap);
   players.set("3", thirdSubmap);
   players.set("4", fourthSubmap);
   players.set("5", fifthSubmap);
-  players.set("5+", otherSubmap);
+  players.set("6", sixthSubmap);
+  players.set("7", seventhSubmap);
+  players.set("8", eighthSubmap);
+  players.set("9", ninthSubmap);       
+  players.set("10+", otherSubmap);
 
   for (var [key, value] of players) {
     value.set("0-30", 0);
@@ -349,8 +357,16 @@ function test(input){
       insertDataSubmaps15(i, input, players, "4");
     }else if(input[i].minplayers == 5){
       insertDataSubmaps15(i, input, players, "5");
+    }else if(input[i].minplayers == 6){
+      insertDataSubmaps15(i, input, players, "6");
+    }else if(input[i].minplayers == 7){
+      insertDataSubmaps15(i, input, players, "7");
+    }else if(input[i].minplayers == 8){
+      insertDataSubmaps15(i, input, players, "8");
+    }else if(input[i].minplayers == 9){
+      insertDataSubmaps15(i, input, players, "9");
     }else{
-      insertDataSubmaps15(i, input, players, "5+");
+      insertDataSubmaps15(i, input, players, "10+");
     }
    
   }
@@ -490,7 +506,7 @@ createArr(mapdata)
       value: (function(d3,DOM,series,color)
 {
   const svg = d3.select(DOM.svg(series.length * 90, 40))
-      .style("font", "10px sans-serif")
+      .style("font-size", "10px")
       .style("margin-left", `100px`)
       .style("display", "block")
       .attr("text-anchor", "middle")
@@ -515,7 +531,7 @@ createArr(mapdata)
   svg.append("text")
       .attr("x", 80)
       .attr("y", 20)
-      .style("font", "14px sans-serif")
+      .style("font-size", "14px")
       .text("Min. Play Time (minutes)");
   
   return svg.node();
@@ -721,9 +737,9 @@ createArr(mapdata)
       .call(yAxis);
   
     var legend1 = svg.append("text")
-      .text("% Games for Cooresponding Min. Players")
+      .text("% Games for Corresponding Min. Players")
       .attr("x", width*0.25)
-      .attr("y", height*0.2)
+      .attr("y", height*.08)
       .style("fill", "black")
       .style("font-weight", "bold")
       .style("font-size", "20px")
@@ -878,7 +894,19 @@ function convertPlayerNum(text){
       return "5 players";
       break;
     case "5":
-      return "5+ players";
+      return "6 players";
+      break;
+     case "6":
+      return "7 players";
+      break;
+     case "7":
+      return "8 players";
+      break;
+     case "8":
+      return "9 players";
+      break;
+       case "9":
+      return "10+ players";
       break;
     default:
       return "-1";
@@ -938,7 +966,7 @@ function input(config) {
   const wrapper = html`<div></div>`;
   if (!form)
     form = html`<form>
-  <input name=input type=${type} />
+	<input name=input type=${type} />
   </form>`;
   Object.keys(attributes).forEach(key => {
     const val = attributes[key];
@@ -1014,7 +1042,7 @@ require("d3-format@1")
 };
 
 const notebook_players = {
-  id: "a18ea2ebc3466068@2206",
+  id: "ea35964298ae9365@2220",
   modules: [m0,m1]
 };
 

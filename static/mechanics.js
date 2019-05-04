@@ -1,11 +1,11 @@
 // URL: https://observablehq.com/@tigerlily-he/matrix-of-board-game-mechanics
 // Title: Matrix of Board Game Mechanics
 // Author: Lily He (@tigerlily-he)
-// Version: 430
+// Version: 511
 // Runtime version: 1
 
 const m0 = {
-  id: "2d7af585c7b50d87@430",
+  id: "2d7af585c7b50d87@511",
   variables: [
     {
       inputs: ["md"],
@@ -19,6 +19,7 @@ md`# Matrix of Board Game Mechanics
       inputs: ["d3","DOM","width","h","color2","margin","game_data","gridSize","mechanics","gridSizeH","legend"],
       value: (function(d3,DOM,width,h,color2,margin,game_data,gridSize,mechanics,gridSizeH,legend)
 {
+  // width, h
   const svg = d3.select(DOM.svg(width, h))
     .classed("game-mechanics", true)
   
@@ -26,7 +27,7 @@ md`# Matrix of Board Game Mechanics
   // and: https://www.visualcinnamon.com/2016/05/smooth-color-legend-d3-svg-gradient.html
   const defs = svg.append("defs");
   const linearGradient = defs.append("linearGradient")
-      .attr("id", "linear-gradient");
+      .attr("id", "linear-gradient")
   
   linearGradient.selectAll("stop")
     .data(color2.ticks().map((t, i, n) => ({ offset: `${100*i/n.length}%`, color: color2(t) })))
@@ -104,6 +105,31 @@ md`# Matrix of Board Game Mechanics
     // .append("title")
     //   .text(d => d.count)
   
+   var legend1 = svg.append("text")
+      .text("Difficulty (easiest to hardest)")
+      .attr("x", width*0.4)
+      .attr("y", h*0.030)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "18px")
+  
+   var legend2 = svg.append("text")
+      .text("Mechanic")
+      .attr("x", width*0.12)
+      .attr("y", h*0.055)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "14px")
+   
+  var legend_title = svg.append("text")
+      .text("Number of Games")
+      .attr("x", width*0.5)
+      .attr("y", h*0.97)
+      .style("fill", "black")
+      .style("font-weight", "bold")
+      .style("font-size", "14px")
+   
+   
   g.selectAll(".mech")
     .data(mechanics)
     .enter().append("text")
@@ -224,7 +250,7 @@ d3.json("https://raw.githubusercontent.com/sangjunp4rk/boardgame_design_data_viz
     {
       name: "margin",
       value: (function(){return(
-{ top: 40, right: 30, bottom: 70, left: 200 }
+{ top: 60, right: 30, bottom: 70, left: 200 }
 )})
     },
     {
@@ -251,7 +277,7 @@ Math.floor(w / 25 )
       name: "gridSizeH",
       inputs: ["gridSize"],
       value: (function(gridSize){return(
-gridSize*0.5
+gridSize*0.45
 )})
     },
     {
@@ -276,12 +302,34 @@ d3.scaleSequential()
       value: (function(game_data){return(
 [...new Set(game_data.map(x => x['mechanic']))].sort()
 )})
+    },
+    {
+      name: "temp",
+      inputs: ["d3","DOM"],
+      value: (function(d3,DOM)
+{ 
+  const num = 0.7
+  const svg = d3.select(DOM.svg(300, 50))
+  svg.append("circle")
+  .attr("cx", 20)
+  .attr("cy", 20)
+  .attr("r", 20)
+  .style("fill",d3.interpolateGnBu(num));
+  
+  svg.append("text")
+  .attr("x", 60)
+  .attr("y", 20)
+  .style("fill", "black")
+  .text(d3.interpolateGnBu(num))
+return svg.node()
+}
+)
     }
   ]
 };
 
 const notebook2 = {
-  id: "2d7af585c7b50d87@430",
+  id: "2d7af585c7b50d87@511",
   modules: [m0]
 };
 
