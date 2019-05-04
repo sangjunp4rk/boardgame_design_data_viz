@@ -21,7 +21,7 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 
 	$("#category_results_div").append("for <br/> <strong class='sub_score_caption_css'>" + category_text + "</strong>")
 	$("#min_player_results_div").append("for <br/><strong class='sub_score_caption_css'> " + mechanic_selected_name + "</strong>")
-	$("#mechanism_results_div").append("for <br/><strong class='sub_score_caption_css'> " + min_players_selected + "</strong>")
+	$("#mechanism_results_div").append("for <br/><strong class='sub_score_caption_css'> " + min_players_selected + " Players</strong>")
 
 
 }
