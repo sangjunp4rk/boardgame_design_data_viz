@@ -367,3 +367,16 @@ input[type=radio]{
 .sub_score_caption_css {
 	font-size: 2.5rem;
 }
+
+.documentation_link_div {
+	padding-top: 5vh;
+/*	text-align: center;*/
+}
+
+#documentation_button {
+	height: 8vh;
+	width: 10vw;
+	font-size: 1.25rem;
+	background-color: transparent;
+	border: 2px solid #005AA7;
+}
