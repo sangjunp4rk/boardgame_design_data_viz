@@ -38,6 +38,16 @@ function load_rating(overall_rating, category_mean, mechanics_mean, min_players_
 // 	element.classList.toggle("hidden-text");
 // }
 
+// $(document).ready(function() {
+//   jQuery.fn.carousel.Constructor.TRANSITION_DURATION = 2000  // 2 seconds
+// });
+
+$(document).ready(function(){
+	$(".carousel-inner").carousel({
+			interval : 10000,
+			pause: false
+	});
+});
 function convertPlayerNum(text){
   switch(text){
     case "0":
