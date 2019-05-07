@@ -105,6 +105,10 @@ def load_data():
 
 	return jsonify(calculated_rating = estimated_average, category_mean=category_mean, mechanics_mean=mechanics_mean, min_players_mean=min_players_mean)
 
+######## Routes for Documentations Page ########
+@app.route('/documentations')
+def documentations():
+	return render_template('documentations.html', page_name='documentations')
 
 if __name__ == '__main__':
    app.run(debug = True)

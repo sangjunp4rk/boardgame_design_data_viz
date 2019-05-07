@@ -57,7 +57,25 @@ html {
 a  {
 	color: black;
 }
+/* Parallax Dividers **/
+.parallax {
+  margin-top:20vh;
 
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#parallax_div_1 {
+  background-image: url("/static/images/monopoly.jpg");
+}
+
+#parallax_div_2 {
+  background-image: url("/static/images/scrabble.jpeg");
+  margin-bottom: 5vh;
+}
 /** WELCOME PANEL **/
 
 #welcome_panel {
@@ -366,4 +384,17 @@ input[type=radio]{
 
 .sub_score_caption_css {
 	font-size: 2.5rem;
+}
+
+.documentation_link_div {
+	padding-top: 5vh;
+/*	text-align: center;*/
+}
+
+#documentation_button {
+	height: 8vh;
+	width: 10vw;
+	font-size: 1.25rem;
+	background-color: transparent;
+	border: 2px solid #005AA7;
 }
