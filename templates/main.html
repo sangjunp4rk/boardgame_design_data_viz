@@ -105,7 +105,7 @@
           </div>
           <div class="col-lg-11">
             <div class="row" id="rules_header" style="font-size: 3em; padding-top: 5vh; padding-bottom: 3vh;">
-              Tutorials
+              Tutorial
             </div>
 
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="width:90%;">
@@ -118,38 +118,28 @@
 
     <div class="carousel-item active">
       <img class="d-block w-100" src="static/images/firstSlide.png" alt="First slide">
-
-      <div class="carousel-caption d-none d-md-block"style="color: black; font-size: 40px;" >
-
-   <p >First Description</p>
- </div>
-
-
     </div>
+
     <div class="carousel-item">
       <img class="d-block w-100" src="static/images/secondSlide.png" alt="Second slide">
-
-
     </div>
+
     <div class="carousel-item">
-      <img class="d-block w-100" src="static/images/thirdSlide.png" alt="Third slide">
-
+      <img class="d-block w-100" src="static/images/CircleTutorial.gif" alt="Third slide">
     </div>
+
     <div class="carousel-item">
-      <img class="d-block w-100" src="static/images/fourthSlide.png" alt="Fourth slide">
-
+      <img class="d-block w-100" src="static/images/BarChart.gif" alt="Fourth slide">
     </div>
+
     <div class="carousel-item">
-      <img class="d-block w-100" src="static/images/fifthSlide.png" alt="Fifth slide">
-      <div class="carousel-caption d-none d-md-block">
-
-   <p>Fifth Description</p>
- </div>
+      <img class="d-block w-100" src="static/images/Mechanics.gif" alt="Fifth slide">
     </div>
+
     <div class="carousel-item">
-      <img class="d-block w-100" src="static/images/sixthSlide.png" alt="Sixth slide">
-
+      <img class="d-block w-100" src="static/images/Score.gif" alt="Sixth slide">
     </div>
+    
   </div>
 
 
@@ -203,7 +193,7 @@
 
             <div class="row" id="rules_list">
               <div class="col-lg-9"  style="font-size: 1.25em;">
-                1. Explore the visualizations - be sure to click and hover over different parts of the visualization! <br> <br>
+                1. Explore the visualizations - be sure to click and hover over different parts of the visualization! If you get lost, click on the User Guide button. <br> <br>
                 2. Check out the “Data Insights” section to get more insights about the data! <br> <br>
                 3. Design your own board game by selecting your own criteria!  <br> <br>
                 4. At the end of the visualization, see what user rating your board game would receive! <br>
@@ -336,14 +326,20 @@
         <div id="categoryInsights" class="insights">
 
           <ul style="list-style-type:circle;">
-          <li>Broad categories that encompassed mechanics of the game, such as dice and card games, were connected with numerous topical categories. </li>
-          <li class="insights_item">Many connections between different categories are intuitive: for example, the connection between zombie and horror games is strong, along with the connection between novel-based and fantasy games. </li>
-          <li class="insights_item">On the other hand, there are surprising connections. For example, wargame has the greatest number of overlap with miniatures. </li>
+            <li>Broad categories that encompassed mechanics of the game, such as dice and card games, were connected with numerous topical categories.</li>
+
+            <li class="insights_item"> War games and related topics are popular categories of board games, as seen by categories such as World War I, World War II, and Napoleonic.</li>
+            <li class="insights_item">Many connections between different categories are intuitive: for example, the connection between zombie and horror games is strong, along with the connection between novel-based and fantasy games.</li>
+            <li class="insights_item">On the other hand, there are surprising connections. For example, lots of games were jointly categorized as mythology and card games. In addition, prehistoric games were most strongly connected to animals and card games, rather than ancient.</li>
           </ul>
       </div>
 
       </div>
 
+    </div>
+
+    <!-- Monopoly Picture -->
+    <div class="row parallax panel" id="parallax_div_1">
     </div>
 
     <!-- NUM OF PLAYERS PANEL -->
@@ -413,11 +409,12 @@
               <div class="col-md-6 data_insights_title">Data Insights: </div>
               <div class="col-md-3"></div>
             </div>
-            <div id="playersInsights" class="insights" >
+
+      <div id="playersInsights" class="insights" >
             <ul>
-                <li>There is no significant variation in playing times between games with 1-5 minimum players. There are greater variations in playing times between games with 6-10+ minimum players  </li>
-                <li class="insights_item">The bulk of playing times of games with 1-5 minimum players is 0-60 minutes. </li>
-                <li class="insights_item">Unsurprisingly, a large percentage of games that require more than 5 players at minimum had playing times of greater than 2.5 hours.
+                <li>There is no significant variation in playing times between games with 1-5 minimum players. There are greater variations in playing times between games with 6-10+ minimum players </li>
+                <li class="insights_item">The bulk of playing times of games with 1-5, and 7 minimum players is 0-60 minutes, whereas games with minimum players of 6 and 8+ generally had durations of 60+ minutes. </li>
+                <li class="insights_item">Unsurprisingly, a large percentage of games that require more than 5 players at minimum had playing times of greater than 2.5 hours than their counterparts. Looking more closely, it is interesting to note that this trend is clearer for players with greater than 8 players had significantly greater playing times.
                 </li>
             </ul>
           </div>
@@ -432,6 +429,10 @@
 
         </div>
       </div>
+    </div>
+
+    <!-- Scrabble Picture -->
+    <div class="row parallax panel" id="parallax_div_2">
     </div>
 
     <!-- MECHANICS PANEL -->
@@ -503,15 +504,17 @@
           <div class="col-md-3"></div>
         </div>
         <div id="mechanicsInsights" class="insights" >
-        <ul>
-        <li>
-          The vast majority of board game mechanics had difficulties spanning from 1 (easiest) to 3 (somewhat difficult).
-        </li>
-        <li class="insights_item">
-            Hex-and-Counter and Dice Rolling had the greatest numbers of games that were classified as 5 (most difficult) in the difficulty scale.
-        </li>
-        </ul>
-      </div>
+          <ul>
+          <li>
+            The vast majority of board game mechanics had difficulties spanning from 1 (easiest) to 3 (somewhat difficult).
+          </li>
+          <li class="insights_item"> The intensity of the color reflects the actual count of games, so the heat map is skewed towards more popular game mechanics. </li>
+          <li class="insights_item">Interestingly, although there were not as many game mechanics spanning in between 1.0 and 2.0, there were many that were different increments spanning from 2.0 to 3.0. </li>
+          <li class="insights_item">
+              Hex-and-Counter and Dice Rolling had the greatest numbers of games that were classified as 5 (most difficult) in the difficulty scale.
+          </li>
+          </ul>
+        </div>
 
       </div>
 
@@ -578,6 +581,13 @@
           <div class="col-lg-12 score_button_div">
             <a>
               <button type="button" class="btn btn-primary" id="calculate_score_button">Calculate Rating</button>
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 documentation_link_div">
+            <a href="{{url_for('documentations')}}">
+              <button type="button" class="btn btn-primary" id="documentation_button">Go To Documentation</button>
             </a>
           </div>
         </div>

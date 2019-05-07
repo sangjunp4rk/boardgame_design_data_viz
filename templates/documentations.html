@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Designing the Perfect Board Game</title>
+<!--     <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon"> -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <style>
+      .documentation_div {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+        font-size: 1.7rem;
+      }
+
+      .text_font {
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="row documentation_div">
+      <div class="col-lg-2">
+      </div>
+      <div class="col-lg-8" id="text_font">
+<strong>README:</strong> Please zoom out until there are no overlaps between visualizations – because of the way we imported SVG from Observable, it has been difficult to dynamically resize them. Please zoom out (zoom 90% on 15-inch screen, but zoom 67% on 13-inch screen) until the visualizations look like the sample image at the bottom! Thank you :)
+<br/> <br/>
+Link: https://tigerlily.pythonanywhere.com/
+ <br/> <br/>
+“How to Design the Perfect Board Game” focuses on addressing the lack of interactive, fun, and data-driven resources available for board game designers. After seeing various statistical analyses and resources tailored only for board game players, we wanted to provide the same for those who are interested in designing games. We thus created an interactive guide that allows users to explore different aspects of board games, choose their own criteria, and get expected user ratings based on their selections. We were inspired by FiveThirtyEight’s <a href="https://fivethirtyeight.com/features/designing-the-best-board-game-on-the-planet/?fbclid=IwAR0AR7wVZnycRnRSR9qGhtdxVdKWoUTS7VSOLBeTGauVCyNd3442jHUbuxE">“Designing The Best Board Game On The Planet”</a> and Dinesh Vatvani’s <a href="http://dvatvani.github.io/BGG-Analysis-Part-1.html?fbclid=IwAR2yvMC0dahRDBu6pp0yeQIHZ0kgBle_kyt8H_QkCu2y3CXApq-xCvrTPG4">Analysis of Board Games</a>.
+ <br/> <br/>
+The data is from <a href="https://github.com/dvatvani/dvatvani.github.io/blob/master/static/BGG-analysis/scraper_and_data/games_Jan2018.csv">Board Game Geeks database</a>, which included 95,779 data points and 24 columns. We did exploratory analysis using Tableau to catch interesting trends and relationships, and cleaned up the data using Python. We built all our visualizations using D3.js in Observable, and HTML/CSS, Javascript, jQuery, and Bootstrap for the website.
+ <br/> <br/>
+Inspired by the Game of Thrones <a href="http://beta.wind-and-words.com/">Winds and Words</a>, our first visualization shows the relationship between different categories. We created a hashmap data structure to count the number of overlaps in our data points’ categories and included interactivity to our visualization so that users can explore different categories. We heightened the clarity and relevance of the visualization by omitting weak relationships – if there are less than 100 overlaps between two categories, there is no line between the two.
+ <br/> <br/>
+Our second visualization shows the distribution of minimum playing time for a given minimum number of players. We normalized the data to illustrate proportion, rather than actual count, of playing times and displayed the information using stacked bar charts as to not overwhelm the users. Additionally, although we initially started with showing the game-playing duration of 1 through 5+ players, we expanded our scope to up to 10+ players. Including up to 10+ players showed more evident trends of game-playing duration and ensured that we are not limiting the range of options for our users.
+ <br/> <br/>
+Our third visualization addresses mechanics, which is important in designing board games, but possibly difficult to understand. We initially planned for our users to select desired minimum age of players, narrow down to desired level of difficulty, and generate recommendations of popular mechanics that fit the selected criteria. However, because we wanted to provide applicable, trends of how mechanics charted with difficulty, rather than generating simplified recommendations, we created a heat map showing different mechanics and respective levels of difficulties. Although overwhelming at first, the heat map overlays lots of information, and hovering shows a pop-up with the mechanic, difficulty, and frequency. It also shows an explanation of each mechanic in order to familiarize users with board game jargon.
+<br/> <br/>
+The final part of our visualization was the estimated user rating based on selections. We calculated the average of user ratings of selections in categories, number of players, and mechanics. We noted that the rating was out of 10 points to avoid confusion.
+ <br/> <br/>
+Our overall design and user experiences decisions centered around a choose-your-own adventure, board game-like experience. To not overwhelm our users, we were selective in what users will see at first glance, and provided further information with direct manipulation and exploration, such as clicking and hovering. In addition, we included a tutorial, user guide, and data insights throughout our visualization to guide users and provide information about interesting data trends.
+<br/> <br/>
+The audience enjoyed the interactive and exploratory nature of our visualization. Although we could not get feedback from our intended audience (board game designers), our work provided more insight into the different layers of board games for the general audience. For our group, building these visualizations encouraged us to evaluate important aspects of game ideation and development.
+<br/> <br/>
+Possible extensions of our project are gamifying the process and incorporating more visuals relating to board games. We did not have the technical bandwidth for gamification, and finding appropriate available visuals proved to be difficult. With more time, we would refine our work in this way to strengthen our work’s connection to the theme of board games.
+      </div>
+      <div class="col-lg-2">
+      </div>
+    </div>
+  </body>
+</html>
