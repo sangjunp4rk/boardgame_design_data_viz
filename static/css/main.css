@@ -25,6 +25,12 @@ html {
 	padding-left: 4vw;
 }
 
+.carousel-inner .carousel-item {
+  transition: -webkit-transform 2s ease;
+  transition: transform 2s ease;
+  transition: transform 2s ease, -webkit-transform 2s ease;
+}
+
 .down_arrow {
 	width: 10vw;
 	height: auto;
