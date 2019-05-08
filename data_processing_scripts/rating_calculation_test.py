@@ -18,15 +18,19 @@ for item in df['categories']:
 print unique_categories
 
 ## CALCULATE CATEGORY RATING ##
-category_name = 'Economic'
+category_name = 'economic'
 
 # filter based on category
-filtered_categories_df = df[df['categories'].str.contains(category_name) == True]
+filtered_categories_df = df[df['categories'].str.lower().isin([category_name.lower()]) == True]
 
 # filter 0s
 filtered_categories_df = filtered_categories_df[filtered_categories_df['average_rating'] != 0.0]
 
 category_mean = filtered_categories_df['average_rating'].mean()
+
+print filtered_categories_df['categories']
+print df['categories'].str
+print category_mean
 
 ################
 

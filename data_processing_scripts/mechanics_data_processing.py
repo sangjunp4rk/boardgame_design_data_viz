@@ -50,16 +50,21 @@ reader = csv.reader(f)
 headers = next(reader, None)
 # ['id', 'average_weight', 'mechanics']
 
+# mechanics_of_interest = ['Acting', 'Singing', 'Story Telling']
+
 for row in reader:
 	raw_weight = float(row[1])
 	if raw_weight == 0:
 		continue
+
 	binned_weight = weight_bins(raw_weight)
 
 	mechanics_raw_string = row[2]
 	mechanics_split = mechanics_raw_string.split(',')
 
 	for mechanic in mechanics_split:
+		# if mechanic not in mechanics_of_interest:
+		# 	continue
 		if mechanic == "":
 			continue
 		if mechanic in game_dict:
@@ -83,7 +88,7 @@ for mechanic in game_dict:
 
 		output_data.append({"mechanic": mechanic, "weight": weight, "count": temp_dict[weight]})
 
-f = open("formatted_data.txt", "w")
+f = open("formatted_data_easy_test.txt", "w")
 f.write(json.dumps(output_data, indent=4))
 f.close()
 
